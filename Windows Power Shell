@@ -1,0 +1,43 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Windows Power Shell",
+      "id": 1,
+      "ideas": {
+        "-1": {
+          "title": "Abrir pasta atual usando o terminal",
+          "ideas": {
+            "1": {
+              "title": "ii .",
+              "id": "4.815d.413060b68-22b4.d4dc7a782",
+              "attr": {
+                "style": {
+                  "fontMultiplier": 2
+                }
+              }
+            }
+          },
+          "id": "3.815d.413060b68-22b4.d4dc7a782",
+          "attr": {}
+        }
+      },
+      "attr": {
+        "position": [
+          -79,
+          -24,
+          1
+        ],
+        "style": {
+          "fontMultiplier": 1.75
+        }
+      }
+    }
+  },
+  "attr": {
+    "theme": "straightlines"
+  },
+  "title": "",
+  "links": []
+}
