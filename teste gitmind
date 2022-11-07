@@ -1,0 +1,27 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "teste gitmind",
+      "id": 1,
+      "attr": {
+        "position": [
+          -47,
+          -15,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "teste gitmind",
+          "id": "2.4233.d2c077c79-0000.db6b09c37"
+        }
+      }
+    }
+  },
+  "attr": {
+    "theme": "default"
+  },
+  "title": ""
+}
