@@ -520,6 +520,16 @@
                 "1": {
                   "title": "É um gerenciador de tarefas por tempo.\nNele conseguimos definir que determinado script rode a cada horário especificado",
                   "id": "169.e227.427313182-3a66.3d2286bd"
+                },
+                "2": {
+                  "title": "Para editar, basta digitar no terminal: crontab -e",
+                  "id": "170.e227.427313182-3a66.3d2286bd",
+                  "ideas": {
+                    "1": {
+                      "title": "primeiro devemos passar a frequencia que o script será executado",
+                      "id": "171.e227.427313182-3a66.3d2286bd"
+                    }
+                  }
                 }
               }
             }
