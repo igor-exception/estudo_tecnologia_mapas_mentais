@@ -1,0 +1,510 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Docker Storage",
+      "id": 1,
+      "attr": {
+        "position": [
+          -52,
+          -15,
+          1
+        ],
+        "style": {
+          "fontMultiplier": 2.5
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Fonte https://docs.docker.com/storage/",
+          "id": "2.a1f8.2946fd04f-347d.c4111739a",
+          "attr": {
+            "position": [
+              215,
+              -147,
+              5
+            ]
+          }
+        },
+        "2": {
+          "title": "Temos três opções para persistir dados na máquina local",
+          "id": "6.a1f8.2946fd04f-347d.c4111739a",
+          "ideas": {
+            "13": {
+              "title": "Independente da forma de pesistencia, o acesso dentro do container será o mesmo. o acesso aos dados será da mesma forma",
+              "id": "11.a1f8.2946fd04f-347d.c4111739a",
+              "attr": {
+                "position": [
+                  34.90625,
+                  395.9062499999998,
+                  3
+                ]
+              }
+            },
+            "6.5": {
+              "title": "Tipos",
+              "id": "26.a1f8.2946fd04f-347d.c4111739a",
+              "ideas": {
+                "2": {
+                  "title": "Volumes",
+                  "id": "7.a1f8.2946fd04f-347d.c4111739a",
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFCC00"
+                    },
+                    "position": [
+                      95.90624999999977,
+                      19.937520980834847,
+                      1
+                    ]
+                  },
+                  "ideas": {
+                    "5": {
+                      "title": "Comandos",
+                      "id": "21.a1f8.2946fd04f-347d.c4111739a",
+                      "ideas": {
+                        "1": {
+                          "title": "docker volume prune",
+                          "id": "20.a1f8.2946fd04f-347d.c4111739a",
+                          "attr": {},
+                          "ideas": {
+                            "1": {
+                              "title": "Podemos remover volumes que não estão sendo usados rodando",
+                              "id": "19.a1f8.2946fd04f-347d.c4111739a",
+                              "ideas": {},
+                              "attr": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "docker volume create [nome volume]",
+                          "id": "17.a1f8.2946fd04f-347d.c4111739a",
+                          "attr": {},
+                          "ideas": {
+                            "1": {
+                              "title": "Para criar um volume",
+                              "id": "16.a1f8.2946fd04f-347d.c4111739a",
+                              "ideas": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "title": "docker volume ls",
+                          "id": "60.a1f8.2946fd04f-347d.c4111739a",
+                          "ideas": {
+                            "1": {
+                              "title": "lista volumes",
+                              "id": "61.a1f8.2946fd04f-347d.c4111739a"
+                            }
+                          }
+                        },
+                        "4": {
+                          "title": "docker volume inspect [nome volume]",
+                          "id": "63.a1f8.2946fd04f-347d.c4111739a",
+                          "attr": {
+                            "style": {
+                              "width": 247
+                            }
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "Mostra detalhes do volume",
+                              "id": "64.a1f8.2946fd04f-347d.c4111739a"
+                            }
+                          }
+                        },
+                        "5": {
+                          "title": "docker volume rm [nome volume]",
+                          "id": "65.a1f8.2946fd04f-347d.c4111739a",
+                          "attr": {
+                            "style": {
+                              "width": 254
+                            }
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "remove volume",
+                              "id": "66.a1f8.2946fd04f-347d.c4111739a"
+                            }
+                          }
+                        },
+                        "6": {
+                          "title": "Criando e inspecionando container",
+                          "id": "67.a1f8.2946fd04f-347d.c4111739a",
+                          "ideas": {
+                            "2": {
+                              "title": "Primeiro criando",
+                              "id": "69.a1f8.2946fd04f-347d.c4111739a",
+                              "ideas": {
+                                "1": {
+                                  "title": "",
+                                  "id": "70.a1f8.2946fd04f-347d.c4111739a",
+                                  "attr": {
+                                    "icon": {
+                                      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAS4AAACECAYAAAAusMZ/AAASwElEQVR4nO3df0yb94HH8Xd7VdXTaVSK8uAoiFxQ2J0CdahyWXQ3JYhudjPN6VbRXTLcdaH8F04D7o/TBQRttiCYbtIdpif4z6HLYlZuResaqmV2G5TmdKeURSUeZLslSpYIBDxRpEU6Kep1cH88j41tjH8QO/CQz+uv2A/PD0P84ft88fN5nlhaWlpCRMRBngJYXFzi88VFPv/T4nofj4hIVk8tLi7x4P8+X+/jEBHJ2ZOfL2qUJSLO8qROD0XEaZ5c7wMQEcmXgktEHEfBJSKOo+ASEcdRcImI4yi4RMRxFFwi4jgKLhFxHAWXiDiOgktEHEfBJSKOo+ASEcdRcImI4yi4RMRxFFwi4jgKLhFxHAWXiDiOgktEHEfBJSKOo+ASEcdRcImI4xQ5uEw+PHmSD++udfVxmhpCTDzkUSycD+AKTj/kVjaPu++cZqBnKoevNLlz8lVu/abohySSl6eKs1mTD0+2ceaG/fAfX2X2n8/y2nPF2ZsUi0H5t7z8dmIKnqte74MRiSvKiOvaUBtndnYw9G+NVO5q5EdnFFqO9ZyPv7j1H9xZ66hZpAiKNOJKsHM7Rj5fb47T1BJhLP5EFc2rLPM1thI8tLz1iWAnvvDyemPDfvattv1KD9FTdZRinUq6h8yV65njNPVD84FJfPby1H2u8iIY7QrBkRrO9djHG9/fNH0NYXb0t1JvACmPJ4KdXCrzcHUodb2Hc/ed04wcu7/8xBu5rmnw7Jdh7ooJL+b1kxQpmqIE1+7GDr76Wg+NH0Lla325r2iO09QyyeH+boJG7PFs+mVM09cQoG97N21uO7RueogOZ3iTr9gGEA3hnvEyP1wVf+wKTjPfZD++HmHgQCvzw4a9fpiJQ2kCceXOOD4C0eFugpiMdgUIRetoc2f/NvQOTTLY303QyG+91dx95zQjv6jgyIM6tsYe38i6WlzJi3/PvdfGmH+xEdfaD0OkYIo04qrmtTNn+dqvTvJPZ9poPANfzWGOa+HKJGNe73KoJJqbTVlWxQEvDMya4Da5FDYY7M8QWuEQrnAVY8OtSaEz8ck0hKdxhROerNzOAlX2tqpojo2wjDqCw1leeoL2I7HjMag/1Z3zer5Gvz0aM9hRAedmTXBnH+V9/GqI6Luxx+W88KCe3Zhc+8V9ylqt0Fqbav78qz388Vc+XBp1yQZQ1FPFu7O/twKLIRp/FuZrz3nzO20sJK+faFkYd9f4ilOv9o7uhxrRbAwGB8+2cvBscbbuOtzIH//9U+6/6KWkOLsQyVkRPw5hMnvri2zfBubsrZzWKN1uQPhT++MP0/QlznVt244vHGY0NhVljjMQNji818AafZkcfz/zRx5KD7UyVhHBnfDRiB1lBr09D/+Ri/yY3J6z/jURDNFb1H0ZbK2GmYj98YfLo8lzXbna6uXZnUPc00cjZAMowohr5Uch2NXIj07mMNpy+xnzduJr6AQMBvv9tLd8ai0z6gh2zOJq6eS4/eXtHd32KRXsa2plsCuAqyG2sfST88tfZy8/1MrYTGyfltwm4NeqCn+jgbunk16s08LBynDWtR7G7g4P//NMhIEfROCVGo5chJFI/ttx7fPy25+Fuf+cRl2yvp743wefLRVn01OcOTnL13IJLHEIkzsn2/jTt86yUx9vkXVUvDmuu7P8oWgbl/VhUH6ySJNoInko4ohLRKQ4dJG1iDiOgktEHEfBJSKOo+ASEcdRcImI4yi4RMRxFFyPQoGaXDcWtaPK+lFwOUxxaqitiqD4daA5sdpRH0zkUgEtUlgKLlk7taPKOtkkn5yf4r1nfseWt/9I1G4+KHnbz3eO2ldJzozzk12TxDsRXqnhyNk6tqasV3bRA7URZuJdVqnNocvPZ5WmyXX5ou9p+hqWWyHiF3XHiw5b4xePEw3hGtlOtAVOJG0vZV0yNLmS2g5rMJjQuOpbcY33Ku2xadz/1Unm+Af+Sj1d8ggVv7r5kblD9Bc1VsvnzDg/2fUx147aIVNWx3ce1MW/8lpPgP+8XMc399vr3fBw5O3LjNRexn3DA7suc3cGmBll5MZ+mh/YN4q4PMpAzxS7O7LcOCJTkysmo11hdvR3M2/EHocY3dtKvVFHszfCwBWTejuMJj6ZxnfAS6lhEByus8Jpxrvc0BqTqcnVHGdglXbYfU3dzDel1knnTu2osh42XHCldqOXXWy1AwYrOGrvxJcljaoowf0vdstnmcEXuGmFTxlYI7IIMwn7Kdllwn57vWPVcOkyvLGfg2Xwnv011yJ34Ad3rDqYmFe2cBcytolmbHI1pzh33WQsoZ4HoH0OMGDfSx7on2LhkNVPfylcRfNw9jTJ2ORqlLLnegh3w2R8pFU4akeVR2/DBdfWo6/TfHSVhfvraX6Q/zav9USYecNDsz1SutYT4Nc5rpsUnIWS6QYYRjWHCXHJrKN+7lN6vc8zn+NmV29yraJtuJs2TEa7OnFdL2zrq9pR5VF7DCbnTe5OQckuOyZmxvn1D3Jb09hVwkztKNfy3GPGJlejlD3XI5w4v9qf8Azqjxicu2Iy8YnJ4EvJp4Sl2w24ucBCylq5Nbla3ffRRoOrs2bS8zsql1tZ86Z2VHnENtyIq/AMDraWE60NMXAMoBz32yU5dYVtPfo6L9wIcOGZABfs55JPT1eRqcmVKtr6PTS1BHANEX8uaTLc/Tx7egL4vH57Hixx214GRwK4G6zT19jkfGmmJtdoCFdPwkcoKj1ETyVu2KD+SBUuu5U1n8n5GLWjyqO0Sf6qKOtP7ajy6Ci4RMRxHoM5LhHZbBRcIuI4Ci4RcRwFl4g4joJLRBxHwSUijqPgEhHHUXCJiOMouMRB7IvEGzpx5d3Y+rixvld90fXbfzGrvRVcD2WK9545zccz2b9SCsG6SHx+2E97usXRkB1qnbjy6vhf7zd5qrVUaacwpziHB3+BGkDyV9xqbwWXbBLT9PXA2HA388PdjHmn8RW8m985Jt6PwIHq9NVJj0oRq703RTvE3XdO80sq+MKxSWZeqeGFb9zkwrH7CU0OJh+/GiL6rr1CvLrZLi68sT/e1ZX4OGm7QGJ187WeABfsepyZXQGiKcszmv8pvSPfXe7ZKr9I38t/az+YI/z2DsZiXYolP6b92LdxAZM/f5oPttymvXYbpD6e/ym9v4SvV4xyevLnALhqlr82dZ+Zlu35ymc0ZSl5XTgf4AQ17BmK0FvpYezAJL4h02qk2Du1ooJ64XwA96Uau4J6lXpqu6MsuU4616aKKtqGlyuA9n2pCkYWrCLFLK8jXncdb8dYrrZeUcGd2KUWDeH65HnGCMWPN7HnbGUt9urbja2XtE68bDLfto40BZQZXof1s/Ry+FKI49eTjzPTsuwMnv0yzF0xocAlk5siuADuH7vJX97wwK4IF6rtKuYbVmvVx6+G+MM3/DSftb5513oCjPQY8bDKvN1JvnCxleb9dgHhOya7jxrs7mhld8cU7z1zmS03XudgWe7HOvlf38X1lc9oX7F7K7QmKm7TlxBOvT/fmRBsmQ72u3zAbfq+N2KH0Wkma9upsYMp/T7/m+DITb7+vc+oiT1+q5fJ6nZqVvTmW9o7uvEDY0OTHO73094SwlfhJ9oYxj1jwqHUCmqTS5dM2o/UUWqwej019hsXf7yCeuF8AHfX+OrFi6tI3GYmpYdamT9kMtoV4PaRNOWKRh3B4eXa74lgJ6Fo3fLXhUNc6uhmvgk7gMfxu+vgfABfvC47tv3YG36avpZZmoe7CWI/bggxMezPXKWd4eeReNwL58NcbfTTlsfrGBsKsaejm3m3/T1/f5p6ux4807JsilXtveGCa83VzfHa5YQqZgAWuPduOX9zdvl/wG5PORcCJjmNYN/wxPdv7Crh/o0F4OF+e2zb8jJXP3qatt9fTAmkW9y5/32+HhsJATVf/D5M3GKeHIKLhHVd36b9e9Y/5383ynz5xTShBUxd4CpvcvWtNxOefJnyecCV/J890cIs4PVSb0AfhlV4eGV5eJFUQW3Pt/zQnWZZ0ujA5PZNg8GW5TdF6d4afEOz3Iacg2shFhpNhfgtn3xjEwBfmQlue9uVCfNIbj/z9r9Tix4Bq7zRbUD0U3qZhoTuNDAYNGFfpkM2Vv95JB5vaAgO96duKMvr8PrjIVa6twbfJWu0mmlZbj+P4lR7b7jgKkZ180bjqh2hrxaY6qXtrdqk08F1UZ4aoLYsI66MjGoOEyAUrcM/OwkH/Mv/0R+injqb+ClpniO01UwEQ/R6/fGbk0wEOxnIYT0rcCPxwke8fuYPJbxxE7aZs1xGXNFP6fV6VxRQrvV1FEIxqr03XHAVXilbXonET/HA5OPAHUq+cdCa4wKYskZfW2fG+eWx+/BGPtu+z734TTnyVN1OX/ULBN+6wBzgYiflJW/ywcXXqandBswRnngTV8VtXMAcMH/vFrANpno5fQdcW7LvxvXX9bhG/pXw/Aje1HTcWoHro1qCU2nmtTL8hl+YTft04spWq+onIQgbKTf8sOqpm66Y7JhJrKc22FFh4ks4FZl4P8KY12+fUmU2Eey0RlqrhZbdBJt4S7fl/cK52YQRCGCNAMF3wH7OHGcgDDTmcCzvR9jT0U0w3V/1tm3HFw7R96XVev8TqrSTDjPbiMtkdMRMGrGu5XVYE/ut1vxXhmU52+rl2Z2vcu83XkoKVDL5GASXwcGzHu49E6tuBt7w0GyfYm49up+yYxFG3p0EynnhYjkXIqtubOW2W8sZqA3Yv71ymZxPmXzHmgy35pe24T12kTtv7aBt0l5YfjE+31Xzdz/GNVJL21tAyY95veZlPsjlMF3fpv0rN2kbeTr+2zo+OR9b9tHTtH1kLyzUCND9PO099m/6NMvS1VPva2plsCuAq8F+otJD9FTsjZhyutPSyfHYZDH2m5GEUQ4po5Ft2/ExzdiMSerp/r6XPBCv045NQFvhe7wn9nwVg40G53J46fte8jDQ0pn8PYyNeIw6gh2zCVXZpNxAZY1V2tEwx6khuuKMLIfXEQ4t3yEqdXSYaVmOCl3trQZUKSIraCjgHYUejjVJfu5A6oir8CaCnQyUJewn3c1+CyrDHxiyWPVenVmW5Xt8haz2fgxGXLJeFs6H6a30EN0AoRX72MPK08RisE7NkqYP5mYZw6C5aLu2Ppy7cRmUnzxbsK0puKTw4ncVqmIszd2z14P1sYdHtTeD+hYP55Lu5GSdfuZz5yRZnU4VRcRxdMmPiDiOgktEHEfBJSKOo+ASEcdRcImI42yu4DLHaWropOn8o6jGVBunyHrZXMH1SGVp48yoSI2b0RCurvG0zQQim8nm+gBqTrUfIuJ0Gyu4zHGa+uFwRYTjaRol09Z62BeuJjZHpharTQQ7uVTm4eqQvW78glbr+q7jJLdBuoeMhItaV35NLlLbL2PHlLVxM+VC4uRLVOxjuR7bauzi28R1ppOrVB76GjORjWdjBRfA9QjHK+wGzIRGyVKm6WtJqAqJ1f3ab0yrOdK+0DTNZnuHJhns7yZoWF9jtT8a1J9qha4AJ85XE9w7xYmk0Fo763jsB+Y4Tf3jLLjrsjRumox2hdnR3203JpiMdoUY3WuHWjRsfW9OpYZRFW3D3bSlVCCLbFYbL7ioYiw2Sti2Hd/1DO2XmZal8DX67RFNaveSQf0pP7cbAriG0l1PZs1l1ef5KpJGVvbras52rOYU566bjMW7xi3tsV4mu8fJFc63g1xkc9mAwbWaKg54wZdyelW4N6+BL11521qY45wYgsH+7oQbI2Rt3rNUZjgljc/hTdPX0IkvrxsXiGwezvmrojnOwE0PUfv2U/PDhXrDWqdjdLQSbPFwtSf1fnz2xx7y+WudXWGywz6+ifdT63atUd/V2ZTPUBil7Lke4UTWj3NYp4ZjXjtoYxJGqCKbmXNGXEYdzRWdSe2Wy5PaKZPW9qgsdZJ+JXu9ithNDur4YWMAd0Mgh5FMhjZOt5fBygA++2YIvkYP7SSPuNI3blbR1u+hKakOZfm0cMXpp3f55gzx75G3M75fTc7LZuWcWhv7dKs5YW4nfisrvTlFHivOOVWcm0053bJvAFCmCR6Rx41zRlykuTOwToVEHkuOCi4REXDSqaKIiE3BJSKOo+ASEcdRcImI4yi4RMRxFFwi4jgKLhFxHAWXiDiOgktEHEfBJSKOo+ASEcdRcImI4yi4RMRxFFwi4jgKLhFxHAWXiDiOgktEHEfBJSKOo+ASEcdRcImI4zz51J8pu0TEWZ586kkFl4g4yxNLS0tLi4tLfL64yOd/Wlzv4xERyeqJpaUl3VdRRBxF54ki4jgKLhFxHAWXiDiOgktEHEfBJSKOo+ASEcdRcImI4yi4RMRxFFwi4jgKLhFxHAWXiDiOgktEHEfBJSKOo+ASEcf5f7n3bDPRFD6GAAAAAElFTkSuQmCC",
+                                      "width": 300,
+                                      "height": 131,
+                                      "position": "left",
+                                      "metaData": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "13": {
+                              "title": "inspecionando parte de mounts",
+                              "id": "71.a1f8.2946fd04f-347d.c4111739a",
+                              "ideas": {
+                                "1": {
+                                  "title": "",
+                                  "id": "68.a1f8.2946fd04f-347d.c4111739a",
+                                  "attr": {
+                                    "icon": {
+                                      "url": "data:image/png;base64,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",
+                                      "width": 432,
+                                      "height": 250,
+                                      "position": "left",
+                                      "metaData": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "attr": {
+                            "collapsed": true
+                          }
+                        }
+                      },
+                      "attr": {
+                        "position": [
+                          142.453125,
+                          66.95314598083485,
+                          3
+                        ]
+                      }
+                    },
+                    "6": {
+                      "title": "prática",
+                      "id": "72.a1f8.2946fd04f-347d.c4111739a",
+                      "ideas": {
+                        "1": {
+                          "title": "docker-compose",
+                          "id": "73.a1f8.2946fd04f-347d.c4111739a",
+                          "ideas": {
+                            "1": {
+                              "title": "É possível criar um volume externo, e chama-lo dentro do docker-compose",
+                              "id": "74.a1f8.2946fd04f-347d.c4111739a",
+                              "ideas": {
+                                "1": {
+                                  "title": "",
+                                  "id": "76.a1f8.2946fd04f-347d.c4111739a",
+                                  "attr": {
+                                    "icon": {
+                                      "url": "data:image/png;base64,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",
+                                      "width": 250,
+                                      "height": 210,
+                                      "position": "left",
+                                      "metaData": {}
+                                    },
+                                    "position": [
+                                      187.45312499999955,
+                                      -133.0312919616706,
+                                      1
+                                    ]
+                                  },
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Nesse caso, preciso criar primeiro o volume antes de rodar o docker-compose up",
+                                      "id": "77.a1f8.2946fd04f-347d.c4111739a"
+                                    },
+                                    "2": {
+                                      "title": "criar volue: docker voluem create myapp",
+                                      "id": "78.a1f8.2946fd04f-347d.c4111739a"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2.5": {
+                      "title": "infos",
+                      "id": "22.a1f8.2946fd04f-347d.c4111739a",
+                      "ideas": {
+                        "1": {
+                          "title": "Ao cria-lo, o volume fica isolado do acesso de outros programas, é administrado pelo Docker",
+                          "id": "18.a1f8.2946fd04f-347d.c4111739a"
+                        },
+                        "2": {
+                          "title": "São armazenados em uma parte do filesystem da máquina host, que é gerenciado pelo Docker. Processos que não são do docker, não devem interferir(nao teriam acesso para alterar)",
+                          "id": "12.a1f8.2946fd04f-347d.c4111739a"
+                        },
+                        "3": {
+                          "title": "Podemos dar um nome para um volume, ou deixa-lo anonimo. O funcionamento é o mesmo",
+                          "id": "23.a1f8.2946fd04f-347d.c4111739a"
+                        },
+                        "4": {
+                          "title": "Segundo a documentação, é possível usar 'volume drivers' para armazenar arquivo em host externo.",
+                          "id": "24.a1f8.2946fd04f-347d.c4111739a"
+                        },
+                        "5": {
+                          "title": "Volumes são os mais indicados, isso pq garante maior controle pelo Docker.",
+                          "id": "27.a1f8.2946fd04f-347d.c4111739a",
+                          "ideas": {
+                            "1": {
+                              "title": "Benefícios dos Volumes em relação a Bind Mounts",
+                              "id": "28.a1f8.2946fd04f-347d.c4111739a",
+                              "ideas": {
+                                "1": {
+                                  "title": "São mais fáceis de fazer backup",
+                                  "id": "29.a1f8.2946fd04f-347d.c4111739a"
+                                },
+                                "2": {
+                                  "title": "É possível gerenciar volumes usando o Docker Cli e Docker API",
+                                  "id": "30.a1f8.2946fd04f-347d.c4111739a"
+                                },
+                                "3": {
+                                  "title": "Funciona em windows e linux",
+                                  "id": "31.a1f8.2946fd04f-347d.c4111739a"
+                                },
+                                "4": {
+                                  "title": "Pode ser compartilhado entre diversos containers ao mesmo tempo",
+                                  "id": "33.a1f8.2946fd04f-347d.c4111739a"
+                                },
+                                "5": {
+                                  "title": "Volume drivers deixa armazenar volumes em hosts remotos e cloud, encryptar ou add outras funcionalidades",
+                                  "id": "34.a1f8.2946fd04f-347d.c4111739a"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
+                        "position": [
+                          134.09373855590798,
+                          -115.1718540191655,
+                          4
+                        ]
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Temos uma outra forma de armazenamento, que seria na memória do host. chamado de tmpfs mount. Mas não é persistido",
+                  "id": "10.a1f8.2946fd04f-347d.c4111739a",
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFCC00"
+                    },
+                    "position": [
+                      57.20311927795365,
+                      459.34374618530205,
+                      2
+                    ]
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "É armazenado na memória do host, e não é escrito em disco",
+                      "id": "14.a1f8.2946fd04f-347d.c4111739a"
+                    }
+                  }
+                },
+                "2.5": {
+                  "title": "Bind Mounts",
+                  "id": "8.a1f8.2946fd04f-347d.c4111739a",
+                  "ideas": {
+                    "1": {
+                      "title": "bind mount seria montagem por ligação",
+                      "id": "9.a1f8.2946fd04f-347d.c4111739a"
+                    },
+                    "2": {
+                      "title": "Pode ser armazenado em qualquer lugar do host, inclusive pode ser arquivo ou pasta importante, onde qualquer outro processo pode mexer.",
+                      "id": "13.a1f8.2946fd04f-347d.c4111739a",
+                      "ideas": {
+                        "1": {
+                          "title": "Principal diferença entre Bind Mounts Vs. Volumes, é que Volumes é um local isolado e gerenciado pelo Docker. Já o Bind Mounts é gerenciado pelo filesystem do host, podendo ter falhas de segurança.",
+                          "id": "25.a1f8.2946fd04f-347d.c4111739a"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFCC00"
+                    },
+                    "position": [
+                      128.20937499999968,
+                      240.59999999999968,
+                      3
+                    ]
+                  }
+                }
+              },
+              "attr": {
+                "position": [
+                  372.90625,
+                  159.90625,
+                  2
+                ]
+              }
+            },
+            "3.25": {
+              "title": "Sintaxe",
+              "id": "36.a1f8.2946fd04f-347d.c4111739a",
+              "attr": {
+                "position": [
+                  268.453125,
+                  -210.125,
+                  4
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "-v ou --volume",
+                  "id": "37.a1f8.2946fd04f-347d.c4111739a",
+                  "attr": {},
+                  "ideas": {
+                    "1": {
+                      "title": "É a maneira mais direta, separado por :",
+                      "id": "39.a1f8.2946fd04f-347d.c4111739a"
+                    },
+                    "2": {
+                      "title": "[nome volume]:[caminho no container]:[opicional especificando o tipo, se é read only",
+                      "id": "40.a1f8.2946fd04f-347d.c4111739a"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "--mount",
+                  "id": "38.a1f8.2946fd04f-347d.c4111739a",
+                  "ideas": {
+                    "1": {
+                      "title": "É constituído por chave-valor",
+                      "id": "41.a1f8.2946fd04f-347d.c4111739a",
+                      "ideas": {
+                        "1": {
+                          "title": "É mair verbosa e explicita que --volume",
+                          "id": "44.a1f8.2946fd04f-347d.c4111739a"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "<key>=<value>",
+                      "id": "43.a1f8.2946fd04f-347d.c4111739a"
+                    },
+                    "3": {
+                      "title": "campos",
+                      "id": "45.a1f8.2946fd04f-347d.c4111739a",
+                      "ideas": {
+                        "1": {
+                          "title": "type",
+                          "id": "46.a1f8.2946fd04f-347d.c4111739a",
+                          "ideas": {
+                            "1": {
+                              "title": "É o tipo do mount, podendo ser",
+                              "id": "47.a1f8.2946fd04f-347d.c4111739a",
+                              "ideas": {
+                                "1": {
+                                  "title": "bind (bind mount)",
+                                  "id": "48.a1f8.2946fd04f-347d.c4111739a"
+                                },
+                                "2": {
+                                  "title": "volume",
+                                  "id": "49.a1f8.2946fd04f-347d.c4111739a"
+                                },
+                                "3": {
+                                  "title": "tmpfs",
+                                  "id": "50.a1f8.2946fd04f-347d.c4111739a"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "source",
+                          "id": "52.a1f8.2946fd04f-347d.c4111739a",
+                          "ideas": {
+                            "1": {
+                              "title": "O nome do volume, se não definir e anonimo. Pode ser usado source ou src",
+                              "id": "53.a1f8.2946fd04f-347d.c4111739a"
+                            }
+                          }
+                        },
+                        "3": {
+                          "title": "destination",
+                          "id": "54.a1f8.2946fd04f-347d.c4111739a",
+                          "ideas": {
+                            "1": {
+                              "title": "caminho destino, dentro do container. Pode ser usado: destination ou dst ou target",
+                              "id": "55.a1f8.2946fd04f-347d.c4111739a"
+                            }
+                          }
+                        },
+                        "4": {
+                          "title": "readonly",
+                          "id": "56.a1f8.2946fd04f-347d.c4111739a",
+                          "ideas": {
+                            "1": {
+                              "title": "Não é obrigatório, mas define se será apenas leitura. Pode ser usado: readonly ou ro",
+                              "id": "57.a1f8.2946fd04f-347d.c4111739a"
+                            }
+                          }
+                        },
+                        "5": {
+                          "title": "volume-opt",
+                          "id": "58.a1f8.2946fd04f-347d.c4111739a",
+                          "ideas": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              282.453125,
+              392.09375,
+              4
+            ]
+          }
+        },
+        "-1": {
+          "title": "Por padrão, os arquivos criados dentro de um container são armazenados em uma camada de escrita",
+          "id": "3.a1f8.2946fd04f-347d.c4111739a",
+          "attr": {
+            "position": [
+              179,
+              -168,
+              2
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Estes arquivos acabam sendo efêmeros, se o container for removido, o conteúdo também é.",
+              "id": "4.a1f8.2946fd04f-347d.c4111739a",
+              "attr": {
+                "position": [
+                  224,
+                  -6,
+                  1
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "attr": {
+    "theme": "straightlines"
+  },
+  "title": "",
+  "links": []
+}
