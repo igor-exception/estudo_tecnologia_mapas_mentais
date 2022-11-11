@@ -509,6 +509,22 @@
             ]
           }
         },
+        "25": {
+          "title": "Crontab",
+          "id": "167.e227.427313182-3a66.3d2286bd",
+          "ideas": {
+            "1": {
+              "title": "info",
+              "id": "168.e227.427313182-3a66.3d2286bd",
+              "ideas": {
+                "1": {
+                  "title": "É um gerenciador de tarefas por tempo.\nNele conseguimos definir que determinado script rode a cada horário especificado",
+                  "id": "169.e227.427313182-3a66.3d2286bd"
+                }
+              }
+            }
+          }
+        },
         "-1": {
           "title": "Comandos",
           "id": "5.6156.69516d5e-3c38.0f979b4de",
