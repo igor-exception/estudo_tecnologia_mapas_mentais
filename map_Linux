@@ -527,7 +527,27 @@
                   "ideas": {
                     "1": {
                       "title": "primeiro devemos passar a frequencia que o script será executado",
-                      "id": "171.e227.427313182-3a66.3d2286bd"
+                      "id": "171.e227.427313182-3a66.3d2286bd",
+                      "ideas": {
+                        "1": {
+                          "title": "São 5 espaços",
+                          "id": "172.e227.427313182-3a66.3d2286bd",
+                          "ideas": {
+                            "1": {
+                              "title": "Minuto (0-59)",
+                              "id": "173.e227.427313182-3a66.3d2286bd"
+                            },
+                            "2": {
+                              "title": "Hora (0-23)",
+                              "id": "175.e227.427313182-3a66.3d2286bd"
+                            },
+                            "3": {
+                              "title": "",
+                              "id": "176.e227.427313182-3a66.3d2286bd"
+                            }
+                          }
+                        }
+                      }
                     }
                   }
                 }
