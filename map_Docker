@@ -545,6 +545,22 @@
                   }
                 }
               }
+            },
+            "3": {
+              "title": "2.0",
+              "id": "215.9494.8f00c1dd4-1665.5c27bf935",
+              "ideas": {
+                "1": {
+                  "title": "fonte: https://stackoverflow.com/questions/37458287/how-to-run-a-cron-job-inside-a-docker-container",
+                  "id": "216.9494.8f00c1dd4-1665.5c27bf935",
+                  "ideas": {
+                    "1": {
+                      "title": "add cron ao container",
+                      "id": "217.9494.8f00c1dd4-1665.5c27bf935"
+                    }
+                  }
+                }
+              }
             }
           }
         },
