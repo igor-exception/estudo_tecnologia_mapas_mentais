@@ -1,0 +1,113 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Tests",
+      "id": 1,
+      "attr": {
+        "position": [
+          -21,
+          -15,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Teórico",
+          "id": "2.e89b.08e0284a1-15f5.9c56714f9",
+          "ideas": {
+            "1": {
+              "title": "Testes são formas de analisar se determinado evento tem determinado resultado",
+              "id": "3.e89b.08e0284a1-15f5.9c56714f9"
+            },
+            "2": {
+              "title": "Não testamos apenas um caso. Testamos diversos cenários, para garantir comportamentos/resultados",
+              "id": "4.e89b.08e0284a1-15f5.9c56714f9"
+            },
+            "3": {
+              "title": "Ciclo de um teste é:\n1- Definir o cenário (instanciar objeto, preparar o banco, etc..)\n2- Executar a ação a ser testada (Chamar o método, etc..)\n3- Verificar se o resultado é o esperado (Comparar se o resultado bate com o esperado)",
+              "id": "5.e89b.08e0284a1-15f5.9c56714f9",
+              "attr": {
+                "style": {
+                  "textAlign": "left",
+                  "width": 212
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Tambem conhecido como Triple A:\n> Arrange\n> Act\n> Assert",
+                  "id": "6.bf6a.28eb3f32c-7cba.2066afd",
+                  "attr": {
+                    "style": {
+                      "textAlign": "left"
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "Teste de regressão",
+              "id": "14.325a.9805b4176-b26f.f7545eb9c",
+              "ideas": {
+                "1": {
+                  "title": "É a cada alteração, rodas os testes já feitos, garante que o sistema não regrediu",
+                  "id": "15.325a.9805b4176-b26f.f7545eb9c"
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Fontes",
+          "id": "10.bf6a.28eb3f32c-7cba.2066afd",
+          "ideas": {
+            "1": {
+              "title": "Program w/ Gio: https://www.youtube.com/watch?v=9-X_b_fxmRM",
+              "id": "11.bf6a.28eb3f32c-7cba.2066afd"
+            },
+            "2": {
+              "title": "Dias de dev: https://www.youtube.com/playlist?list=PL3j2sfzg3FPsPiaDUmDDKNvco49YMdj8f",
+              "id": "12.bf6a.28eb3f32c-7cba.2066afd"
+            },
+            "3": {
+              "title": "Gary Clarke: https://www.youtube.com/watch?v=kkU43JdJQBE",
+              "id": "13.bf6a.28eb3f32c-7cba.2066afd"
+            }
+          }
+        },
+        "3": {
+          "title": "TEST",
+          "id": "17.9e7f.eb9001fd9-5889.048430001"
+        },
+        "-1": {
+          "title": "Testes de Unidade",
+          "id": "7.bf6a.28eb3f32c-7cba.2066afd",
+          "ideas": {
+            "1": {
+              "title": "Unidade, é a menor parte que conseguimos testar.",
+              "id": "8.bf6a.28eb3f32c-7cba.2066afd"
+            }
+          }
+        },
+        "-2": {
+          "title": "ESTE MAPA MENTAL FOI DESATIVADO. FOI MOVIDO PARA O MAPA MENTAL DE PHP, NO NÓ TESTES",
+          "id": "16.7ea5.199083adc-6a07.d08fc2f96",
+          "attr": {
+            "style": {
+              "backgroundColor": "#FF0000",
+              "text": {
+                "color": "#FFFF00"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "attr": {
+    "theme": "default"
+  },
+  "title": "",
+  "links": []
+}

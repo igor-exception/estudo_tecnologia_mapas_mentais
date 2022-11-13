@@ -1,0 +1,587 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "MySQL",
+      "id": 1,
+      "attr": {
+        "position": [
+          -27,
+          -15,
+          1
+        ],
+        "style": {
+          "fontMultiplier": 2.5
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Comandos básicos",
+          "id": "4.a54b.35518df2b-ff0b.b141d7c92",
+          "ideas": {
+            "6": {
+              "title": "INSERT INTO bands(name)\nVALUES ('Iron Maiden'); ",
+              "id": "20.6491.21f183f36-d548.72bf034e6",
+              "attr": {
+                "style": {
+                  "textAlign": "left",
+                  "width": 198
+                },
+                "collapsed": true
+              },
+              "ideas": {
+                "1": {
+                  "title": "INSERT INTO - Informa onde inserir dados tabela(campo)",
+                  "id": "21.6491.21f183f36-d548.72bf034e6",
+                  "ideas": {
+                    "1": {
+                      "title": "INSERT INTO albums(name, release_year, band_id) VALUES\n('Sexo, algemas e cinta-liga', 2014, 2),\n('Lobos não usam coleira', 2016, 2),\n('Abre essas pernas', 1998, 3);\n\n",
+                      "id": "39.6491.21f183f36-d548.72bf034e6",
+                      "attr": {
+                        "style": {
+                          "textAlign": "left",
+                          "width": 254
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "VALUES - Especifica os valores",
+                  "id": "22.6491.21f183f36-d548.72bf034e6"
+                }
+              }
+            },
+            "7": {
+              "title": "SELECT - Consulta",
+              "id": "23.6491.21f183f36-d548.72bf034e6",
+              "ideas": {
+                "1": {
+                  "title": "SELECT * FROM bands;",
+                  "id": "24.6491.21f183f36-d548.72bf034e6",
+                  "ideas": {
+                    "1": {
+                      "title": "SELECT - faz a busca",
+                      "id": "25.6491.21f183f36-d548.72bf034e6"
+                    },
+                    "2": {
+                      "title": "* é o campo que especificamos as colunas, * significa todas.",
+                      "id": "26.6491.21f183f36-d548.72bf034e6"
+                    },
+                    "3": {
+                      "title": "FROM bands - é a tabela que buscaremos.",
+                      "id": "27.6491.21f183f36-d548.72bf034e6"
+                    },
+                    "4": {
+                      "title": "SELECT DISTINCT name FROM albums;",
+                      "id": "40.6491.21f183f36-d548.72bf034e6",
+                      "ideas": {
+                        "1": {
+                          "title": "",
+                          "id": "41.6491.21f183f36-d548.72bf034e6"
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "SELECT name AS 'NOME' FROM bands LIMIT 2;",
+                  "id": "28.6491.21f183f36-d548.72bf034e6",
+                  "ideas": {
+                    "1": {
+                      "title": "AS 'NOME'- é um alias, onde colocamos o nome do header da tabela retorno",
+                      "id": "30.6491.21f183f36-d548.72bf034e6"
+                    },
+                    "2": {
+                      "title": "LIMIT 2 é o limitador",
+                      "id": "31.6491.21f183f36-d548.72bf034e6"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "SELECT * FROM bands ORDER BY name;",
+                  "id": "32.6491.21f183f36-d548.72bf034e6",
+                  "ideas": {
+                    "1": {
+                      "title": "ORDER BY ___ é a ordenação do retorno. Neste caso retornará ordenado por nome",
+                      "id": "33.6491.21f183f36-d548.72bf034e6"
+                    },
+                    "3": {
+                      "title": " ORDER BY ___ é a ordenação do retorno. Neste caso retornará ordenado por nome",
+                      "id": "36.6491.21f183f36-d548.72bf034e6"
+                    },
+                    "4": {
+                      "title": "SELECT * FROM bands ORDER BY name DESC",
+                      "id": "37.6491.21f183f36-d548.72bf034e6",
+                      "ideas": {
+                        "1": {
+                          "title": "Inverte a ordem",
+                          "id": "38.6491.21f183f36-d548.72bf034e6"
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "title": "SELECT DISTINCT name FROM albums;",
+                  "id": "42.175a.852c30f38-3e68.a9e430273",
+                  "ideas": {
+                    "1": {
+                      "title": "DISTINCT -  Mostra apenas nomes unicos",
+                      "id": "43.175a.852c30f38-3e68.a9e430273"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "8": {
+              "title": "UPDATE",
+              "id": "44.175a.852c30f38-3e68.a9e430273",
+              "ideas": {
+                "1": {
+                  "title": "UPDATE albums\nSET release_year = 2023\nWHERE id = 2\n\n",
+                  "id": "45.175a.852c30f38-3e68.a9e430273",
+                  "ideas": {
+                    "1": {
+                      "title": "Quando faço um UPDATE, defino o que irei atualizar (SET relrease_year = 2023). Se só fizesse o comando até ai, atualizaria todos os dados. Preciso especificar (WHERE) com match em algum campo, no caso (ID)",
+                      "id": "46.175a.852c30f38-3e68.a9e430273"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "ALTER TABLE users MODIFY updated_at DATETIME NOT NULL;",
+                  "id": "99.119c.45f4506f2-94a5.1290c9f62"
+                }
+              }
+            },
+            "9": {
+              "title": "LIKE",
+              "id": "47.175a.852c30f38-3e68.a9e430273",
+              "ideas": {
+                "1": {
+                  "title": "SELECT * FROM albums WHERE name LIKE = '%não%'",
+                  "id": "48.175a.852c30f38-3e68.a9e430273",
+                  "ideas": {
+                    "1": {
+                      "title": "LIKE busca match de padrões passado entre aspas. % é um wildcard, ou seja, pegará qualquer coisa.",
+                      "id": "49.175a.852c30f38-3e68.a9e430273"
+                    },
+                    "2": {
+                      "title": "No exemplo de %não%, retornará qualquer registro que tenha a palavra 'não' ",
+                      "id": "50.175a.852c30f38-3e68.a9e430273"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "10": {
+              "title": "OR",
+              "id": "51.175a.852c30f38-3e68.a9e430273",
+              "ideas": {
+                "1": {
+                  "title": "SELECT * FROM albums WHERE name LIKE '%a%' OR name LIKE '%b%'",
+                  "id": "52.175a.852c30f38-3e68.a9e430273",
+                  "ideas": {
+                    "1": {
+                      "title": "Condicional, que retornará todas matchs em ambas condicionais",
+                      "id": "53.175a.852c30f38-3e68.a9e430273"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "11": {
+              "title": "AND ",
+              "id": "54.175a.852c30f38-3e68.a9e430273",
+              "ideas": {
+                "1": {
+                  "title": "SELECT * FROM albums WHERE id = 2 AND release_year = 2010",
+                  "id": "55.175a.852c30f38-3e68.a9e430273",
+                  "ideas": {
+                    "1": {
+                      "title": "Retornará quando der match obrigatoriamente nas duas condições",
+                      "id": "58.175a.852c30f38-3e68.a9e430273"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "12": {
+              "title": "BETWEEN",
+              "id": "59.175a.852c30f38-3e68.a9e430273",
+              "ideas": {
+                "1": {
+                  "title": "SELECT * FROM albums\nWHERE release_year BETWEEN 2010 AND 2020;",
+                  "id": "60.175a.852c30f38-3e68.a9e430273",
+                  "ideas": {
+                    "1": {
+                      "title": "Entre duas condicoes",
+                      "id": "61.175a.852c30f38-3e68.a9e430273"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "13": {
+              "title": "DELETE",
+              "id": "62.175a.852c30f38-3e68.a9e430273",
+              "ideas": {
+                "1": {
+                  "title": "DELETE FROM albums WHERE band_id = 2;",
+                  "id": "63.175a.852c30f38-3e68.a9e430273",
+                  "ideas": {
+                    "1": {
+                      "title": "remove todos registros que tem id = 2",
+                      "id": "64.175a.852c30f38-3e68.a9e430273"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "14": {
+              "title": "JOIN",
+              "id": "80.4953.b61f15f1-c959.c263651c",
+              "ideas": {
+                "1": {
+                  "title": "SELECT * FROM teams\nJOIN teams_addresses\nON teams.id = teams_addresses.team_id;",
+                  "id": "82.4953.b61f15f1-c959.c263651c",
+                  "attr": {
+                    "style": {
+                      "textAlign": "left",
+                      "width": 262
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "JOIN - informo qual tabela pretendo juntar",
+                      "id": "83.4953.b61f15f1-c959.c263651c"
+                    },
+                    "2": {
+                      "title": "ON - defino o parametro em comum entre as tabelas",
+                      "id": "86.4953.b61f15f1-c959.c263651c"
+                    },
+                    "3": {
+                      "title": "Retornará apenas as tabelas que derem match. Caso algum dado não dê match, não será retornado",
+                      "id": "87.4953.b61f15f1-c959.c263651c"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "LEFT/RIGHT",
+                  "id": "84.4953.b61f15f1-c959.c263651c",
+                  "ideas": {
+                    "1": {
+                      "title": "Definem qual tabela será a referência para consulta, mostrando todos os dados de um dos lados. Caso o outro não tenha, ficará como NULL",
+                      "id": "85.4953.b61f15f1-c959.c263651c"
+                    }
+                  }
+                }
+              }
+            },
+            "15": {
+              "title": "COUNT",
+              "id": "88.4953.b61f15f1-c959.c263651c",
+              "ideas": {
+                "1": {
+                  "title": "SELECT team_name, COUNT(team_name) FROM championships GROUP BY team_name ORDER BY COUNT(team_name) DESC;",
+                  "id": "89.4953.b61f15f1-c959.c263651c",
+                  "ideas": {
+                    "1": {
+                      "title": "COUNT conta a quantidade de itens repetidos, necessário utilizar junto com GROUP BY",
+                      "id": "90.4953.b61f15f1-c959.c263651c"
+                    }
+                  }
+                }
+              }
+            },
+            "4.5": {
+              "title": "DATABASE",
+              "id": "65.175a.852c30f38-3e68.a9e430273",
+              "ideas": {
+                "1": {
+                  "title": "CREATE DATABASE banco;",
+                  "id": "5.a54b.35518df2b-ff0b.b141d7c92",
+                  "attr": {}
+                },
+                "2": {
+                  "title": "DROP DATABASE banco;",
+                  "id": "6.a54b.35518df2b-ff0b.b141d7c92",
+                  "attr": {}
+                },
+                "3": {
+                  "title": "USE banco;",
+                  "id": "7.a54b.35518df2b-ff0b.b141d7c92",
+                  "attr": {}
+                },
+                "4": {
+                  "title": "RENAME TABLE `nome` TO `name`;",
+                  "id": "66.175a.852c30f38-3e68.a9e430273",
+                  "attr": {
+                    "style": {
+                      "textAlign": "left"
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "tem que usar o acento crase",
+                      "id": "67.175a.852c30f38-3e68.a9e430273"
+                    }
+                  }
+                }
+              }
+            },
+            "5.25": {
+              "title": "TABLE",
+              "id": "68.175a.852c30f38-3e68.a9e430273",
+              "ideas": {
+                "3": {
+                  "title": "CREATE",
+                  "id": "91.2af3.579d4cdc2-93b8.2a1c45b81",
+                  "ideas": {
+                    "1": {
+                      "title": "CREATE TABLE albums (\n    id INT NOT NULL AUTO_INCREMENT,\n    name VARCHAR(255) NOT NULL,\n    release_year INT,\n    band_id INT NOT NULL,\n    PRIMARY KEY (id),\n    FOREIGN KEY (band_id) REFERENCES bands(id)\n)",
+                      "id": "16.6491.21f183f36-d548.72bf034e6",
+                      "attr": {
+                        "style": {
+                          "textAlign": "left",
+                          "width": 287
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "FOREING KEY - informa a coluna que servirá de conexão com outra tabela",
+                          "id": "18.6491.21f183f36-d548.72bf034e6"
+                        },
+                        "2": {
+                          "title": "REFERENCES - Informa a outra tabela",
+                          "id": "19.6491.21f183f36-d548.72bf034e6"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "CREATE TABLE   bands (\n   id INT NOT NULL AUTO_INCREMENT,\n    name VARCHAR(255),\n    PRIMARY KEY(id)\n)",
+                      "id": "8.6491.21f183f36-d548.72bf034e6",
+                      "attr": {
+                        "style": {
+                          "textAlign": "left",
+                          "width": 230
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "Entre parenteses colocamos o nome da coluna, como o tipo",
+                          "id": "11.6491.21f183f36-d548.72bf034e6"
+                        },
+                        "2": {
+                          "title": "NOT NULL - Informo que a coluna não pode ser vazia.",
+                          "id": "12.6491.21f183f36-d548.72bf034e6"
+                        },
+                        "3": {
+                          "title": "AUTO_INCREMENT - informo que não se repetirá",
+                          "id": "13.6491.21f183f36-d548.72bf034e6"
+                        },
+                        "4": {
+                          "title": "PRIMARY KEY - Informo que a coluna ID será a chave principal desta tabela. Servindo como referencia para consulta/vinculo com outras tabelas",
+                          "id": "14.6491.21f183f36-d548.72bf034e6",
+                          "ideas": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "ON CASCADE ",
+                      "id": "95.df43.de1d3cd3a-08d3.4dd387a92",
+                      "ideas": {
+                        "1": {
+                          "title": "Ao remover item pai, remove o filho também",
+                          "id": "96.df43.de1d3cd3a-08d3.4dd387a92",
+                          "ideas": {
+                            "1": {
+                              "title": "CREATE TABLE contacts (\n id INT NOT NULL AUTO_INCREMENT,\n    type_id INT NOT NULL,\n    number VARCHAR(50),\n    user_id INT NOT NULL,\n    created_at DATE,\n    updated_at DATE,\n    PRIMARY KEY(id),\n    FOREIGN KEY (type_id) REFERENCES contact_type(id) ON DELETE CASCADE,\n    FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE\n);",
+                              "id": "97.df43.de1d3cd3a-08d3.4dd387a92",
+                              "attr": {
+                                "style": {
+                                  "textAlign": "left",
+                                  "width": 229
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "title": "ALTER",
+                  "id": "92.2af3.579d4cdc2-93b8.2a1c45b81",
+                  "ideas": {
+                    "1": {
+                      "title": "ALTER TABLE users \nADD COLUMN email VARCHAR(255) NOT NULL;",
+                      "id": "93.2af3.579d4cdc2-93b8.2a1c45b81",
+                      "attr": {
+                        "style": {
+                          "textAlign": "left",
+                          "width": 294
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "ALTER TABLE table_name\nDROP COLUMN column_name;",
+                      "id": "94.2af3.579d4cdc2-93b8.2a1c45b81",
+                      "attr": {
+                        "style": {
+                          "textAlign": "left",
+                          "width": 305
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Por onde começar",
+          "id": "100.b5d5.fafa37176-7eba.f3b23353b",
+          "ideas": {
+            "1": {
+              "title": "Criando seu primeiro banco",
+              "id": "101.b5d5.fafa37176-7eba.f3b23353b",
+              "ideas": {
+                "1": {
+                  "title": "$ CREATE DATABASE mydb",
+                  "id": "102.b5d5.fafa37176-7eba.f3b23353b",
+                  "ideas": {}
+                }
+              },
+              "attr": {
+                "position": [
+                  183.9967041015625,
+                  139.99664306640625,
+                  1
+                ]
+              }
+            },
+            "2": {
+              "title": "Criando uma tabela",
+              "id": "104.b5d5.fafa37176-7eba.f3b23353b",
+              "ideas": {
+                "1": {
+                  "title": "$ CREATE TABLE products;",
+                  "id": "105.b5d5.fafa37176-7eba.f3b23353b"
+                }
+              },
+              "attr": {
+                "position": [
+                  154.9967041015625,
+                  246.99652099609375,
+                  2
+                ]
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              42.99658203125,
+              620.0001220703125,
+              2
+            ]
+          }
+        },
+        "-1": {
+          "title": "intro",
+          "id": "3.a54b.35518df2b-ff0b.b141d7c92",
+          "ideas": {
+            "2": {
+              "title": "https://www.youtube.com/watch?v=p3qvj9hO_Bo",
+              "id": "10.6491.21f183f36-d548.72bf034e6"
+            },
+            "3": {
+              "title": "Convenções",
+              "id": "69.175a.852c30f38-3e68.a9e430273",
+              "ideas": {
+                "1": {
+                  "title": "Por convenção, os keywords são em maiúsculo.",
+                  "id": "2.a54b.35518df2b-ff0b.b141d7c92",
+                  "attr": {}
+                },
+                "2": {
+                  "title": "Tabelas",
+                  "id": "70.175a.852c30f38-3e68.a9e430273",
+                  "ideas": {
+                    "1": {
+                      "title": "nomes minusculos",
+                      "id": "71.175a.852c30f38-3e68.a9e430273"
+                    },
+                    "2": {
+                      "title": "separados por underscore",
+                      "id": "72.175a.852c30f38-3e68.a9e430273"
+                    },
+                    "3": {
+                      "title": "plural, sempre",
+                      "id": "74.175a.852c30f38-3e68.a9e430273"
+                    },
+                    "4": {
+                      "title": "em ingles",
+                      "id": "75.175a.852c30f38-3e68.a9e430273"
+                    },
+                    "5": {
+                      "title": "sempre com nome descritivo, não abreviar",
+                      "id": "79.175a.852c30f38-3e68.a9e430273"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Colunas",
+                  "id": "76.175a.852c30f38-3e68.a9e430273",
+                  "ideas": {
+                    "1": {
+                      "title": "minusculas",
+                      "id": "77.175a.852c30f38-3e68.a9e430273"
+                    },
+                    "2": {
+                      "title": "singular",
+                      "id": "78.175a.852c30f38-3e68.a9e430273"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              87,
+              -201,
+              1
+            ]
+          }
+        }
+      }
+    }
+  },
+  "attr": {
+    "theme": "default"
+  },
+  "title": "",
+  "links": []
+}
