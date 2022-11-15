@@ -592,8 +592,29 @@
                     }
                   }
                 },
-                "7": {
-                  "title": "7- rodar no terminal:",
+                "8": {
+                  "title": "7- criar o arquivo  crontab e colocar na pasta raiz do projeto o seguinte codigo:",
+                  "id": "230.5cde.50c2eed09-fba4.cdf26c5f4",
+                  "ideas": {
+                    "1": {
+                      "title": "* * * * * /root/gitmind/shell.sh &>/tmp/error\n\n",
+                      "id": "231.5cde.50c2eed09-fba4.cdf26c5f4",
+                      "attr": {
+                        "style": {
+                          "width": 290
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "cronfile precisa deixar uma linha em branco por ultimo",
+                          "id": "232.5cde.50c2eed09-fba4.cdf26c5f4"
+                        }
+                      }
+                    }
+                  }
+                },
+                "18": {
+                  "title": "8- rodar no terminal:",
                   "id": "196.5740.c96ab4023-bc6e.81252311b",
                   "ideas": {
                     "1": {
@@ -603,15 +624,11 @@
                   },
                   "attr": {
                     "position": [
-                      46.91400909423828,
-                      487.7430877685547,
+                      40.03900909423783,
+                      777.3593902587882,
                       1
                     ]
                   }
-                },
-                "8": {
-                  "title": "",
-                  "id": "230.5cde.50c2eed09-fba4.cdf26c5f4"
                 }
               }
             },
