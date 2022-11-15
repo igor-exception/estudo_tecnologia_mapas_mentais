@@ -499,6 +499,131 @@
               "attr": {
                 "collapsed": true
               }
+            },
+            "2": {
+              "title": "Redirection (stdin, stdout, stderr)",
+              "id": "184.48c2.741bc83ef-aa4b.3553f3681",
+              "ideas": {
+                "1": {
+                  "title": "info",
+                  "id": "185.48c2.741bc83ef-aa4b.3553f3681",
+                  "ideas": {
+                    "1": {
+                      "title": "São informações de entrada(geralmente teclado), saída(screen/tela), erro",
+                      "id": "186.48c2.741bc83ef-aa4b.3553f3681"
+                    },
+                    "2": {
+                      "title": "Existe um termo chamado file descriptor, ele nos informa sobre um comando, usando códigos(0, 1 e 2)",
+                      "id": "188.48c2.741bc83ef-aa4b.3553f3681"
+                    },
+                    "3": {
+                      "title": "std vem de standar. Standard in, standard out, standard error",
+                      "id": "191.48c2.741bc83ef-aa4b.3553f3681"
+                    },
+                    "4": {
+                      "title": "fonte: https://www.youtube.com/watch?v=icuV2CR3Ghg",
+                      "id": "198.48c2.741bc83ef-aa4b.3553f3681"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "stdin",
+                  "id": "187.48c2.741bc83ef-aa4b.3553f3681",
+                  "ideas": {
+                    "1": {
+                      "title": "tem o file descriptor 0, que é a informação que representa a entrada de dados(geralmente teclado)",
+                      "id": "189.48c2.741bc83ef-aa4b.3553f3681",
+                      "ideas": {
+                        "1": {
+                          "title": "0>",
+                          "id": "195.48c2.741bc83ef-aa4b.3553f3681"
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "title": "stdout",
+                  "id": "190.48c2.741bc83ef-aa4b.3553f3681",
+                  "ideas": {
+                    "1": {
+                      "title": "tem o file descriptor 1, que é a informação que é printada na tela(screen)",
+                      "id": "192.48c2.741bc83ef-aa4b.3553f3681",
+                      "ideas": {
+                        "1": {
+                          "title": "1>",
+                          "id": "196.48c2.741bc83ef-aa4b.3553f3681"
+                        },
+                        "2": {
+                          "title": "quando fazemos um redirecionamento, estamos redirecionando o stdout para outro comando.",
+                          "id": "199.48c2.741bc83ef-aa4b.3553f3681",
+                          "ideas": {
+                            "1": {
+                              "title": "ex: echo John > name.txt",
+                              "id": "200.48c2.741bc83ef-aa4b.3553f3681",
+                              "ideas": {
+                                "1": {
+                                  "title": "é o mesmo que: echo John 1> name.txt",
+                                  "id": "201.48c2.741bc83ef-aa4b.3553f3681"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "title": "stderr",
+                  "id": "193.48c2.741bc83ef-aa4b.3553f3681",
+                  "ideas": {
+                    "1": {
+                      "title": "tem o file descriptor 2, que é a informação de mensagem de erro(caso exista), e já é redirecionado para o stdout, para que vejamos o erro",
+                      "id": "194.48c2.741bc83ef-aa4b.3553f3681",
+                      "ideas": {
+                        "1": {
+                          "title": "2>",
+                          "id": "197.48c2.741bc83ef-aa4b.3553f3681"
+                        },
+                        "2": {
+                          "title": "Quando vemos um erro, a mensagem veio de um 2>",
+                          "id": "202.48c2.741bc83ef-aa4b.3553f3681",
+                          "ideas": {
+                            "1": {
+                              "title": "exemplo usando um comendo que não existe: ",
+                              "id": "203.48c2.741bc83ef-aa4b.3553f3681",
+                              "ideas": {
+                                "1": {
+                                  "title": "asd 2> error.txt",
+                                  "id": "204.48c2.741bc83ef-aa4b.3553f3681",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "cat error.txt",
+                                      "id": "205.48c2.741bc83ef-aa4b.3553f3681",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "bash: asd: command not found",
+                                          "id": "206.48c2.741bc83ef-aa4b.3553f3681",
+                                          "attr": {
+                                            "style": {
+                                              "width": 221
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
             }
           },
           "attr": {
@@ -596,6 +721,9 @@
                 }
               }
             }
+          },
+          "attr": {
+            "collapsed": true
           }
         },
         "-1": {
@@ -865,7 +993,8 @@
               399.6701354980469,
               972.2534761428828,
               12
-            ]
+            ],
+            "collapsed": true
           },
           "ideas": {
             "2": {
@@ -1081,7 +1210,8 @@
               532.3159441947935,
               248.7829561233516,
               16
-            ]
+            ],
+            "collapsed": true
           },
           "ideas": {
             "3": {
