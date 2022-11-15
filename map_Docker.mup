@@ -103,9 +103,6 @@
                 }
               }
             }
-          },
-          "attr": {
-            "collapsed": true
           }
         },
         "34": {
@@ -348,7 +345,12 @@
                     },
                     "2": {
                       "title": "o RUN é executado apenas no build do container , nesse caso não adianta passar comando para iniciar serviço, pois o comando pararia na hora de  levantar o container",
-                      "id": "220.6f19.728895f9-187c.f944d78c1"
+                      "id": "220.6f19.728895f9-187c.f944d78c1",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#FFFF99"
+                        }
+                      }
                     },
                     "3": {
                       "title": "Caso queira subir um serviço, tem que usar o ENTRYPOINT",
@@ -945,13 +947,13 @@
           }
         },
         "-17.5": {
-          "title": "Subindo Containers",
+          "title": "Exemplos Subindo Containers",
           "id": "95.229b.342a40498-91c0.c485cde8f",
           "attr": {
             "position": [
-              402.954833984375,
-              -346.9479064941406,
-              15
+              368.99890136718795,
+              -844.920059204102,
+              21
             ],
             "style": {
               "backgroundColor": "#FF00FF"
