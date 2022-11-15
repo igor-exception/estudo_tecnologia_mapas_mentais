@@ -613,8 +613,12 @@
                     }
                   }
                 },
+                "13": {
+                  "title": "8- criar arquivo shell.sh na raiz do projeto e colocar o seguinte código:",
+                  "id": "234.5cde.50c2eed09-fba4.cdf26c5f4"
+                },
                 "18": {
-                  "title": "8- rodar no terminal:",
+                  "title": "99- rodar no terminal:",
                   "id": "196.5740.c96ab4023-bc6e.81252311b",
                   "ideas": {
                     "1": {
