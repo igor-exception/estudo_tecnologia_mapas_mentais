@@ -35,11 +35,18 @@
                   "id": "13.29a1.4b108b45-964c.f05cac718",
                   "ideas": {
                     "1": {
-                      "title": "",
+                      "title": "[caminho comando atual] [novo nome]",
                       "id": "14.29a1.4b108b45-964c.f05cac718"
                     }
                   }
                 }
+              },
+              "attr": {
+                "position": [
+                  178,
+                  105,
+                  1
+                ]
               }
             }
           },
