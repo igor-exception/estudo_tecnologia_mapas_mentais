@@ -1,0 +1,21 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Power Challenge App",
+      "id": 1,
+      "attr": {
+        "position": [
+          -56,
+          -15,
+          1
+        ]
+      }
+    }
+  },
+  "attr": {
+    "theme": "default"
+  },
+  "title": ""
+}
