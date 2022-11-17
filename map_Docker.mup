@@ -1462,8 +1462,8 @@
               "id": "138.f32d.950b1d83-00d6.46a88696b",
               "attr": {
                 "position": [
-                  461.10719299316406,
-                  -25.548614501953125,
+                  444.18099212646484,
+                  47.21139144897461,
                   1
                 ]
               },
@@ -1474,6 +1474,12 @@
                   "attr": {
                     "style": {
                       "width": 415
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Caso nao esteja logado",
+                      "id": "247.0953.f3e73bca4-c767.e9d25b98d"
                     }
                   }
                 },
@@ -1498,7 +1504,13 @@
                 "2.5": {
                   "title": "info",
                   "id": "245.0953.f3e73bca4-c767.e9d25b98d",
-                  "attr": {},
+                  "attr": {
+                    "position": [
+                      137.07669067382812,
+                      -221.49147033691406,
+                      1
+                    ]
+                  },
                   "ideas": {
                     "1": {
                       "title": "Digamos que usei imagem do Ubuntu, e instalei Apache e PHP.",
