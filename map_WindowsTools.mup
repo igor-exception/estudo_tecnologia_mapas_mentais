@@ -39,6 +39,16 @@
                       "id": "14.29a1.4b108b45-964c.f05cac718"
                     }
                   }
+                },
+                "2": {
+                  "title": "echo $null >> index.php",
+                  "id": "15.29a1.4b108b45-964c.f05cac718",
+                  "ideas": {
+                    "1": {
+                      "title": "Cria arquivo em branco. Similar ao touch do terminal",
+                      "id": "16.29a1.4b108b45-964c.f05cac718"
+                    }
+                  }
                 }
               },
               "attr": {
