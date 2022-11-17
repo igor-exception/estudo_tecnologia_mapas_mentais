@@ -1468,28 +1468,6 @@
                 ]
               },
               "ideas": {
-                "1": {
-                  "title": "Depois de pegar instalar o que é necessário no container, podemos dar commit para o Docker HUB. Assim como fazemos no github",
-                  "id": "137.f32d.950b1d83-00d6.46a88696b",
-                  "attr": {
-                    "position": [
-                      180.15982055664062,
-                      -311.5625228881836,
-                      1
-                    ]
-                  }
-                },
-                "2": {
-                  "title": "Digamos que usei imagem do Ubuntu, e instalei Apache e PHP.",
-                  "id": "139.f32d.950b1d83-00d6.46a88696b",
-                  "attr": {
-                    "position": [
-                      190.56954956054688,
-                      -161.97570037841797,
-                      2
-                    ]
-                  }
-                },
                 "3": {
                   "title": "docker commit [id container] igor972/apache-clean:1.0",
                   "id": "141.f32d.950b1d83-00d6.46a88696b",
@@ -1505,6 +1483,21 @@
                   "attr": {
                     "style": {
                       "width": 227
+                    }
+                  }
+                },
+                "2.5": {
+                  "title": "info",
+                  "id": "245.0953.f3e73bca4-c767.e9d25b98d",
+                  "attr": {},
+                  "ideas": {
+                    "1": {
+                      "title": "Digamos que usei imagem do Ubuntu, e instalei Apache e PHP.",
+                      "id": "139.f32d.950b1d83-00d6.46a88696b"
+                    },
+                    "2": {
+                      "title": "Depois de pegar instalar o que é necessário no container, podemos dar commit para o Docker HUB. Assim como fazemos no github",
+                      "id": "137.f32d.950b1d83-00d6.46a88696b"
                     }
                   }
                 }
