@@ -1486,6 +1486,15 @@
                     }
                   }
                 },
+                "5": {
+                  "title": "docker login -u \"user\" -p \"pass\" docker.io",
+                  "id": "246.0953.f3e73bca4-c767.e9d25b98d",
+                  "attr": {
+                    "style": {
+                      "width": 342
+                    }
+                  }
+                },
                 "2.5": {
                   "title": "info",
                   "id": "245.0953.f3e73bca4-c767.e9d25b98d",
