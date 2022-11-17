@@ -781,8 +781,14 @@
                   },
                   "ideas": {
                     "1": {
-                      "title": "",
-                      "id": "244.0953.f3e73bca4-c767.e9d25b98d"
+                      "title": "FROM igor972/apache-clean\nWORKDIR /var/www/html\nRUN apt update\n# comandos executados ao subir container\nENTRYPOINT /etc/init.d/apache2 start && \\\n    /bin/bash",
+                      "id": "244.0953.f3e73bca4-c767.e9d25b98d",
+                      "attr": {
+                        "style": {
+                          "textAlign": "left",
+                          "width": 312
+                        }
+                      }
                     }
                   }
                 }
