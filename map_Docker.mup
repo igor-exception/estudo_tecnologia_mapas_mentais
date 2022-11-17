@@ -1541,6 +1541,15 @@
                       }
                     }
                   }
+                },
+                "5": {
+                  "title": "template",
+                  "id": "238.0953.f3e73bca4-c767.e9d25b98d",
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FF00FF"
+                    }
+                  }
                 }
               }
             },
