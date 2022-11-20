@@ -943,11 +943,26 @@
                 }
               }
             }
+          },
+          "attr": {
+            "collapsed": true
           }
         },
         "13": {
           "title": "Session",
-          "id": "487.e104.0d26bd6b-912f.590ec6d8d"
+          "id": "487.e104.0d26bd6b-912f.590ec6d8d",
+          "ideas": {
+            "1": {
+              "title": "info",
+              "id": "488.78a3.a748e4e37-f34d.2da8f920a",
+              "ideas": {
+                "1": {
+                  "title": "Sessão é uma forma de armazenar informação no servidor de modo temporário.",
+                  "id": "489.78a3.a748e4e37-f34d.2da8f920a"
+                }
+              }
+            }
+          }
         },
         "-1": {
           "title": "Comandos de Saída",
