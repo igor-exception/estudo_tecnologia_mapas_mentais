@@ -957,8 +957,12 @@
               "id": "488.78a3.a748e4e37-f34d.2da8f920a",
               "ideas": {
                 "1": {
-                  "title": "Sessão é uma forma de armazenar informação no servidor de modo temporário.",
+                  "title": "Sessão é uma forma de armazenar informação no servidor de modo temporário, para que possa acessar em páginas diferentes",
                   "id": "489.78a3.a748e4e37-f34d.2da8f920a"
+                },
+                "2": {
+                  "title": "Geralmente quando o navegador é fechado, a sessão é encerrada",
+                  "id": "490.78a3.a748e4e37-f34d.2da8f920a"
                 }
               }
             }
