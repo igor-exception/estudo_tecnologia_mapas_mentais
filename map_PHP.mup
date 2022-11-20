@@ -1001,10 +1001,28 @@
                           "id": "498.78a3.a748e4e37-f34d.2da8f920a"
                         },
                         "3": {
-                          "title": "",
+                          "title": "Não tem efeito sobre os recursos do servidor",
                           "id": "499.78a3.a748e4e37-f34d.2da8f920a"
+                        },
+                        "4": {
+                          "title": "Expira na data que você especificar",
+                          "id": "500.78a3.a748e4e37-f34d.2da8f920a"
                         }
                       }
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Algumas regras sobre Sessions",
+                  "id": "501.78a3.a748e4e37-f34d.2da8f920a",
+                  "ideas": {
+                    "1": {
+                      "title": "Pode guardar dados sensíveis em sessão",
+                      "id": "502.78a3.a748e4e37-f34d.2da8f920a"
+                    },
+                    "2": {
+                      "title": "",
+                      "id": "503.78a3.a748e4e37-f34d.2da8f920a"
                     }
                   }
                 }
