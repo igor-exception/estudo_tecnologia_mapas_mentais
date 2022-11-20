@@ -500,8 +500,33 @@
                   "id": "173.c817.9b3d2cbca-7991.975cad1df",
                   "ideas": {
                     "1": {
-                      "title": "",
+                      "title": "Utilizado para construir e executar linhas de comando no linux",
                       "id": "174.c817.9b3d2cbca-7991.975cad1df"
+                    },
+                    "2": {
+                      "title": "Muito usado para quando temos uma lista de arquivos e precisamos executar um comando com essa lista",
+                      "id": "175.c817.9b3d2cbca-7991.975cad1df"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "ex",
+                  "id": "176.c817.9b3d2cbca-7991.975cad1df",
+                  "ideas": {
+                    "1": {
+                      "title": "ls | grep .php | xargs rm -f",
+                      "id": "177.c817.9b3d2cbca-7991.975cad1df",
+                      "ideas": {
+                        "1": {
+                          "title": "Neste caso removerá todos arquivos .php",
+                          "id": "178.c817.9b3d2cbca-7991.975cad1df"
+                        }
+                      },
+                      "attr": {
+                        "style": {
+                          "width": 200
+                        }
+                      }
                     }
                   }
                 }
