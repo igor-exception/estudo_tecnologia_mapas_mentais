@@ -99,6 +99,21 @@
                       }
                     }
                   }
+                },
+                "3": {
+                  "title": "Melhor jeito",
+                  "id": "23.0563.5c542f16-7fd6.a158a1cc4",
+                  "ideas": {
+                    "1": {
+                      "title": "echo $null | Out-File -FilePath .\\app\\new.php -Encoding ascii",
+                      "id": "24.0563.5c542f16-7fd6.a158a1cc4",
+                      "attr": {
+                        "style": {
+                          "width": 377
+                        }
+                      }
+                    }
+                  }
                 }
               },
               "attr": {
