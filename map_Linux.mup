@@ -674,8 +674,14 @@
                       }
                     },
                     "2": {
-                      "title": "",
-                      "id": "227.ae40.95fc42579-5f3f.7bb7ce3f1"
+                      "title": "Ir para última linha do arquivo:",
+                      "id": "227.ae40.95fc42579-5f3f.7bb7ce3f1",
+                      "ideas": {
+                        "1": {
+                          "title": "alt + /",
+                          "id": "228.ae40.95fc42579-5f3f.7bb7ce3f1"
+                        }
+                      }
                     }
                   }
                 }
