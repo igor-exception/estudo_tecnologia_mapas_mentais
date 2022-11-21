@@ -100,8 +100,12 @@
               "id": "516.9857.3b040a76f-3aaa.d3e03c4be",
               "ideas": {
                 "1": {
-                  "title": "",
+                  "title": "1- entrar no site: https://xdebug.org/wizard ",
                   "id": "517.9857.3b040a76f-3aaa.d3e03c4be"
+                },
+                "2": {
+                  "title": "2- Copiar o phpinfo() e colocar no wizard",
+                  "id": "518.9857.3b040a76f-3aaa.d3e03c4be"
                 }
               }
             }
