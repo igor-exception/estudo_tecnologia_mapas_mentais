@@ -676,6 +676,42 @@
                   }
                 }
               }
+            },
+            "2": {
+              "title": "wget",
+              "id": "214.ae40.95fc42579-5f3f.7bb7ce3f1",
+              "ideas": {
+                "1": {
+                  "title": "info",
+                  "id": "216.ae40.95fc42579-5f3f.7bb7ce3f1",
+                  "ideas": {
+                    "1": {
+                      "title": "serve para baixar arquivos pela url",
+                      "id": "217.ae40.95fc42579-5f3f.7bb7ce3f1"
+                    },
+                    "2": {
+                      "title": "para instalar: apt install -y wget",
+                      "id": "218.ae40.95fc42579-5f3f.7bb7ce3f1"
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "tar",
+              "id": "219.ae40.95fc42579-5f3f.7bb7ce3f1",
+              "ideas": {
+                "1": {
+                  "title": "info",
+                  "id": "220.ae40.95fc42579-5f3f.7bb7ce3f1",
+                  "ideas": {
+                    "1": {
+                      "title": "serve para descompactar arquivos tar",
+                      "id": "221.ae40.95fc42579-5f3f.7bb7ce3f1"
+                    }
+                  }
+                }
+              }
             }
           }
         },
