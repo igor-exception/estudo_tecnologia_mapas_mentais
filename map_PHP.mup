@@ -65,6 +65,75 @@
             }
           }
         },
+        "21": {
+          "title": "Configuração",
+          "id": "506.9857.3b040a76f-3aaa.d3e03c4be",
+          "attr": {
+            "position": [
+              430.01416015625,
+              878.1278076171875,
+              31
+            ]
+          }
+        },
+        "26": {
+          "title": "Importante",
+          "id": "62.cd29.57ac7f1ea-975c.464c88df",
+          "ideas": {
+            "1": {
+              "title": "Atribuição por referencia, usando &;\nEm alguns momentos, podemos querer passar uma variável ou Array como parametro e que altere o valor original da variavel/valor. Para fazer, é necessário adicionar o 'e comercial' (&) antes da variavel.",
+              "id": "63.cd29.57ac7f1ea-975c.464c88df",
+              "ideas": {
+                "1": {
+                  "title": "$myCart = [];\n$myCart['totalPrice'] = 0;\n\n// usando closure e passando arrey por referencia, para que seja alterado o array principal\n$closeCart = function($item, $quantity, $price) use (&$myCart) {\n    $myCart[$item] = $quantity * $price;\n    $myCart['totalPrice'] += $myCart[$item];\n};\n$closeCart('banana', 2, 30);\n$closeCart('uva', 5, 35);\n$closeCart('pera', 8, 43);\nprint_r($myCart);",
+                  "id": "65.cd29.57ac7f1ea-975c.464c88df",
+                  "attr": {
+                    "style": {
+                      "textAlign": "left",
+                      "width": 426
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              549.005615234375,
+              1026.1249694824219,
+              32
+            ],
+            "collapsed": true
+          }
+        },
+        "31": {
+          "title": "Include / require",
+          "id": "73.870a.c700e5c67-e3f4.df9d5f4e3",
+          "ideas": {
+            "1": {
+              "title": "Include é um arquivo que talvez possa usar, mas não é necessário. Caso tente fazer um include em um arquivo e ele não exista, a aplicação seguirá rodando.",
+              "id": "74.870a.c700e5c67-e3f4.df9d5f4e3",
+              "ideas": {
+                "1": {
+                  "title": "include_once - inclui apenas uma vez",
+                  "id": "76.870a.c700e5c67-e3f4.df9d5f4e3"
+                }
+              }
+            },
+            "2": {
+              "title": "Require é um arquivo que é essencial para funcionamento. Caso faça um require e não exista, dará um erro fatal",
+              "id": "75.870a.c700e5c67-e3f4.df9d5f4e3"
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "position": [
+              360.005615234375,
+              1106.1249694824219,
+              33
+            ]
+          }
+        },
         "-1": {
           "title": "Comandos de Saída",
           "id": "30.cd29.57ac7f1ea-975c.464c88df",
@@ -156,64 +225,6 @@
                 }
               }
             }
-          }
-        },
-        "-12": {
-          "title": "Importante",
-          "id": "62.cd29.57ac7f1ea-975c.464c88df",
-          "ideas": {
-            "1": {
-              "title": "Atribuição por referencia, usando &;\nEm alguns momentos, podemos querer passar uma variável ou Array como parametro e que altere o valor original da variavel/valor. Para fazer, é necessário adicionar o 'e comercial' (&) antes da variavel.",
-              "id": "63.cd29.57ac7f1ea-975c.464c88df",
-              "ideas": {
-                "1": {
-                  "title": "$myCart = [];\n$myCart['totalPrice'] = 0;\n\n// usando closure e passando arrey por referencia, para que seja alterado o array principal\n$closeCart = function($item, $quantity, $price) use (&$myCart) {\n    $myCart[$item] = $quantity * $price;\n    $myCart['totalPrice'] += $myCart[$item];\n};\n$closeCart('banana', 2, 30);\n$closeCart('uva', 5, 35);\n$closeCart('pera', 8, 43);\nprint_r($myCart);",
-                  "id": "65.cd29.57ac7f1ea-975c.464c88df",
-                  "attr": {
-                    "style": {
-                      "textAlign": "left",
-                      "width": 426
-                    }
-                  }
-                }
-              }
-            }
-          },
-          "attr": {
-            "position": [
-              368,
-              353,
-              5
-            ],
-            "collapsed": true
-          }
-        },
-        "-13": {
-          "title": "Include / require",
-          "id": "73.870a.c700e5c67-e3f4.df9d5f4e3",
-          "ideas": {
-            "1": {
-              "title": "Include é um arquivo que talvez possa usar, mas não é necessário. Caso tente fazer um include em um arquivo e ele não exista, a aplicação seguirá rodando.",
-              "id": "74.870a.c700e5c67-e3f4.df9d5f4e3",
-              "ideas": {
-                "1": {
-                  "title": "include_once - inclui apenas uma vez",
-                  "id": "76.870a.c700e5c67-e3f4.df9d5f4e3"
-                }
-              }
-            },
-            "2": {
-              "title": "Require é um arquivo que é essencial para funcionamento. Caso faça um require e não exista, dará um erro fatal",
-              "id": "75.870a.c700e5c67-e3f4.df9d5f4e3"
-            }
-          },
-          "attr": {
-            "collapsed": true,
-            "position": [
-              284,
-              417,
-              6
-            ]
           }
         },
         "1.5": {
@@ -3340,7 +3351,13 @@
                   "id": "505.78a3.a748e4e37-f34d.2da8f920a"
                 }
               },
-              "attr": {}
+              "attr": {
+                "position": [
+                  498.98583984375,
+                  82.10507202148438,
+                  1
+                ]
+              }
             }
           },
           "attr": {
@@ -3348,17 +3365,6 @@
               238.98577880859375,
               341.03407287597656,
               22
-            ]
-          }
-        },
-        "-23": {
-          "title": "Configuração",
-          "id": "506.9857.3b040a76f-3aaa.d3e03c4be",
-          "attr": {
-            "position": [
-              319.9971923828125,
-              877.0254821777344,
-              23
             ]
           }
         },
