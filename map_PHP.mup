@@ -94,6 +94,16 @@
                   }
                 }
               }
+            },
+            "2": {
+              "title": "Configurar o Xdebug",
+              "id": "516.9857.3b040a76f-3aaa.d3e03c4be",
+              "ideas": {
+                "1": {
+                  "title": "",
+                  "id": "517.9857.3b040a76f-3aaa.d3e03c4be"
+                }
+              }
             }
           }
         },
