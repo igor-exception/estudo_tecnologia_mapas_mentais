@@ -631,6 +631,38 @@
             ]
           }
         },
+        "25": {
+          "title": "Programas",
+          "id": "207.1b95.60267b6d9-6728.58e51488",
+          "attr": {
+            "parentConnector": {
+              "width": 6
+            },
+            "position": [
+              113.58459901809738,
+              1600.0343790054317,
+              19
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Nano",
+              "id": "208.1b95.60267b6d9-6728.58e51488",
+              "ideas": {
+                "1": {
+                  "title": "info",
+                  "id": "209.1b95.60267b6d9-6728.58e51488",
+                  "ideas": {
+                    "1": {
+                      "title": "Editor de texto pelo terminal. Simples de usar",
+                      "id": "210.1b95.60267b6d9-6728.58e51488"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
         "-1": {
           "title": "Comandos",
           "id": "5.6156.69516d5e-3c38.0f979b4de",
