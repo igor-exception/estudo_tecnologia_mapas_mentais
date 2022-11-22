@@ -3631,8 +3631,24 @@
                   "id": "560.9857.3b040a76f-3aaa.d3e03c4be",
                   "ideas": {
                     "1": {
-                      "title": "",
+                      "title": "<?php ?>",
                       "id": "561.9857.3b040a76f-3aaa.d3e03c4be"
+                    },
+                    "2": {
+                      "title": "<?= 'hello' ?",
+                      "id": "562.9857.3b040a76f-3aaa.d3e03c4be",
+                      "ideas": {
+                        "1": {
+                          "title": "versão encurtada. Já da um echo junto",
+                          "id": "563.9857.3b040a76f-3aaa.d3e03c4be",
+                          "ideas": {
+                            "1": {
+                              "title": "o mesmo que: ",
+                              "id": "564.9857.3b040a76f-3aaa.d3e03c4be"
+                            }
+                          }
+                        }
+                      }
                     }
                   }
                 }
