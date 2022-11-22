@@ -3497,8 +3497,18 @@
                   }
                 },
                 "3": {
-                  "title": "",
-                  "id": "535.9857.3b040a76f-3aaa.d3e03c4be"
+                  "title": "Existem constantes que representam status das sessões",
+                  "id": "535.9857.3b040a76f-3aaa.d3e03c4be",
+                  "ideas": {
+                    "1": {
+                      "title": "PHP_SESSION_DISABLED, que representa o valor: 0",
+                      "id": "536.9857.3b040a76f-3aaa.d3e03c4be"
+                    },
+                    "2": {
+                      "title": "PHP_SESSION_NONE, que representa o valor: 1",
+                      "id": "537.9857.3b040a76f-3aaa.d3e03c4be"
+                    }
+                  }
                 },
                 "0.5": {
                   "title": "Fonte: https://www.youtube.com/watch?v=74V-hKLCeeo&t=183s",
