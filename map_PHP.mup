@@ -3617,8 +3617,22 @@
                   "id": "557.9857.3b040a76f-3aaa.d3e03c4be",
                   "ideas": {
                     "1": {
-                      "title": "<?php ech>'",
+                      "title": "<?php echo 'Hello'; ?>'",
                       "id": "558.9857.3b040a76f-3aaa.d3e03c4be"
+                    },
+                    "2": {
+                      "title": "Ao usar o igual,",
+                      "id": "559.9857.3b040a76f-3aaa.d3e03c4be"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "tipos de tags",
+                  "id": "560.9857.3b040a76f-3aaa.d3e03c4be",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "561.9857.3b040a76f-3aaa.d3e03c4be"
                     }
                   }
                 }
