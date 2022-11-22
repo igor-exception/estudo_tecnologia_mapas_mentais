@@ -3643,10 +3643,20 @@
                           "id": "563.9857.3b040a76f-3aaa.d3e03c4be",
                           "ideas": {
                             "1": {
-                              "title": "o mesmo que: ",
+                              "title": "o mesmo que:\n<?php echo 'hello'; ?>",
                               "id": "564.9857.3b040a76f-3aaa.d3e03c4be"
                             }
                           }
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "<? 'outra forma'?>",
+                      "id": "565.9857.3b040a76f-3aaa.d3e03c4be",
+                      "ideas": {
+                        "1": {
+                          "title": "",
+                          "id": "566.9857.3b040a76f-3aaa.d3e03c4be"
                         }
                       }
                     }
