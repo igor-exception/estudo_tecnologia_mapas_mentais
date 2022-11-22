@@ -3580,6 +3580,15 @@
                     }
                   }
                 },
+                "7": {
+                  "title": "todas as páginas que usam sessão tem que ter o session_start() no topo.",
+                  "id": "554.9857.3b040a76f-3aaa.d3e03c4be",
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FF0000"
+                    }
+                  }
+                },
                 "0.5": {
                   "title": "Fonte: https://www.youtube.com/watch?v=74V-hKLCeeo&t=183s",
                   "id": "505.78a3.a748e4e37-f34d.2da8f920a"
