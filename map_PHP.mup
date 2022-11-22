@@ -3487,7 +3487,18 @@
                       "title": "session_start();",
                       "id": "513.9857.3b040a76f-3aaa.d3e03c4be"
                     }
+                  },
+                  "attr": {
+                    "position": [
+                      82.96585083007812,
+                      95.20452880859375,
+                      1
+                    ]
                   }
+                },
+                "3": {
+                  "title": "",
+                  "id": "535.9857.3b040a76f-3aaa.d3e03c4be"
                 },
                 "0.5": {
                   "title": "Fonte: https://www.youtube.com/watch?v=74V-hKLCeeo&t=183s",
