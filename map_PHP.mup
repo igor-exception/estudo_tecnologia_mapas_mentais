@@ -3587,6 +3587,12 @@
                     "style": {
                       "backgroundColor": "#FF0000"
                     }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Pensava que bastasse chamar uma vez em uma página para deixar habilitado, mas depois descobri que é necessário chamar em todas paginas.",
+                      "id": "555.9857.3b040a76f-3aaa.d3e03c4be"
+                    }
                   }
                 },
                 "0.5": {
