@@ -3563,10 +3563,20 @@
                       "id": "548.9857.3b040a76f-3aaa.d3e03c4be",
                       "ideas": {
                         "1": {
-                          "title": "",
+                          "title": "session_name();",
                           "id": "549.9857.3b040a76f-3aaa.d3e03c4be"
                         }
                       }
+                    }
+                  }
+                },
+                "6": {
+                  "title": "inserir dados na sessão",
+                  "id": "552.9857.3b040a76f-3aaa.d3e03c4be",
+                  "ideas": {
+                    "1": {
+                      "title": "$_SESSION['name'] = 'John Doe';",
+                      "id": "553.9857.3b040a76f-3aaa.d3e03c4be"
                     }
                   }
                 },
