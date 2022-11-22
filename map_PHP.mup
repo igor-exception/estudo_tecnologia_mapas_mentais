@@ -73,7 +73,8 @@
               312.085205078125,
               249.2101593017578,
               40
-            ]
+            ],
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -2582,9 +2583,6 @@
                 "1": {
                   "title": "Namespace",
                   "id": "236.9f75.84fcc7b68-fbb9.9965909b6",
-                  "attr": {
-                    "collapsed": true
-                  },
                   "ideas": {
                     "1": {
                       "title": "É uma forma de organizar e evitar conflitos entre classes com mesmo nome de diretórios diferentes",
@@ -2607,6 +2605,9 @@
                             }
                           }
                         }
+                      },
+                      "attr": {
+                        "collapsed": true
                       }
                     },
                     "3": {
@@ -2626,6 +2627,9 @@
                             }
                           }
                         }
+                      },
+                      "attr": {
+                        "collapsed": true
                       }
                     }
                   }
@@ -2648,7 +2652,8 @@
                           "height": 250,
                           "position": "left",
                           "metaData": {}
-                        }
+                        },
+                        "collapsed": true
                       },
                       "ideas": {
                         "1": {
@@ -2662,9 +2667,6 @@
                         }
                       }
                     }
-                  },
-                  "attr": {
-                    "collapsed": true
                   }
                 },
                 "3": {
@@ -2694,11 +2696,11 @@
                             }
                           }
                         }
+                      },
+                      "attr": {
+                        "collapsed": true
                       }
                     }
-                  },
-                  "attr": {
-                    "collapsed": true
                   }
                 },
                 "4": {
@@ -2779,7 +2781,8 @@
                           189,
                           -204,
                           1
-                        ]
+                        ],
+                        "collapsed": true
                       }
                     },
                     "5": {
@@ -2834,9 +2837,6 @@
                         "collapsed": true
                       }
                     }
-                  },
-                  "attr": {
-                    "collapsed": true
                   }
                 }
               }
@@ -3153,9 +3153,6 @@
             "11": {
               "title": "File - Arquivos",
               "id": "201.d7a1.ab75f1a1d-3388.a19efc905",
-              "attr": {
-                "collapsed": true
-              },
               "ideas": {
                 "1": {
                   "title": "file_exists($file) - Verifica se arquivo existe",
@@ -3198,6 +3195,9 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             },
             "12": {
