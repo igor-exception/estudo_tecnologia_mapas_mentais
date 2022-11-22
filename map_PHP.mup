@@ -3547,6 +3547,26 @@
                           "id": "545.9857.3b040a76f-3aaa.d3e03c4be"
                         }
                       }
+                    },
+                    "4": {
+                      "title": "Pegar o ID da sessão:",
+                      "id": "546.9857.3b040a76f-3aaa.d3e03c4be",
+                      "ideas": {
+                        "1": {
+                          "title": "session_id();",
+                          "id": "547.9857.3b040a76f-3aaa.d3e03c4be"
+                        }
+                      }
+                    },
+                    "5": {
+                      "title": "Pegar o nome da sessão:",
+                      "id": "548.9857.3b040a76f-3aaa.d3e03c4be",
+                      "ideas": {
+                        "1": {
+                          "title": "",
+                          "id": "549.9857.3b040a76f-3aaa.d3e03c4be"
+                        }
+                      }
                     }
                   }
                 },
