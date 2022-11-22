@@ -3479,73 +3479,75 @@
                     "collapsed": true
                   }
                 },
-                "2": {
-                  "title": "Iniciar uma sessão:",
-                  "id": "512.9857.3b040a76f-3aaa.d3e03c4be",
+                "5": {
+                  "title": "Funções de sessão - Temos funções que nos permitem iniciar, remover, ver status da sessão",
+                  "id": "543.9857.3b040a76f-3aaa.d3e03c4be",
                   "ideas": {
                     "1": {
-                      "title": "session_start();",
-                      "id": "513.9857.3b040a76f-3aaa.d3e03c4be"
-                    }
-                  },
-                  "attr": {
-                    "position": [
-                      73.81245422363281,
-                      97.41757202148438,
-                      3
-                    ]
-                  }
-                },
-                "4": {
-                  "title": "Verificar o status de uma sessão: ",
-                  "id": "540.9857.3b040a76f-3aaa.d3e03c4be",
-                  "ideas": {
-                    "1": {
-                      "title": "session_status();",
-                      "id": "541.9857.3b040a76f-3aaa.d3e03c4be",
+                      "title": "Iniciar uma sessão:",
+                      "id": "512.9857.3b040a76f-3aaa.d3e03c4be",
                       "ideas": {
                         "1": {
-                          "title": "Retornará: 0, 1 ou 2",
-                          "id": "542.9857.3b040a76f-3aaa.d3e03c4be"
+                          "title": "session_start();",
+                          "id": "513.9857.3b040a76f-3aaa.d3e03c4be"
                         }
                       }
                     },
                     "2": {
-                      "title": "Existem constantes que representam status das sessões",
-                      "id": "535.9857.3b040a76f-3aaa.d3e03c4be",
+                      "title": "Verificar o status de uma sessão: ",
+                      "id": "540.9857.3b040a76f-3aaa.d3e03c4be",
                       "ideas": {
                         "1": {
-                          "title": "PHP_SESSION_DISABLED, que representa o valor: 0",
-                          "id": "536.9857.3b040a76f-3aaa.d3e03c4be"
+                          "title": "session_status();",
+                          "id": "541.9857.3b040a76f-3aaa.d3e03c4be",
+                          "ideas": {
+                            "1": {
+                              "title": "Retornará: 0, 1 ou 2",
+                              "id": "542.9857.3b040a76f-3aaa.d3e03c4be"
+                            }
+                          }
                         },
                         "2": {
-                          "title": "PHP_SESSION_NONE, que representa o valor: 1",
-                          "id": "537.9857.3b040a76f-3aaa.d3e03c4be"
-                        },
-                        "3": {
-                          "title": "PHP_SESSION_ACTIVE, que representa o valor: 2",
-                          "id": "538.9857.3b040a76f-3aaa.d3e03c4be"
-                        },
-                        "4": {
-                          "title": "Podemos verificar o status d",
-                          "id": "539.9857.3b040a76f-3aaa.d3e03c4be"
+                          "title": "Existem constantes que representam status das sessões",
+                          "id": "535.9857.3b040a76f-3aaa.d3e03c4be",
+                          "ideas": {
+                            "1": {
+                              "title": "PHP_SESSION_DISABLED, que representa o valor: 0",
+                              "id": "536.9857.3b040a76f-3aaa.d3e03c4be"
+                            },
+                            "2": {
+                              "title": "PHP_SESSION_NONE, que representa o valor: 1",
+                              "id": "537.9857.3b040a76f-3aaa.d3e03c4be"
+                            },
+                            "3": {
+                              "title": "PHP_SESSION_ACTIVE, que representa o valor: 2",
+                              "id": "538.9857.3b040a76f-3aaa.d3e03c4be"
+                            },
+                            "4": {
+                              "title": "Podemos verificar o status d",
+                              "id": "539.9857.3b040a76f-3aaa.d3e03c4be"
+                            }
+                          },
+                          "attr": {
+                            "position": [
+                              483.88063049316406,
+                              29.627838134765625,
+                              1
+                            ]
+                          }
                         }
-                      },
-                      "attr": {
-                        "position": [
-                          483.88063049316406,
-                          29.627838134765625,
-                          1
-                        ]
+                      }
+                    },
+                    "3": {
+                      "title": "Remover uma sessão",
+                      "id": "544.9857.3b040a76f-3aaa.d3e03c4be",
+                      "ideas": {
+                        "1": {
+                          "title": "session_destroy();",
+                          "id": "545.9857.3b040a76f-3aaa.d3e03c4be"
+                        }
                       }
                     }
-                  },
-                  "attr": {
-                    "position": [
-                      34.84086608886719,
-                      183.411865234375,
-                      2
-                    ]
                   }
                 },
                 "0.5": {
