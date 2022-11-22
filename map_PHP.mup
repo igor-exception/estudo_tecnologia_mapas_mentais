@@ -3607,6 +3607,22 @@
                   1
                 ]
               }
+            },
+            "15": {
+              "title": "tags",
+              "id": "556.9857.3b040a76f-3aaa.d3e03c4be",
+              "ideas": {
+                "1": {
+                  "title": "Para escrever código PHP. Temos que usar tags",
+                  "id": "557.9857.3b040a76f-3aaa.d3e03c4be",
+                  "ideas": {
+                    "1": {
+                      "title": "<?php ech>'",
+                      "id": "558.9857.3b040a76f-3aaa.d3e03c4be"
+                    }
+                  }
+                }
+              }
             }
           },
           "attr": {
