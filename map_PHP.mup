@@ -3061,7 +3061,7 @@
                   "id": "247.b144.bb0e5c6bc-b7d3.0fa1a6355",
                   "ideas": {
                     "1": {
-                      "title": "É um gerenciador de dependências. Como p NPM no node ou RubyGems para Ruby",
+                      "title": "É um gerenciador de dependências. Como o NPM no node ou RubyGems para Ruby",
                       "id": "248.b144.bb0e5c6bc-b7d3.0fa1a6355",
                       "ideas": {
                         "1": {
@@ -3138,9 +3138,6 @@
                         }
                       }
                     }
-                  },
-                  "attr": {
-                    "collapsed": true
                   }
                 }
               },
