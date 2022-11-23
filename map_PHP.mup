@@ -3060,23 +3060,16 @@
                   "title": "Composer",
                   "id": "247.b144.bb0e5c6bc-b7d3.0fa1a6355",
                   "ideas": {
-                    "1": {
-                      "title": "É um gerenciador de dependências. Como o NPM no node ou RubyGems para Ruby",
-                      "id": "248.b144.bb0e5c6bc-b7d3.0fa1a6355",
-                      "ideas": {
-                        "1": {
-                          "title": "Irá adicionar/remover dependencias de pacotes. Tornando fácil a inclusão de pendencias no projeto",
-                          "id": "250.b144.bb0e5c6bc-b7d3.0fa1a6355"
-                        }
-                      }
-                    },
-                    "2": {
-                      "title": "Composer 'cuida' de tudo que vai na pasta Vendor, onde não devemos mexer. o Próprio composer administra",
-                      "id": "251.b144.bb0e5c6bc-b7d3.0fa1a6355"
-                    },
                     "3": {
                       "title": "Depois de instalar, posso entrar na pasta do projeto e dar um composer init, para iniciar o projeto, e criar o arquivo composer.json. Lá posso colocar as dependencias",
-                      "id": "252.b144.bb0e5c6bc-b7d3.0fa1a6355"
+                      "id": "252.b144.bb0e5c6bc-b7d3.0fa1a6355",
+                      "attr": {
+                        "position": [
+                          428.67893981933594,
+                          -127.97438049316406,
+                          1
+                        ]
+                      }
                     },
                     "4": {
                       "title": "É necessário setar no composer.json o path da pasta onde os códigos ficarão, depois disso, gerar o autoload.php",
@@ -3136,6 +3129,35 @@
                             }
                           }
                         }
+                      }
+                    },
+                    "1.5": {
+                      "title": "info",
+                      "id": "568.cd6a.ec1e4344f-1b75.a8b55f135",
+                      "ideas": {
+                        "1": {
+                          "title": "É um gerenciador de dependências. Como o NPM no node ou RubyGems para Ruby",
+                          "id": "248.b144.bb0e5c6bc-b7d3.0fa1a6355",
+                          "ideas": {
+                            "1": {
+                              "title": "Irá adicionar/remover dependencias de pacotes. Tornando fácil a inclusão de pendencias no projeto",
+                              "id": "250.b144.bb0e5c6bc-b7d3.0fa1a6355"
+                            }
+                          },
+                          "attr": {}
+                        },
+                        "2": {
+                          "title": "Composer 'cuida' de tudo que vai na pasta Vendor, onde não devemos mexer. o Próprio composer administra",
+                          "id": "251.b144.bb0e5c6bc-b7d3.0fa1a6355",
+                          "attr": {}
+                        }
+                      },
+                      "attr": {
+                        "position": [
+                          135.6760711669922,
+                          -236.9459686279297,
+                          2
+                        ]
                       }
                     }
                   }
