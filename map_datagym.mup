@@ -100,8 +100,21 @@
               "id": "13.7033.55c61ce32-3158.86ce4d8f4",
               "ideas": {
                 "1": {
-                  "title": "instalei o composer diretamente pelo site. Vi que posso usar um container para isso",
-                  "id": "14.7033.55c61ce32-3158.86ce4d8f4"
+                  "title": "instalei o composer no container. Vi que posso usar um container para isso",
+                  "id": "14.7033.55c61ce32-3158.86ce4d8f4",
+                  "attr": {
+                    "position": [
+                      85.99433135986328,
+                      -137.96590518951416,
+                      1
+                    ]
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "15.7033.55c61ce32-3158.86ce4d8f4"
+                    }
+                  }
                 }
               }
             }
