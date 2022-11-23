@@ -111,8 +111,12 @@
                   },
                   "ideas": {
                     "1": {
-                      "title": "",
+                      "title": "Talvez mais altere isso no futuro",
                       "id": "15.7033.55c61ce32-3158.86ce4d8f4"
+                    },
+                    "2": {
+                      "title": "Darei commit na imagem do php para deixar instalado o composer",
+                      "id": "16.7033.55c61ce32-3158.86ce4d8f4"
                     }
                   }
                 }
