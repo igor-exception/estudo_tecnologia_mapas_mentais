@@ -92,8 +92,20 @@
           }
         },
         "-1": {
-          "title": "",
-          "id": "12.7033.55c61ce32-3158.86ce4d8f4"
+          "title": "PHP",
+          "id": "12.7033.55c61ce32-3158.86ce4d8f4",
+          "ideas": {
+            "1": {
+              "title": "composer",
+              "id": "13.7033.55c61ce32-3158.86ce4d8f4",
+              "ideas": {
+                "1": {
+                  "title": "instalei o composer diretamente pelo site. Vi que posso usar um container para isso",
+                  "id": "14.7033.55c61ce32-3158.86ce4d8f4"
+                }
+              }
+            }
+          }
         }
       }
     }
