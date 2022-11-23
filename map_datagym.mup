@@ -1,0 +1,34 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "DataGym",
+      "id": 1,
+      "attr": {
+        "position": [
+          -34,
+          -15,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Info",
+          "id": "2.7033.55c61ce32-3158.86ce4d8f4",
+          "attr": {
+            "position": [
+              86.99715328216553,
+              -90.99431705474854,
+              1
+            ]
+          }
+        }
+      }
+    }
+  },
+  "attr": {
+    "theme": "default"
+  },
+  "title": ""
+}
