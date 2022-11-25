@@ -188,6 +188,16 @@
                       "textAlign": "left"
                     }
                   }
+                },
+                "3": {
+                  "title": "CREATE TABLE actions (\n id int NOT NULL AUTO_INCREMENT,\n    repetitions int(255),\n    weight int(255),\n    rest int(255),\n    id_exercise int(255) NOT NULL,\n    id_user int(255) NOT NULL,\n    date DATE, \n    PRIMARY KEY(id),\n    FOREIGN KEY (id_exercise) REFERENCES exercises(id) ON DELETE CASCADE,\n    FOREIGN KEY (id_user) REFERENCES users(id) ON DELETE CASCADE\n);",
+                  "id": "25.27cf.2228cd8d7-56be.ccfdcf16",
+                  "attr": {
+                    "style": {
+                      "width": 479,
+                      "textAlign": "left"
+                    }
+                  }
                 }
               }
             }
