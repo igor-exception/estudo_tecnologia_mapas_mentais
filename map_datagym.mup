@@ -180,7 +180,7 @@
                   }
                 },
                 "2": {
-                  "title": "CREATE TABLE exercices (\n id int NOT NULL AUTO_INCREMENT,\n    name VARCHAR(255),\n    PRIMARY KEY(id)\n);",
+                  "title": "CREATE TABLE exercises (\n id int NOT NULL AUTO_INCREMENT,\n    name VARCHAR(255),\n    PRIMARY KEY(id)\n);",
                   "id": "24.27cf.2228cd8d7-56be.ccfdcf16",
                   "attr": {
                     "style": {
