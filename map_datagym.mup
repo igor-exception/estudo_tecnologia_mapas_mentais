@@ -184,7 +184,8 @@
                   "id": "24.27cf.2228cd8d7-56be.ccfdcf16",
                   "attr": {
                     "style": {
-                      "width": 234
+                      "width": 234,
+                      "textAlign": "left"
                     }
                   }
                 }
