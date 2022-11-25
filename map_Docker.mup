@@ -1642,6 +1642,27 @@
               }
             }
           }
+        },
+        "37.5": {
+          "title": "Conectando 2 containers",
+          "id": "248.1ab7.2f81f1c06-66c2.740ad57fa",
+          "attr": {
+            "position": [
+              229.65740966796784,
+              825.9971961975089,
+              22
+            ],
+            "style": {
+              "width": 196,
+              "backgroundColor": "#FF6600"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "",
+              "id": "249.1ab7.2f81f1c06-66c2.740ad57fa"
+            }
+          }
         }
       }
     }
