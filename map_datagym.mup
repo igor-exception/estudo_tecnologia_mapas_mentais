@@ -99,7 +99,19 @@
         },
         "3": {
           "title": "Dificuldades",
-          "id": "26.27cf.2228cd8d7-56be.ccfdcf16"
+          "id": "26.27cf.2228cd8d7-56be.ccfdcf16",
+          "ideas": {
+            "1": {
+              "title": "Estou usando docker, com uma imagem que já tem o php, apache, composer etc...\nSubi outro container só para o banco de dados\nComo conecto estes dois containers? Lembrando que estão em docker-compose diferentes",
+              "id": "27.27cf.2228cd8d7-56be.ccfdcf16",
+              "ideas": {
+                "1": {
+                  "title": "Talvez isso ajude: https://tjtelan.com/blog/how-to-link-multiple-docker-compose-via-network/",
+                  "id": "28.27cf.2228cd8d7-56be.ccfdcf16"
+                }
+              }
+            }
+          }
         },
         "-1": {
           "title": "PHP",
