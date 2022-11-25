@@ -1659,7 +1659,7 @@
           },
           "ideas": {
             "1": {
-              "title": "",
+              "title": "Se uso apenas 1 container, que compartilha a porta com o host, ex: 3306(mysql), como faço para que outro container tbm use esta porta?",
               "id": "249.1ab7.2f81f1c06-66c2.740ad57fa"
             }
           }
