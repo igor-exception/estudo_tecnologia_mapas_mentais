@@ -12,7 +12,12 @@
           1
         ]
       },
-      "ideas": {}
+      "ideas": {
+        "1": {
+          "title": "Fonte:https://explore.skillbuilder.aws/learn",
+          "id": "2.cfe7.cdc92414e-2d9d.317d68022"
+        }
+      }
     }
   },
   "attr": {
