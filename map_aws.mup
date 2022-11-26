@@ -1,1 +1,22 @@
-{"formatVersion":3,"id":"root","ideas":{"1":{"title":"Press Space or double-click to edit","id":1}},"attr":{"theme":"default"}}
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "AWS",
+      "id": 1,
+      "attr": {
+        "position": [
+          -19,
+          -15,
+          1
+        ]
+      },
+      "ideas": {}
+    }
+  },
+  "attr": {
+    "theme": "default"
+  },
+  "title": ""
+}
