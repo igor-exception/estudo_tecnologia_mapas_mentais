@@ -1658,7 +1658,7 @@
                       },
                       "ideas": {
                         "1": {
-                          "title": "",
+                          "title": "Digamos que o projeto esteja na pasta: myapp.\nNeste caso, tanto o service web, quanto o db compartilharão o mesmo network: myapp_default",
                           "id": "254.67a7.4753eae41-58e6.b7cc8e929"
                         }
                       }
