@@ -1740,8 +1740,24 @@
                   }
                 },
                 "3": {
-                  "title": "",
-                  "id": "266.67a7.4753eae41-58e6.b7cc8e929"
+                  "title": "Existem dois tipos de nodes no Swarm",
+                  "id": "266.67a7.4753eae41-58e6.b7cc8e929",
+                  "ideas": {
+                    "1": {
+                      "title": "Manager node",
+                      "id": "267.67a7.4753eae41-58e6.b7cc8e929",
+                      "ideas": {
+                        "1": {
+                          "title": "",
+                          "id": "269.67a7.4753eae41-58e6.b7cc8e929"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Worker node",
+                      "id": "268.67a7.4753eae41-58e6.b7cc8e929"
+                    }
+                  }
                 }
               },
               "attr": {}
