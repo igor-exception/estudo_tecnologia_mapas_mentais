@@ -1720,8 +1720,19 @@
                 "1": {
                   "title": "Serve para gerenciar multiplos containers, Fazendo a conexão entre eles",
                   "id": "260.67a7.4753eae41-58e6.b7cc8e929"
+                },
+                "2": {
+                  "title": "O que é o Docker Swarm",
+                  "id": "261.67a7.4753eae41-58e6.b7cc8e929",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "262.67a7.4753eae41-58e6.b7cc8e929"
+                    }
+                  }
                 }
-              }
+              },
+              "attr": {}
             }
           }
         }
