@@ -1660,6 +1660,10 @@
                         "1": {
                           "title": "Digamos que o projeto esteja na pasta: myapp.\nNeste caso, tanto o service web, quanto o db compartilharão o mesmo network: myapp_default",
                           "id": "254.67a7.4753eae41-58e6.b7cc8e929"
+                        },
+                        "2": {
+                          "title": "Neste caso, o container web, poderia acessar o endereço: postgres://db:5432",
+                          "id": "255.67a7.4753eae41-58e6.b7cc8e929"
                         }
                       }
                     }
