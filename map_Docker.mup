@@ -1670,7 +1670,7 @@
                   }
                 },
                 "2": {
-                  "title": "",
+                  "title": "Para ver as networks existentes, basta fazer: $ docker network ls",
                   "id": "256.67a7.4753eae41-58e6.b7cc8e929"
                 }
               }
