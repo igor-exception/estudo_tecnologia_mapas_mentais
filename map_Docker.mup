@@ -1730,8 +1730,12 @@
                       "id": "262.67a7.4753eae41-58e6.b7cc8e929"
                     },
                     "2": {
-                      "title": "Um",
+                      "title": "Um dos pontos chaves do Swarm, são os Docker Deamons, que são responsáveis por gerenciar armazenamento, containers, network etc..",
                       "id": "264.67a7.4753eae41-58e6.b7cc8e929"
+                    },
+                    "3": {
+                      "title": "O Swarm faz a orquestração entre esses diversos Daemons, que são chamados de Nodes",
+                      "id": "265.67a7.4753eae41-58e6.b7cc8e929"
                     }
                   }
                 }
