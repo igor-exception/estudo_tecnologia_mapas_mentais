@@ -1704,7 +1704,26 @@
         },
         "-41": {
           "title": "Docker Swarm",
-          "id": "257.67a7.4753eae41-58e6.b7cc8e929"
+          "id": "257.67a7.4753eae41-58e6.b7cc8e929",
+          "attr": {
+            "position": [
+              188.83126831054733,
+              634.94338607788,
+              25
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Info",
+              "id": "258.67a7.4753eae41-58e6.b7cc8e929",
+              "ideas": {
+                "1": {
+                  "title": "Serve para gerenciar multiplos containers, Fazendo a conexão entre eles",
+                  "id": "260.67a7.4753eae41-58e6.b7cc8e929"
+                }
+              }
+            }
+          }
         }
       }
     }
