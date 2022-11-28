@@ -1767,6 +1767,20 @@
                 }
               },
               "attr": {}
+            },
+            "2": {
+              "title": "tutoriais",
+              "id": "271.67a7.4753eae41-58e6.b7cc8e929",
+              "ideas": {
+                "1": {
+                  "title": "Principais conceitos https://docs.docker.com/engine/swarm/key-concepts/",
+                  "id": "272.67a7.4753eae41-58e6.b7cc8e929"
+                },
+                "2": {
+                  "title": "Começando com swarm mode https://docs.docker.com/engine/swarm/swarm-tutorial/",
+                  "id": "273.67a7.4753eae41-58e6.b7cc8e929"
+                }
+              }
             }
           }
         }
