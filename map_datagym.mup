@@ -108,6 +108,16 @@
                 "1": {
                   "title": "Talvez isso ajude: https://tjtelan.com/blog/how-to-link-multiple-docker-compose-via-network/",
                   "id": "28.27cf.2228cd8d7-56be.ccfdcf16"
+                },
+                "2": {
+                  "title": "Resolvi deixar tudo no mesmo docker-compose, o app e o db",
+                  "id": "29.10c9.9839705f4-3dd0.d7dcf525a",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "31.10c9.9839705f4-3dd0.d7dcf525a"
+                    }
+                  }
                 }
               }
             }
