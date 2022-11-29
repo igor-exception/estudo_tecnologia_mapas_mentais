@@ -257,12 +257,12 @@
             }
           },
           "attr": {
-            "collapsed": true,
             "position": [
               397.0625,
               463.19313049316406,
               39
-            ]
+            ],
+            "collapsed": true
           }
         },
         "-1": {
@@ -1049,9 +1049,6 @@
             "3": {
               "title": "POO - Orientação a Objetos",
               "id": "261.7626.0b332d017-7a15.f37e574dd",
-              "attr": {
-                "collapsed": true
-              },
               "ideas": {
                 "1": {
                   "title": "Objeto é uma forma de instanciar uma classe.",
@@ -3180,6 +3177,9 @@
                         ]
                       }
                     }
+                  },
+                  "attr": {
+                    "collapsed": true
                   }
                 }
               },
@@ -3648,7 +3648,8 @@
                   498.98583984375,
                   82.10507202148438,
                   1
-                ]
+                ],
+                "collapsed": true
               }
             },
             "15": {
@@ -3705,6 +3706,9 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             }
           },
