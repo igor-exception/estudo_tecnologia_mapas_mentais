@@ -1030,7 +1030,7 @@
                   "id": "405.07b7.f4c9157fd-243d.210e39e79",
                   "ideas": {
                     "1": {
-                      "title": "Não devemos concatenar parametros vindo de forma externa diretamente na query, pois podemos sobre de SQL injection.",
+                      "title": "Não devemos concatenar parametros vindo de forma externa diretamente na query, pois podemos sofrer SQL injection.",
                       "id": "406.07b7.f4c9157fd-243d.210e39e79",
                       "ideas": {
                         "1": {
