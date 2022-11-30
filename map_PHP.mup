@@ -2573,8 +2573,7 @@
               "attr": {
                 "parentConnector": {
                   "width": 6
-                },
-                "collapsed": true
+                }
               },
               "ideas": {
                 "1": {
@@ -2778,8 +2777,7 @@
                           189,
                           -204,
                           1
-                        ],
-                        "collapsed": true
+                        ]
                       }
                     },
                     "5": {
