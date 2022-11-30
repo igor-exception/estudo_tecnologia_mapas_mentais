@@ -518,8 +518,7 @@
                       300,
                       -418,
                       1
-                    ],
-                    "collapsed": true
+                    ]
                   }
                 },
                 "2": {
@@ -620,7 +619,9 @@
                 "style": {
                   "backgroundColor": "#FFFF99"
                 },
-                "collapsed": true
+                "parentConnector": {
+                  "width": 4
+                }
               }
             },
             "2": {
@@ -1041,6 +1042,9 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             },
             "3": {
@@ -2573,7 +2577,8 @@
               "attr": {
                 "parentConnector": {
                   "width": 6
-                }
+                },
+                "collapsed": true
               },
               "ideas": {
                 "1": {
