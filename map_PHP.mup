@@ -234,7 +234,7 @@
                   "id": "578.6e31.c28a52ab1-a8e2.b127a8e5e",
                   "ideas": {
                     "1": {
-                      "title": "php phpunit-9.5.phar --version",
+                      "title": "$ php phpunit-9.5.phar --version",
                       "id": "579.6e31.c28a52ab1-a8e2.b127a8e5e",
                       "attr": {
                         "style": {
