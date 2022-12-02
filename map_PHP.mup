@@ -209,12 +209,23 @@
               "id": "573.6e31.c28a52ab1-a8e2.b127a8e5e",
               "ideas": {
                 "1": {
-                  "title": "infor",
+                  "title": "info",
                   "id": "574.6e31.c28a52ab1-a8e2.b127a8e5e",
                   "ideas": {
                     "1": {
+                      "title": "É uma forma de colocar toda uma aplicação php dentro de um arquivo chamado PHAR",
+                      "id": "576.6e31.c28a52ab1-a8e2.b127a8e5e",
+                      "attr": {
+                        "position": [
+                          47.01702880859375,
+                          -85.78416442871094,
+                          1
+                        ]
+                      }
+                    },
+                    "2": {
                       "title": "",
-                      "id": "575.6e31.c28a52ab1-a8e2.b127a8e5e"
+                      "id": "577.6e31.c28a52ab1-a8e2.b127a8e5e"
                     }
                   }
                 }
