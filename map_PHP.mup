@@ -566,7 +566,12 @@
                     "7": {
                       "title": "Configuração",
                       "id": "580.6555.d1f336f91-9a59.b0424de6",
-                      "ideas": {}
+                      "ideas": {},
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#FFFF99"
+                        }
+                      }
                     }
                   },
                   "attr": {
@@ -593,6 +598,9 @@
                       "title": "Pelo que entendi de testes, o ciclo normal é testar o comportamento e fazer testes para ter cobertura, no futuro se for identificado um novo bug, escrevo o teste que força esse bug, corrijo, faço passar. Novos bugs podem surgir, mas não aquele já identificado anteriormente",
                       "id": "435.7ba3.bed2b15f2-0bdd.8ce6f2a1c"
                     }
+                  },
+                  "attr": {
+                    "collapsed": true
                   }
                 },
                 "3": {
@@ -665,7 +673,9 @@
                     }
                   },
                   "id": "446.7ba3.bed2b15f2-0bdd.8ce6f2a1c",
-                  "attr": {}
+                  "attr": {
+                    "collapsed": true
+                  }
                 }
               },
               "attr": {
