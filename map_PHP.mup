@@ -579,9 +579,6 @@
                       "title": "Pelo que entendi de testes, o ciclo normal é testar o comportamento e fazer testes para ter cobertura, no futuro se for identificado um novo bug, escrevo o teste para analisar, corrijo e este bug já não existirá mais. Novos bugs podem surgir, mas não aquele já identificado anteriormente",
                       "id": "435.7ba3.bed2b15f2-0bdd.8ce6f2a1c"
                     }
-                  },
-                  "attr": {
-                    "collapsed": true
                   }
                 },
                 "3": {
