@@ -614,6 +614,10 @@
                                   }
                                 }
                               }
+                            },
+                            "2": {
+                              "title": "Com isso, não precisarei especificar o arquivo dos testes, o xml já carregará, e usará o autoload ",
+                              "id": "589.6555.d1f336f91-9a59.b0424de6"
                             }
                           }
                         }
