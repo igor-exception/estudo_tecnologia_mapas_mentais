@@ -502,6 +502,9 @@
                             }
                           }
                         }
+                      },
+                      "attr": {
+                        "collapsed": true
                       }
                     },
                     "5": {
@@ -518,6 +521,9 @@
                             }
                           }
                         }
+                      },
+                      "attr": {
+                        "collapsed": true
                       }
                     },
                     "6": {
@@ -552,7 +558,15 @@
                             }
                           }
                         }
+                      },
+                      "attr": {
+                        "collapsed": true
                       }
+                    },
+                    "7": {
+                      "title": "Configuração",
+                      "id": "580.6555.d1f336f91-9a59.b0424de6",
+                      "ideas": {}
                     }
                   },
                   "attr": {
