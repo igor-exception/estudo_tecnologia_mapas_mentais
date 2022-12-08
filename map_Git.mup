@@ -262,8 +262,45 @@
                       }
                     },
                     "3": {
-                      "title": "",
-                      "id": "45.2889.6922e31ac-f853.328aecfad"
+                      "title": "Caso a token anterior tenha expirado, é necessário remover o token antigo e refazer processo de adição",
+                      "id": "45.2889.6922e31ac-f853.328aecfad",
+                      "ideas": {
+                        "1": {
+                          "title": "1- para ver o token atual",
+                          "id": "46.2889.6922e31ac-f853.328aecfad",
+                          "ideas": {
+                            "1": {
+                              "title": "git remote -v",
+                              "id": "47.2889.6922e31ac-f853.328aecfad"
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "2- Para remover antigo",
+                          "id": "48.2889.6922e31ac-f853.328aecfad",
+                          "ideas": {
+                            "1": {
+                              "title": "git remote remove origin",
+                              "id": "49.2889.6922e31ac-f853.328aecfad",
+                              "attr": {
+                                "style": {
+                                  "width": 170
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "3": {
+                          "title": "3- adicionar nova token",
+                          "id": "50.2889.6922e31ac-f853.328aecfad",
+                          "ideas": {
+                            "1": {
+                              "title": "git remote add origin https://<token 123>@github.com/igor-exception/estudo_tecnologia_mapas_mentais",
+                              "id": "51.2889.6922e31ac-f853.328aecfad"
+                            }
+                          }
+                        }
+                      }
                     }
                   }
                 }
