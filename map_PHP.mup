@@ -658,8 +658,18 @@
                               }
                             },
                             "2": {
-                              "title": "",
-                              "id": "595.6555.d1f336f91-9a59.b0424de6"
+                              "title": "Ao rodar, receberei uma mensagem dizendo que não foram encontrados testes. Preciso dizer para o phpunit que aquela função é um teste. Posso fazer isso de duas formas",
+                              "id": "595.6555.d1f336f91-9a59.b0424de6",
+                              "ideas": {
+                                "1": {
+                                  "title": "Usando annotations",
+                                  "id": "596.6555.d1f336f91-9a59.b0424de6"
+                                },
+                                "2": {
+                                  "title": "usando a palavra test no inicio da funcao",
+                                  "id": "597.6555.d1f336f91-9a59.b0424de6"
+                                }
+                              }
                             }
                           }
                         }
