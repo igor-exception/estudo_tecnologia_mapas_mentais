@@ -660,6 +660,16 @@
                       1
                     ]
                   }
+                },
+                "15.5": {
+                  "title": "9- Necessário configurar o token no repositório do git, ver o mapa mental de GIT, na parte de configurações.",
+                  "id": "276.b846.9f7b0d845-5b7d.54b482b88",
+                  "ideas": {
+                    "1": {
+                      "title": "Lá é possível ver o passo a passo",
+                      "id": "277.b846.9f7b0d845-5b7d.54b482b88"
+                    }
+                  }
                 }
               }
             },
