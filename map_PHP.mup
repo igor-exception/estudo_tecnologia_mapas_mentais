@@ -566,7 +566,12 @@
                     "7": {
                       "title": "Configuração",
                       "id": "580.6555.d1f336f91-9a59.b0424de6",
-                      "ideas": {},
+                      "ideas": {
+                        "1": {
+                          "title": "",
+                          "id": "583.6555.d1f336f91-9a59.b0424de6"
+                        }
+                      },
                       "attr": {
                         "style": {
                           "backgroundColor": "#FFFF99"
