@@ -568,7 +568,7 @@
                       "id": "580.6555.d1f336f91-9a59.b0424de6",
                       "ideas": {
                         "1": {
-                          "title": "Criar pasta de test e pasta unit (referencia a teste unitario) E as pastas dentro com referencia as pastas com codigo",
+                          "title": "1- Criar pasta de test e pasta unit (referencia a teste unitario) E as pastas dentro com referencia as pastas com codigo",
                           "id": "583.6555.d1f336f91-9a59.b0424de6",
                           "ideas": {
                             "1": {
@@ -587,7 +587,7 @@
                           }
                         },
                         "2": {
-                          "title": "Criar arquivo XML na raiz do projeto chamado: phpunit.xml",
+                          "title": "2- Criar arquivo XML na raiz do projeto chamado: phpunit.xml",
                           "id": "586.6555.d1f336f91-9a59.b0424de6",
                           "ideas": {
                             "1": {
@@ -620,6 +620,10 @@
                               "id": "589.6555.d1f336f91-9a59.b0424de6"
                             }
                           }
+                        },
+                        "3": {
+                          "title": "",
+                          "id": "591.6555.d1f336f91-9a59.b0424de6"
                         }
                       },
                       "attr": {
