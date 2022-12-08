@@ -647,7 +647,7 @@
                       "id": "470.7ba3.bed2b15f2-0bdd.8ce6f2a1c",
                       "ideas": {
                         "1": {
-                          "title": "É colocar if dentro de if, aumentando o grau de complexidade. Nos testes, deveremos testar cada condição. Cada if permite 2 condições, se insiro if dentro de if, a quantidade de possibilidades/caminhos aumenta.",
+                          "title": "É colocar if dentro de if, aumentando o grau de complexidade. Nos testes, deveremos testar cada condição. Cada if permite 2 condições, se insiro if dentro de if, a quantidade de possibilidades/caminhos dobra.",
                           "id": "471.7ba3.bed2b15f2-0bdd.8ce6f2a1c"
                         }
                       }
