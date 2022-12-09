@@ -47,6 +47,22 @@
             ]
           }
         },
+        "2": {
+          "title": "estudar ",
+          "id": "17.cf00.b4c76418a-ed38.2cc1a358d",
+          "ideas": {
+            "1": {
+              "title": "Tell, dont ask",
+              "id": "18.cf00.b4c76418a-ed38.2cc1a358d",
+              "ideas": {
+                "1": {
+                  "title": "https://www.youtube.com/watch?v=7IXeLhpjk6g",
+                  "id": "19.cf00.b4c76418a-ed38.2cc1a358d"
+                }
+              }
+            }
+          }
+        },
         "-1": {
           "title": "Conceitos",
           "id": "4.cf00.b4c76418a-ed38.2cc1a358d",
