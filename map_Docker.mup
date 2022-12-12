@@ -731,6 +731,22 @@
                   1
                 ]
               }
+            },
+            "4": {
+              "title": "Importante",
+              "id": "278.4a68.101d47695-6a1a.2627e1073",
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FF0000",
+                  "fontMultiplier": 1.5
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "",
+                  "id": "279.4a68.101d47695-6a1a.2627e1073"
+                }
+              }
             }
           }
         },
