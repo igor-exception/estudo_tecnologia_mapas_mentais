@@ -133,6 +133,21 @@
                       }
                     }
                   }
+                },
+                "5": {
+                  "title": "Encontrar arquivo",
+                  "id": "26.9f20.8a9aea54c-0be1.101e65b3a",
+                  "ideas": {
+                    "1": {
+                      "title": "Get-Childitem -Path . -Include *<nome arquivo>* -Recurse",
+                      "id": "27.9f20.8a9aea54c-0be1.101e65b3a",
+                      "attr": {
+                        "style": {
+                          "width": 383
+                        }
+                      }
+                    }
+                  }
                 }
               },
               "attr": {
