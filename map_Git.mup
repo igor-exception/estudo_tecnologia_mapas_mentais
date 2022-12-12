@@ -163,6 +163,16 @@
                   "id": "44.f9ee.108211403-bf49.9a79d9538"
                 }
               }
+            },
+            "6": {
+              "title": "Dar update em uma mensagem do commit antes de fazer o push",
+              "id": "52.71f1.f72c09f61-2bb6.6341d4381",
+              "ideas": {
+                "1": {
+                  "title": "git commit --amend -m \"New commit message.\"",
+                  "id": "53.71f1.f72c09f61-2bb6.6341d4381"
+                }
+              }
             }
           },
           "attr": {
