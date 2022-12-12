@@ -1,0 +1,54 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Escalabilidade",
+      "id": 1,
+      "ideas": {
+        "10": {
+          "title": "fonte",
+          "ideas": {
+            "1": {
+              "title": "https://twitter.com/rponte/status/1602319730991407106",
+              "attr": {
+                "position": [
+                  66.99709224700928,
+                  -184.99431705474854,
+                  1
+                ]
+              },
+              "id": "4.6a4c.6b9b31bd8-973e.a9c22a397"
+            },
+            "2": {
+              "title": "https://www.youtube.com/watch?v=KyqFXVVgvIs",
+              "attr": {
+                "position": [
+                  91.99709224700928,
+                  115.00281429290771,
+                  2
+                ]
+              },
+              "id": "5.6a4c.6b9b31bd8-973e.a9c22a397"
+            }
+          },
+          "id": "3.6a4c.6b9b31bd8-973e.a9c22a397",
+          "attr": {}
+        },
+        "-1": {
+          "title": "teste",
+          "id": "8.6a4c.6b9b31bd8-973e.a9c22a397"
+        }
+      },
+      "attr": {
+        "position": [
+          -79,
+          -24,
+          1
+        ]
+      }
+    }
+  },
+  "title": "",
+  "links": []
+}
