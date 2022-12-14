@@ -70,8 +70,38 @@
           "id": "10.1de1.3d4c20d05-f547.f2500e84e",
           "ideas": {
             "1": {
-              "title": "",
+              "title": "Diagrama de Classes",
               "id": "11.1de1.3d4c20d05-f547.f2500e84e"
+            },
+            "2": {
+              "title": "Diagrama de componentes",
+              "id": "12.1de1.3d4c20d05-f547.f2500e84e",
+              "attr": {
+                "style": {
+                  "width": 205
+                }
+              }
+            },
+            "3": {
+              "title": "Diagrama de Implantação",
+              "id": "13.1de1.3d4c20d05-f547.f2500e84e",
+              "attr": {
+                "style": {
+                  "width": 189
+                }
+              }
+            },
+            "4": {
+              "title": "Diagrama de objetos",
+              "id": "14.1de1.3d4c20d05-f547.f2500e84e"
+            },
+            "5": {
+              "title": "Diagrama do pacote",
+              "id": "15.1de1.3d4c20d05-f547.f2500e84e"
+            },
+            "6": {
+              "title": "Diagrama de Perfil",
+              "id": "16.1de1.3d4c20d05-f547.f2500e84e"
             }
           }
         }
