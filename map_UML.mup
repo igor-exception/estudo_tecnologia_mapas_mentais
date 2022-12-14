@@ -1,0 +1,40 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "UML",
+      "id": 1,
+      "attr": {
+        "position": [
+          -20,
+          -15,
+          1
+        ],
+        "style": {
+          "backgroundColor": "#FFFF99"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "fonte",
+          "id": "2.1de1.3d4c20d05-f547.f2500e84e",
+          "ideas": {
+            "1": {
+              "title": "https://www.youtube.com/watch?v=WnMQ8HlmeXc",
+              "id": "3.1de1.3d4c20d05-f547.f2500e84e"
+            },
+            "2": {
+              "title": "https://www.youtube.com/watch?v=UI6lqHOVHic",
+              "id": "4.1de1.3d4c20d05-f547.f2500e84e"
+            }
+          }
+        }
+      }
+    }
+  },
+  "attr": {
+    "theme": "default"
+  },
+  "title": ""
+}
