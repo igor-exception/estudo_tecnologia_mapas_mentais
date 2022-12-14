@@ -80,6 +80,20 @@
                 ]
               }
             },
+            "3": {
+              "title": "Diagrama de componentes",
+              "id": "12.1de1.3d4c20d05-f547.f2500e84e",
+              "attr": {
+                "style": {
+                  "width": 205
+                },
+                "position": [
+                  164.99429321289062,
+                  -90.92898559570312,
+                  5
+                ]
+              }
+            },
             "4": {
               "title": "Diagrama do pacote",
               "id": "15.1de1.3d4c20d05-f547.f2500e84e",
@@ -105,52 +119,37 @@
             "18": {
               "title": "Diagramas de estrutura",
               "id": "17.1de1.3d4c20d05-f547.f2500e84e",
-              "ideas": {
-                "0.75": {
-                  "title": "Diagrama de componentes",
-                  "id": "12.1de1.3d4c20d05-f547.f2500e84e",
-                  "attr": {
-                    "style": {
-                      "width": 205
-                    },
-                    "position": [
-                      173.98860549926758,
-                      -122.98294067382812,
-                      2
-                    ]
-                  }
-                },
-                "0.875": {
-                  "title": "Diagrama de Implantação",
-                  "id": "13.1de1.3d4c20d05-f547.f2500e84e",
-                  "attr": {
-                    "style": {
-                      "width": 189
-                    },
-                    "position": [
-                      191.9942855834961,
-                      -75.98294067382812,
-                      3
-                    ]
-                  }
-                },
-                "0.9375": {
-                  "title": "Diagrama de objetos",
-                  "id": "14.1de1.3d4c20d05-f547.f2500e84e",
-                  "attr": {
-                    "position": [
-                      194.9886016845703,
-                      -28.994293212890625,
-                      4
-                    ]
-                  }
-                }
-              },
+              "ideas": {},
               "attr": {
                 "position": [
                   168.98577880859375,
                   131.02841186523438,
                   1
+                ]
+              }
+            },
+            "3.5": {
+              "title": "Diagrama de Implantação",
+              "id": "13.1de1.3d4c20d05-f547.f2500e84e",
+              "attr": {
+                "style": {
+                  "width": 189
+                },
+                "position": [
+                  151.9857635498047,
+                  -43.965911865234375,
+                  6
+                ]
+              }
+            },
+            "3.75": {
+              "title": "Diagrama de objetos",
+              "id": "14.1de1.3d4c20d05-f547.f2500e84e",
+              "attr": {
+                "position": [
+                  208.99429321289062,
+                  -11.991485595703125,
+                  7
                 ]
               }
             }
