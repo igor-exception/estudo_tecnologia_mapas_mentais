@@ -69,17 +69,6 @@
           "title": "Existem diversos tipos de diagramas",
           "id": "10.1de1.3d4c20d05-f547.f2500e84e",
           "ideas": {
-            "8": {
-              "title": "Diagrama de Perfil",
-              "id": "16.1de1.3d4c20d05-f547.f2500e84e",
-              "attr": {
-                "position": [
-                  195.98294067382812,
-                  76.0198974609375,
-                  2
-                ]
-              }
-            },
             "18": {
               "title": "Diagramas de estrutura",
               "id": "17.1de1.3d4c20d05-f547.f2500e84e",
@@ -113,13 +102,26 @@
                 "5": {
                   "title": "Diagrama do pacote",
                   "id": "15.1de1.3d4c20d05-f547.f2500e84e"
+                },
+                "6": {
+                  "title": "Diagrama de Perfil",
+                  "id": "16.1de1.3d4c20d05-f547.f2500e84e"
+                },
+                "7": {
+                  "title": "Diagrama de estrutura composta",
+                  "id": "19.1de1.3d4c20d05-f547.f2500e84e",
+                  "attr": {
+                    "style": {
+                      "width": 215
+                    }
+                  }
                 }
               },
               "attr": {
                 "position": [
-                  168.98577880859375,
-                  131.02841186523438,
-                  1
+                  177.98577880859375,
+                  -169.94601440429688,
+                  3
                 ],
                 "style": {
                   "backgroundColor": "#FF6600"
@@ -132,6 +134,47 @@
               "attr": {
                 "style": {
                   "backgroundColor": "#FF6600"
+                },
+                "position": [
+                  183.98861694335938,
+                  146.03976440429688,
+                  2
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "Diagrama de casos de uso",
+                  "id": "20.1de1.3d4c20d05-f547.f2500e84e"
+                },
+                "2": {
+                  "title": "Diagrama de atividades",
+                  "id": "21.1de1.3d4c20d05-f547.f2500e84e"
+                },
+                "3": {
+                  "title": "Diagrama da Máquina do Estado",
+                  "id": "22.1de1.3d4c20d05-f547.f2500e84e",
+                  "attr": {
+                    "style": {
+                      "width": 208
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Diagrama de Sequência",
+                  "id": "23.1de1.3d4c20d05-f547.f2500e84e"
+                },
+                "5": {
+                  "title": "Diagrama de Comunicação",
+                  "id": "24.1de1.3d4c20d05-f547.f2500e84e",
+                  "attr": {
+                    "style": {
+                      "width": 195
+                    }
+                  }
+                },
+                "6": {
+                  "title": "Diagrama de visão geral da interação",
+                  "id": "25.1de1.3d4c20d05-f547.f2500e84e"
                 }
               }
             }
