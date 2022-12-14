@@ -66,7 +66,7 @@
           }
         },
         "-1": {
-          "title": "Existem diversos tipos de diagramas",
+          "title": "Existem dois tipos/grupos de diagramas",
           "id": "10.1de1.3d4c20d05-f547.f2500e84e",
           "ideas": {
             "18": {
@@ -174,7 +174,16 @@
                 },
                 "6": {
                   "title": "Diagrama de visão geral da interação",
-                  "id": "25.1de1.3d4c20d05-f547.f2500e84e"
+                  "id": "25.1de1.3d4c20d05-f547.f2500e84e",
+                  "attr": {
+                    "style": {
+                      "width": 269
+                    }
+                  }
+                },
+                "7": {
+                  "title": "Diagrama de tempo\n\n",
+                  "id": "26.1de1.3d4c20d05-f547.f2500e84e"
                 }
               }
             }
