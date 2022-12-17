@@ -834,7 +834,8 @@
                 },
                 "parentConnector": {
                   "width": 4
-                }
+                },
+                "collapsed": true
               }
             },
             "2": {
@@ -3054,8 +3055,7 @@
                   "text": {
                     "color": "#FFFFFF"
                   }
-                },
-                "collapsed": true
+                }
               },
               "ideas": {
                 "1": {
