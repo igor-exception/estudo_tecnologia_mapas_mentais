@@ -1862,9 +1862,6 @@
             "4": {
               "title": "Formularios",
               "id": "212.d7a1.ab75f1a1d-3388.a19efc905",
-              "attr": {
-                "collapsed": true
-              },
               "ideas": {
                 "1": {
                   "title": "Para pegar dados do formulário, temos alguns filtros",
@@ -1958,10 +1955,16 @@
                               }
                             }
                           }
+                        },
+                        "6": {
+                          "title": "",
+                          "id": "602.1481.a234f038c-87ac.dfefd7c7a"
                         }
-                      }
+                      },
+                      "attr": {}
                     }
-                  }
+                  },
+                  "attr": {}
                 },
                 "2": {
                   "title": "URLs",
