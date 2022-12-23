@@ -553,6 +553,9 @@
                             }
                           }
                         }
+                      },
+                      "attr": {
+                        "collapsed": true
                       }
                     },
                     "7": {
@@ -720,7 +723,8 @@
                       "attr": {
                         "style": {
                           "backgroundColor": "#FFFF99"
-                        }
+                        },
+                        "collapsed": true
                       }
                     }
                   },
@@ -730,27 +734,6 @@
                       -418,
                       1
                     ]
-                  }
-                },
-                "2": {
-                  "title": "A importância do teste, é ter a certeza que determinada situação está coberta.",
-                  "id": "432.7ba3.bed2b15f2-0bdd.8ce6f2a1c",
-                  "ideas": {
-                    "1": {
-                      "title": "Ex: Se faço um teste onde verifico o tratamento por receber um parâmetro vazio. Tenho a certeza que independente das mudanças que fizer no código, se o teste passa, continua funcionando e tendo o mesmo comportamento",
-                      "id": "433.7ba3.bed2b15f2-0bdd.8ce6f2a1c"
-                    },
-                    "2": {
-                      "title": "Um código ter testes não significa ausência de bugs, quer dizer que no que foi testado está funcionando.",
-                      "id": "434.7ba3.bed2b15f2-0bdd.8ce6f2a1c"
-                    },
-                    "3": {
-                      "title": "Pelo que entendi de testes, o ciclo normal é testar o comportamento e fazer testes para ter cobertura, no futuro se for identificado um novo bug, escrevo o teste que força esse bug, corrijo, faço passar. Novos bugs podem surgir, mas não aquele já identificado anteriormente",
-                      "id": "435.7ba3.bed2b15f2-0bdd.8ce6f2a1c"
-                    }
-                  },
-                  "attr": {
-                    "collapsed": true
                   }
                 },
                 "3": {
@@ -822,9 +805,32 @@
                       }
                     }
                   },
-                  "id": "446.7ba3.bed2b15f2-0bdd.8ce6f2a1c",
+                  "id": "446.7ba3.bed2b15f2-0bdd.8ce6f2a1c"
+                },
+                "0.5": {
+                  "title": "A importância do teste, é ter a certeza que determinada situação está coberta.",
+                  "id": "432.7ba3.bed2b15f2-0bdd.8ce6f2a1c",
+                  "ideas": {
+                    "1": {
+                      "title": "Ex: Se faço um teste onde verifico o tratamento por receber um parâmetro vazio. Tenho a certeza que independente das mudanças que fizer no código, se o teste passa, continua funcionando e tendo o mesmo comportamento",
+                      "id": "433.7ba3.bed2b15f2-0bdd.8ce6f2a1c"
+                    },
+                    "2": {
+                      "title": "Um código ter testes não significa ausência de bugs, quer dizer que no que foi testado está funcionando.",
+                      "id": "434.7ba3.bed2b15f2-0bdd.8ce6f2a1c"
+                    },
+                    "3": {
+                      "title": "Pelo que entendi de testes, o ciclo normal é testar o comportamento e fazer testes para ter cobertura, no futuro se for identificado um novo bug, escrevo o teste que força esse bug, corrijo, faço passar. Novos bugs podem surgir, mas não aquele já identificado anteriormente",
+                      "id": "435.7ba3.bed2b15f2-0bdd.8ce6f2a1c"
+                    }
+                  },
                   "attr": {
-                    "collapsed": true
+                    "collapsed": true,
+                    "position": [
+                      -18.01983642578125,
+                      -463.9744567871094,
+                      2
+                    ]
                   }
                 }
               },
@@ -834,8 +840,7 @@
                 },
                 "parentConnector": {
                   "width": 4
-                },
-                "collapsed": true
+                }
               }
             },
             "2": {
@@ -1857,6 +1862,9 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             },
             "4": {
@@ -1982,6 +1990,9 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             },
             "5": {
