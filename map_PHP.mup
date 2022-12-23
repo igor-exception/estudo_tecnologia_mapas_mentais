@@ -802,10 +802,35 @@
                           "title": "É colocar if dentro de if, aumentando o grau de complexidade. Nos testes, deveremos testar cada condição. Cada if permite 2 condições, se insiro if dentro de if, a quantidade de possibilidades/caminhos dobra.",
                           "id": "471.7ba3.bed2b15f2-0bdd.8ce6f2a1c"
                         }
+                      },
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#FFFF99"
+                        }
                       }
                     }
                   },
-                  "id": "446.7ba3.bed2b15f2-0bdd.8ce6f2a1c"
+                  "id": "446.7ba3.bed2b15f2-0bdd.8ce6f2a1c",
+                  "attr": {
+                    "collapsed": true
+                  }
+                },
+                "4": {
+                  "title": "Exemplos",
+                  "id": "608.5619.43f3ab3ef-4df1.5f5d2868e",
+                  "attr": {
+                    "position": [
+                      193.96881103515625,
+                      114.02256774902344,
+                      3
+                    ]
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "609.5619.43f3ab3ef-4df1.5f5d2868e"
+                    }
+                  }
                 },
                 "0.5": {
                   "title": "A importância do teste, é ter a certeza que determinada situação está coberta.",
