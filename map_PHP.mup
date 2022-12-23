@@ -3050,7 +3050,7 @@
               }
             },
             "8": {
-              "title": "Erros ",
+              "title": "Exceptions",
               "id": "336.d5ef.85048a458-b492.1b48c9705",
               "attr": {
                 "style": {
@@ -3243,17 +3243,34 @@
                     }
                   }
                 },
-                "4": {
-                  "title": "Exceptions devem ser utilizado quando um comportamento anormal acontece. Não é uma boa pratica lançar exceptions para validar qualquer informação",
-                  "id": "372.4000.7945c8f46-2420.e8d5753da",
+                "5": {
+                  "title": "Importante",
+                  "id": "603.cea8.6e43fed8d-f113.df453350d",
                   "ideas": {
                     "1": {
-                      "title": "Ex de quando é melhor usar validacao normal: em um formulario, onde o usuario nao insere um campo que deveria lançar. É melhor validar, e tratar na validação. Lançar uma exception não é o melhor uso",
-                      "id": "373.4000.7945c8f46-2420.e8d5753da"
+                      "title": "Exceptions devem ser utilizado quando um comportamento anormal acontece. Não é uma boa pratica lançar exceptions para validar qualquer informação",
+                      "id": "372.4000.7945c8f46-2420.e8d5753da",
+                      "ideas": {
+                        "1": {
+                          "title": "Ex de quando é melhor usar validacao normal: em um formulario, onde o usuario nao insere um campo que deveria lançar. É melhor validar, e tratar na validação. Lançar uma exception não é o melhor uso",
+                          "id": "373.4000.7945c8f46-2420.e8d5753da"
+                        },
+                        "2": {
+                          "title": "Ex de quando usar exception: Em um PDO, dados de conexão com banco estão erradas. Neste caso faz sentido usar exception",
+                          "id": "374.4000.7945c8f46-2420.e8d5753da"
+                        }
+                      },
+                      "attr": {}
                     },
                     "2": {
-                      "title": "Ex de quando usar exception: Em um PDO, dados de conexão com banco estão erradas. Neste caso faz sentido usar exception",
-                      "id": "374.4000.7945c8f46-2420.e8d5753da"
+                      "title": "Para saber se devemos usar uma exception ou uma mensagem, devemos analisar se o sistema deveria continuar mesmo com a possibilidade do erro passar",
+                      "id": "604.cea8.6e43fed8d-f113.df453350d",
+                      "ideas": {
+                        "1": {
+                          "title": "",
+                          "id": "605.cea8.6e43fed8d-f113.df453350d"
+                        }
+                      }
                     }
                   }
                 }
