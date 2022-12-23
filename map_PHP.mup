@@ -3267,8 +3267,24 @@
                       "id": "604.cea8.6e43fed8d-f113.df453350d",
                       "ideas": {
                         "1": {
-                          "title": "",
-                          "id": "605.cea8.6e43fed8d-f113.df453350d"
+                          "title": "Se sim (sistema poderia continuar), podemos usar um sistema de mensagem interno",
+                          "id": "605.cea8.6e43fed8d-f113.df453350d",
+                          "ideas": {
+                            "1": {
+                              "title": "",
+                              "id": "608.cea8.6e43fed8d-f113.df453350d"
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "Se não (O sistema não deveria continuar), devemos usar exception. ",
+                          "id": "606.cea8.6e43fed8d-f113.df453350d",
+                          "ideas": {
+                            "1": {
+                              "title": "Ex: No cadastro de um usuário, um nome inválido, podemos deixar passar? Como não podemos, o ideal é usar exception",
+                              "id": "607.cea8.6e43fed8d-f113.df453350d"
+                            }
+                          }
                         }
                       }
                     }
