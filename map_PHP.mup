@@ -3269,12 +3269,7 @@
                         "1": {
                           "title": "Se sim (sistema poderia continuar), podemos usar um sistema de mensagem interno",
                           "id": "605.cea8.6e43fed8d-f113.df453350d",
-                          "ideas": {
-                            "1": {
-                              "title": "",
-                              "id": "608.cea8.6e43fed8d-f113.df453350d"
-                            }
-                          }
+                          "ideas": {}
                         },
                         "2": {
                           "title": "Se não (O sistema não deveria continuar), devemos usar exception. ",
