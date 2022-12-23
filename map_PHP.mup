@@ -867,8 +867,13 @@
                               },
                               "ideas": {
                                 "1": {
-                                  "title": "",
-                                  "id": "614.5619.43f3ab3ef-4df1.5f5d2868e"
+                                  "title": "No teste usando Exception, primeiro dizemos que vamos esperar a Exception, depois rodamos o código que gera a Exception.",
+                                  "id": "614.5619.43f3ab3ef-4df1.5f5d2868e",
+                                  "attr": {
+                                    "style": {
+                                      "backgroundColor": "#ffcccb"
+                                    }
+                                  }
                                 }
                               }
                             }
