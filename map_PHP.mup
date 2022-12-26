@@ -1453,7 +1453,7 @@
                       "id": "621.4292.d6ea6af5f-5e8f.503c6e04c",
                       "ideas": {
                         "1": {
-                          "title": "",
+                          "title": "Parametros do tipo array, já em um formato especificado, pois pegaremos as chaves como campos e os valores para inserir",
                           "id": "622.4292.d6ea6af5f-5e8f.503c6e04c"
                         }
                       }
