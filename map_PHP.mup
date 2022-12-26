@@ -1407,6 +1407,10 @@
                               "metaData": {}
                             }
                           }
+                        },
+                        "2": {
+                          "title": "O correto é criar um arquivo próprio para dados sensíveis, onde não irá para o repositório (gitignore)",
+                          "id": "620.4292.d6ea6af5f-5e8f.503c6e04c"
                         }
                       }
                     },
