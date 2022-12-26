@@ -1098,7 +1098,8 @@
                       212.72443389892578,
                       -123.41192245483398,
                       3
-                    ]
+                    ],
+                    "collapsed": true
                   }
                 },
                 "15": {
@@ -1412,6 +1413,13 @@
                           "title": "O correto é criar um arquivo próprio para dados sensíveis, onde não irá para o repositório (gitignore)",
                           "id": "620.4292.d6ea6af5f-5e8f.503c6e04c"
                         }
+                      },
+                      "attr": {
+                        "position": [
+                          369.5568370819094,
+                          -488.8208589553833,
+                          1
+                        ]
                       }
                     },
                     "2": {
@@ -1430,6 +1438,23 @@
                               "metaData": {}
                             }
                           }
+                        }
+                      },
+                      "attr": {
+                        "position": [
+                          322.6818370819094,
+                          -208.32089710235607,
+                          2
+                        ]
+                      }
+                    },
+                    "3": {
+                      "title": "3- Criamos o método insert, pedindo nome da tabela e parametros.",
+                      "id": "621.4292.d6ea6af5f-5e8f.503c6e04c",
+                      "ideas": {
+                        "1": {
+                          "title": "",
+                          "id": "622.4292.d6ea6af5f-5e8f.503c6e04c"
                         }
                       }
                     }
