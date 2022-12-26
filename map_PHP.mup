@@ -923,7 +923,8 @@
                 },
                 "parentConnector": {
                   "width": 4
-                }
+                },
+                "collapsed": true
               }
             },
             "2": {
