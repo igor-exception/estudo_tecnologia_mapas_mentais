@@ -1119,9 +1119,6 @@
         "-36": {
           "title": "Comandos úteis",
           "id": "90.ecd8.f813007ef-3655.6f3015b8a",
-          "attr": {
-            "collapsed": true
-          },
           "ideas": {
             "1": {
               "title": "Docker inspect id _container",
