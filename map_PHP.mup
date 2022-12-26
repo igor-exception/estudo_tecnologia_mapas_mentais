@@ -1343,10 +1343,18 @@
                       }
                     }
                   }
+                },
+                "3.5": {
+                  "title": "Criando PDO",
+                  "id": "615.4292.d6ea6af5f-5e8f.503c6e04c",
+                  "attr": {
+                    "position": [
+                      -39.77839660644531,
+                      -282.96899032592773,
+                      2
+                    ]
+                  }
                 }
-              },
-              "attr": {
-                "collapsed": true
               }
             },
             "3": {
@@ -3152,7 +3160,8 @@
                   "text": {
                     "color": "#FFFFFF"
                   }
-                }
+                },
+                "collapsed": true
               },
               "ideas": {
                 "1": {
