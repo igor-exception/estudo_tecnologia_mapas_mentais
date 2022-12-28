@@ -908,7 +908,6 @@
                     }
                   },
                   "attr": {
-                    "collapsed": true,
                     "position": [
                       -18.01983642578125,
                       -463.9744567871094,
@@ -923,8 +922,7 @@
                 },
                 "parentConnector": {
                   "width": 4
-                },
-                "collapsed": true
+                }
               }
             },
             "2": {
