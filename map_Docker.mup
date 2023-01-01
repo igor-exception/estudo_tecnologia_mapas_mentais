@@ -108,7 +108,7 @@
               "id": "287.7246.4d4df77a4-fc2b.a16ff79d6",
               "ideas": {
                 "1": {
-                  "title": "",
+                  "title": "docker rm [id]",
                   "id": "288.7246.4d4df77a4-fc2b.a16ff79d6"
                 }
               }
