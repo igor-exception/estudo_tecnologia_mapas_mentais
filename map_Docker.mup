@@ -102,6 +102,16 @@
                   "id": "60.510b.858194499-e6a3.3af0fb055"
                 }
               }
+            },
+            "8": {
+              "title": "Remover container",
+              "id": "287.7246.4d4df77a4-fc2b.a16ff79d6",
+              "ideas": {
+                "1": {
+                  "title": "",
+                  "id": "288.7246.4d4df77a4-fc2b.a16ff79d6"
+                }
+              }
             }
           }
         },
@@ -865,199 +875,6 @@
             }
           }
         },
-        "0.5": {
-          "title": "Definições",
-          "id": "35.510b.858194499-e6a3.3af0fb055",
-          "attr": {
-            "style": {
-              "backgroundColor": "#fbd9d3"
-            },
-            "position": [
-              137,
-              -523,
-              12
-            ],
-            "collapsed": true
-          },
-          "ideas": {
-            "1": {
-              "title": "O que é Docker",
-              "id": "22.e692.e4c975976-f368.287ff0cd8",
-              "ideas": {
-                "1": {
-                  "title": "É uma tecnologia de containerização",
-                  "id": "4.f57c.0375af185-7f8d.63065228e",
-                  "attr": {
-                    "position": [
-                      115,
-                      -85,
-                      1
-                    ]
-                  }
-                },
-                "2": {
-                  "title": "Facilita a criação de ambientes isolados",
-                  "id": "36.510b.858194499-e6a3.3af0fb055"
-                }
-              },
-              "attr": {
-                "position": [
-                  93,
-                  -299,
-                  2
-                ]
-              }
-            },
-            "2": {
-              "title": "O que são containers",
-              "id": "37.510b.858194499-e6a3.3af0fb055",
-              "attr": {},
-              "ideas": {
-                "1": {
-                  "title": "É um ambiente isolado para rodar aplicações / tarefas/processos",
-                  "id": "38.510b.858194499-e6a3.3af0fb055"
-                },
-                "2": {
-                  "title": "Primeiro temos a imagem, que define o que será. E da imagem criamos o container.",
-                  "id": "45.510b.858194499-e6a3.3af0fb055"
-                }
-              }
-            },
-            "3": {
-              "title": "VM vs Containers",
-              "id": "24.e692.e4c975976-f368.287ff0cd8",
-              "ideas": {
-                "1": {
-                  "title": "Nas Maquinas Virtuais, temos que reservar partes de harware para cada VM. Como são instalados os S.O inteiros, tem uma carga maior de arquivos. ",
-                  "id": "33.e692.e4c975976-f368.287ff0cd8",
-                  "ideas": {
-                    "1": {
-                      "title": "É uma abstração de uma máquina real",
-                      "id": "39.510b.858194499-e6a3.3af0fb055"
-                    }
-                  }
-                },
-                "2": {
-                  "title": "Containers são leves, usam os arquivos do S.O host e rodam containers de forma isolada, sem interferência um no outro",
-                  "id": "34.e692.e4c975976-f368.287ff0cd8"
-                }
-              },
-              "attr": {}
-            },
-            "13": {
-              "title": "Docker Images",
-              "id": "18.e704.15db7800a-7b7a.0dfd3c8c5",
-              "attr": {
-                "style": {
-                  "backgroundColor": "#FFFF99"
-                },
-                "position": [
-                  88,
-                  244,
-                  1
-                ]
-              },
-              "ideas": {
-                "2": {
-                  "title": "Diz o que o container terá.",
-                  "id": "21.e704.15db7800a-7b7a.0dfd3c8c5",
-                  "ideas": {
-                    "1": {
-                      "title": "Definimos o OS, versoes etc..",
-                      "id": "46.510b.858194499-e6a3.3af0fb055"
-                    }
-                  }
-                },
-                "12": {
-                  "title": "Listar imagens",
-                  "id": "19.e704.15db7800a-7b7a.0dfd3c8c5",
-                  "ideas": {
-                    "1": {
-                      "title": "$ docker images",
-                      "id": "20.e704.15db7800a-7b7a.0dfd3c8c5"
-                    }
-                  },
-                  "attr": {}
-                },
-                "13": {
-                  "title": "O container é criado a partir de uma imagem",
-                  "id": "47.510b.858194499-e6a3.3af0fb055"
-                }
-              }
-            },
-            "14": {
-              "title": "Arquitetura Docker",
-              "id": "25.e692.e4c975976-f368.287ff0cd8",
-              "ideas": {
-                "1": {
-                  "title": "Usa arquitetura Cliente x Servidor",
-                  "id": "40.510b.858194499-e6a3.3af0fb055",
-                  "ideas": {
-                    "1": {
-                      "title": "Terminal seria o cliente",
-                      "id": "41.510b.858194499-e6a3.3af0fb055"
-                    },
-                    "2": {
-                      "title": "Docker Engine seria o servidor",
-                      "id": "42.510b.858194499-e6a3.3af0fb055"
-                    }
-                  }
-                },
-                "2": {
-                  "title": "Cada container é um Processo no S.O host",
-                  "id": "43.510b.858194499-e6a3.3af0fb055"
-                },
-                "3": {
-                  "title": "O container compartilha o kernel do host, por isso é muito mais leve que uma VM",
-                  "id": "44.510b.858194499-e6a3.3af0fb055"
-                }
-              }
-            },
-            "15": {
-              "title": "dockerhub",
-              "id": "48.510b.858194499-e6a3.3af0fb055",
-              "ideas": {
-                "1": {
-                  "title": "É a forma de guardar imagens docker, como se fosse o github do git",
-                  "id": "49.510b.858194499-e6a3.3af0fb055",
-                  "ideas": {
-                    "1": {
-                      "title": "https://hub.docker.com/",
-                      "id": "50.510b.858194499-e6a3.3af0fb055"
-                    }
-                  }
-                }
-              }
-            },
-            "16": {
-              "title": "importante!",
-              "id": "170.5740.c96ab4023-bc6e.81252311b",
-              "attr": {
-                "style": {
-                  "backgroundColor": "#FF0000"
-                }
-              },
-              "ideas": {
-                "1": {
-                  "title": "Um container tem o tempo de vira apenas enquanto o processo principal estiver rodando.",
-                  "id": "171.5740.c96ab4023-bc6e.81252311b",
-                  "ideas": {
-                    "1": {
-                      "title": "Ex, se crio um container e a principal função é criar uma pasta, irá subir o container, criar a pasta e o container morrerá.",
-                      "id": "172.5740.c96ab4023-bc6e.81252311b",
-                      "ideas": {
-                        "1": {
-                          "title": "Para o container perdurar, é necessário deixar um processo em aberto, por exemplo o terminal (stdin e tty), ou seja, o terminal ficará rodando, se sair do terminal, o container morre.",
-                          "id": "173.5740.c96ab4023-bc6e.81252311b"
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
         "-26": {
           "title": "Exemplo de como dockarizar um app e rodar em um container",
           "id": "74.510b.858194499-e6a3.3af0fb055",
@@ -1739,8 +1556,23 @@
                   "id": "283.7246.4d4df77a4-fc2b.a16ff79d6",
                   "ideas": {
                     "1": {
-                      "title": "",
-                      "id": "284.7246.4d4df77a4-fc2b.a16ff79d6"
+                      "title": "Definimos o nome do container quando subir",
+                      "id": "284.7246.4d4df77a4-fc2b.a16ff79d6",
+                      "ideas": {
+                        "1": {
+                          "title": "",
+                          "id": "286.7246.4d4df77a4-fc2b.a16ff79d6",
+                          "attr": {
+                            "icon": {
+                              "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaAAAAEGCAYAAAAjc0GqAAAgAElEQVR4nO3df1BUd77w+fc888xoRFogECgiCM0YCYKGdkOYkh8jN9dlTRtNILURc+spRihqK8Yd8TrOs3sxifxzM4xmNhOfengg1711lcxWJDGRuGyelA5g6iG6gahISLz8Nl0SDT9acTR3ntn945zTfbppupsfcg7weVVZZZ+f33P6cD79/XHO50dpaWn/HwvUvXv3Wbp0idHFEGLK5NoVk1lI18a/M7oAQgghFqcfxcfHL9gakBBCCPOSGpAQQghDSAASQghhCAlAQgghDCEBSAghhCEkAAkhhDDEAwtA9l9VUVlse1CbN5StuNLPsUWQU/of2fvsqlnZlyHn0baLyqpKdk1ht7biSqp+ZX8wxZnKtlNeYP+B/0DG0tnYcyxvrfqfeOuhWdjUs3tnfH4W8t+U+dnZO8W/CRHYv5/+qjZ2vbaD5BDdpG+b2P/7hhkXan4bpvmTK2woKWEvtbz5Ub/RBZq6tneoaHN/tP+qiqfG3qXiWNvk65hF52manvw1z/39f4Df/TMX7k19E0/9OJQl/HdCWYblp8uknUCIB2SGf1r36Hp3P/v372f//nfpCsuVX2gA/Q28Wfs5PFnC7v9xdmpCIlj3uPDPv+WDwVVsLd8xjZpQJP/LmiIOrPwbfrcmg5SwSKJ+rJv9o2Q+thXxf85KDUuIxW0GNSBvbbzTlkuVNRbw/qVsZ29VLrHqp3udyq/pib+s7eytegrnuxW806b88s59VJnjaGmC7NVc2/8mDdpyncMkp8S6tmcrrmRHinZnuEeXuh1QtrW6Zz9vfqTOfnYvVdZr7P99g7Leis9pIlfdn+e62HZRuSOZpQDjXTQFU6npb+DN2r+wu7iE3dTy9v/je6WJ+wZHi66cAMTqapvusgVad9rHbNtF5Q4Ln+9vIlrb76M7qKrKpWn/m/ir43p+Z57HoZ8HDs9t6c8x7mtk4glTlmOy+craXPjn30LRXraW74Aj7wZXE3rIxsePhOIcHqD734bgfijO8WWwLJePlw3xn2508fGPQ7H8OBRrUgEf37lFu6OJf/g3n2dCd807aGrxOgw/1+qE+eNdvPvaO54beHYvVdmx7nPscf7c51b5nvvoCksmOcTh9/vztc82/Hxv6nXS1xlBcspS13G0r9e2oz8u9W+2pY+EbPffkrYPXNub5BqY5Pgmne6xTQuf66Zr1/7+5ugplF88CHPTuPDsamhRa0rvdkHKc+yyQUOPg6Wr0rHplov99nPXzTWXJrV2tZ9rVncAUywlecU19u/fr1ykz+5lR8owTfu1/fSRsGMvQbe6P5rL6h5l3Xc7IfnZXWq57OzdkUCfVtP7CJ5KCfLnb38jbx/7DH5ewu6nHwlq3/vf7SIi27OteWnKU/CRMr/p26Uk59iDXnd6x6xp453X9tP0rXIz2B8g+Pgri624ktywLt7Vvp8WyH1Nf46TGW5x16b7Vu1g77PeO3AvF7g58B4X6t7kdF8CW8t3EOiUPPXjUJ75SSiWny7DsmQZUT8JxbJkmeuzZcky1i5L5ncrwlkCsCwS65L/zvW/+NqajV2v5bqv+f3XWJ2tu3oDXKu24kp2rOpznasJP3hsu6jMjqDrXS3Ae12jHucWeDRBvX4CBB8f+/T/vQHEksAH7mtoRxXP6T97XFNLSbbBB9o+RpPZ4eoX83cNeB2f6zgCHDdAWzt947Gsdl1LNtJXQVezdiamUn4x22YxANnZmx2Lo8fHJf7Rm+5fwm3t9I1r06/hCLG4Aovdqq1vJzdFf5FAw++bcHhs9J5uvo1dtlgcLbo/sLZ3+Pxb/YUXwLdNrjK2XerjnlouW/FTrqCobfeDzql3LPzE37sDdftWyr2UhPXuy/5e5weu/Tf0OCAs2v1HEWBdvyY55kBsxZVUVVUp//R/8JOWRf0+P9L92v2oiS4SSLdp51i3Lm280+Yg1qr/+RDNrtdyieh816t2GIR/99MAC/yMg08U8bs1yUSGxWN9JJIn4pKJfCQea1gk1kfiiXzkSYrX5vKMNZHQv47SfKmax785z3/29SKrZ3NJposmVzkbeLNFu3oDXavqDVJ3rhqO6c4b6eqN2v3LfMI16vV3hX4edvZq311VlXqDn2yf/r83hYPP1R8DbZf6uOf92eOauue5j+Yu7j26GjuBrgEHzvGlWFZ6nuaAx61up73/HhEPa7+E0kmgj3bXAU2l/GK2zbAJbinJO6qo2qF8mth0pPEesHCPLgAauPZtlfKH95Gd1Y86uPZ7bZlhhqZU9b2H87rnFMfYPZ562MbEJsEA2oYY3mFxb3nM4WdhP1bls7skl59c/M+8+fF3Qa/mGPMT4K47uecnvvhd1x+vY/a76LGKCWfUV5E8y+L9fbYxNLqD1epNZcI5vu7knk0XaB9NJnm8i3eDHgixlIyivTz3s+/44Lf/HOAKuMXNcbCGuqfc//Ndljy0zOfStwf/ROUPAXY/OuRnn/6u1VgsIcNcm2TlpSnJxH7bxH7vv7NHc6mqyvXchw0mXrkNvLnf+0eiv336+d6u+1p+CgL9nbmugQbeeS1WCZzZXveZSY5bf/LbLvXx3LPp2GiD9QnQ/8FU7wjiAZlhAAqmjVQJPpa2/eofjY1drz3nmtvQ3EVljl1tfrvGm645EUTrLyRbNBF+y6L+QtKVJXbFUoZ7Zn6pLV3h2a8Vu2IpjAVYSR98pjgSbiblnq1jng3ussQy4fvERnSYeiN+eOI5ZqWFpaPXaEMNbt820UQuO35lpy3gSEt98HkniP6fUU7fHOWp0DD18w98O9TLTx9dy8qfeC55/7sm/v67ocD3XrWW6rp8H9Zfvf6uVV/nyu1eZxN9q3KpLHZ4NENO1mdmWx+ooJrJ9unne5spWzQR405XkPR3DbgDpzoc+noF7fjpK9Rre4fPcypJt9lgFfR9ZI6/DzEnfUCxWEJ0F6wtnQT90O22dvrCVrPXGqFrUmvgmldfhz3H3Tk5kVLNjs3W9fnYdvHUow6uqb+UHGP3dE06SnNhMNou9XHv0afc/Sq2XTz1qN9Vph589Nt/di+5unLPZN3pHvO0TVoW9fvUt6c/m0uy2hSinONcXZ+P2kzl1Zzb8HtlpKX/52mmGnwU9d+fpt4xwH+9coy/vfh/0b5stWfw+esPXO//v9nT30VzoI19dA1HSDK5ruOxk+vqNwx0rU48V/ZifT+Eg3dea2I4ZYdrxGnbpT5Xv+r0TLZP/9/b1On/pm3sejYZ+ttpI/hrQN8c5++4vZ+ZaugZJiEnl4TRz2VQgYnM4ii4yTTwZstqqrSmunEHjnH9/Dba+59jx6o+mnQXRsPv3yX6tR2u6rWjpQnHo6sn3UvbsQoormRHVRXqGh4jYtqOfU5ulVZdd9DU4iDWGkTx296hYuVeXfm7aOq8x1OTrhDB32zNmFrN59s+eFZrylRqlUE/TeVn3Wkfs5eG5i6e2hHEKDg/ZWn4/X74VRU7qqrYAZ4joNreoYJdVO5QmlhgsubcNrUpJpeq16LZ7z0yDCD1Of7GOrXgo7jLP3z7CQXLkqmIsXB/uIXmH1az8qd3uT7cyyfjA9T/NdhtNfDmu9G64/E894Gu1Qnn6tsm9oOuL0Lb/g6qfhXL/t97XaPaOlN4Jm+yfbb5+96m7B5dY6upqqpyl1Grvfi9BnyMov0IYArH/dE1hqtyoeXNifOEYUyRD8hWXMlzfOC/Km3bReWz8MG0L35zcg0JncYDvDNZV4i55fmIhTH71x7jEGZhgme87eSmDLtGnvjmWV0XQoipsBU/RURnkwQfk5mDJrjJaQ+4OVr2T7gwPB9+w7O6LoQQwdAeVB3v4t3X5P5hNqZoghNCCLH4mKAJTgghxGIkAUgIIYQhJAAJIYQwhAQgIYQQhpAAJIQQwhASgIQQQhhCApCZxFaSerCRzJdKjS6JThxH9hVxIs8CMamc2FfEkbTg187Js3NqXzbFQHFhEadKU8l5YGUVQswnhj6I6i35mTJyV97m6vt1nL9pdGlEMIoLi9imyzre80kd5VeMK48QYv4wSQBKZmtZLnRc5fbKeKMLYxxHBR2HjC6EtzFGnMBNJ9wYYwgnI7ofB8dO1nFM+xCTyomddipuNlB5Q5nUfHOMcucI3QDDTmAs8NukhRCLginehJD8TBGRF+o4TxZFz8czYEQNyHaUTDt0HnoZ56TTSkk8WEC0OvvOhTfoaDynfIitJLUkgoFDX/KwtszoRdrfquA+AJuI3nOARC3lDN0e+7K81EiK1cd2VUvy60nPcOexGGrIp7fNPW81bzMQecC1Df18RQl/OPM8ST3vs2V37XTPUgBxHNm3npET7gAkhBCTMUUNqOvjOuU/UQYWou1LhuwFPGwDp3ZjfyQGehrVILGJ6D0FhFx4g9bGcyjB6ACJ353T3eiTSDkYQ29tPq0OJVjF2qC3DZbk7yZxuJ7Wt2p87t55PJ9WlEA0oQ5oO0p6xg13wLIdJdNez90bBQyp2byWZxwg/sIbtB4/pwSrrEocbVrwmyNpCVidfRyR4COECIIMQnCpwXFhnOgUbQDAJsIeg96zasCIzSOKi1xz1Uy8l1cMNWhBoYbveyDkkU3umdYnCC7ptd4morOSuHPhpLtm1vYynT0hRK3Tbbun3lVrun+5kzthESzx2E4tr2zZ8gBqPxYqSos4ta+IU5vj6GntkCY2IURQTFEDMov7lzu5U6IECWdsHlF0ck3LFxwTwfKwJNIPNnqu1KP/0M33umYv5/F8OrRtNxbQGdlIirq+r2Y2f8a/C37ZueWkskatwarB6ERUAzvPOv2uJYQQEoD0HGe5OXqAh21w/5EU+OZtzyYsjz6dqdOa2bTmu1QIOggpNSlt2U08FAHcmmZBHhgnTd1ONkSsACQACSH8kyY4D+cY/WackEdKCXvsBgP64ND2JUNhT7I6f9PkqwftX7k7OrUyLc8odDff2QpJDOv2LF9AJfzhzBnOvF0ypZJOTRzb0y30fD34APchhFgoTFEDitxYREFqqOvz2ufLWIsxzwPdb2xk/GABiT31am1FU0PvIUg8eIDMjAOuqRNHm/niPQIO6KlXBzOA9+g6rMo+tGa6+40FtFOva/4bp7e2wAR1DAsVpXY26Dq25DkgIUSwTDEMWwghxOIjTXBCCCEMIQFICCGEISQACSGEMIQEICGEEIaQACSEEMIQEoCEEEIYQgKQEEIIQ0gAEkIIYQgJQGZiypTcQgjxYJjiVTwQSVZRAWu1t/Fcb6L64y5DSySEEOLBMsWreCI3FrGZT6j77BZaeu7Qjnr1sxBCiIXIFDWgW5/VUef61MW167nkhkUy9/kG/KfNnnZK7iDSfQdKyR2obJ4pu73LHei44Bevvsevn4KLv3uBV89O5ZwJIcT0mCIAmYX/tNkzSckdKN13gJTcWgCZrGxeKbuX5NeTvqfSlbsoUDpwIYQwgvkGITy+ldyVt7l6waA+oMnSZs8oJXeAdN+BqPl/Oo/7Xt6SksRQg7tGc7+xkaGwFMJigzgu1Z9ef4EtW6T2I4SYO+aqAUVlUZQTi6O5es7zAEGAtNkzTcntL913AEseiYHRzkkysSrZUaPtjUTb9dPH6Q3muIQQwiDmCUBRWRQ9vxY66jn9lXHF8Js2eyYpuQOl+/bj/nc34DH/ywRKjDeTdOBCCPEgmKMJThd8zDPyzStt9oxTcvtJ9x2I330r2422H/XbxObmOx34L159jzNn3uP1vOCLJYQQM2GKGlByxlpCAVILKEvVps51Su5AabNnkpJbMXm6b/8puX3v2z2SbWLKbnS1tUDHJYQQxjDFc0BCCCEWH3M0wQkhhFh0JAAJIYQwhAQgIYQQhpAAJIQQwhASgFRWq9XoIgghxKIiAUgIIYQhJAAJIYQwhAQgIYQQhpAANCc2Eb2nkUSbkWUoJfFgI5l7KlliZDGEEEJlilfx8PhWynJ0uQMkJffcciXT80xSJ4QQD5I5AtBXp6l2vQE7kqyiAoo23jLRi0kXghp6D9W4UjQIIYTRzBGAPNzi1hg+soKanO0omSlf0n4r35Uae2LeHf1LR/VpsUtJPPgE39cOE1/yJMvBM/WD7SiZWcO6VBClJB7M526tkvxuSX49q3mbgcgDrrTe+pekeqTr7qmn1ZXYzvMlqCmul5mO01urJdZTlLx9huet3by/5RVqZ+eMCSEWORP2ASWzeuVtBr6Zh7UfawHpkY20HsqntfYiZOwmWteyGG3P525tPq2H3qB3NIl4j/QKSaSURDBwSJ3P1FI/LM84QPytN2g9lE/7hXGis9x9PfcbC1zTPdXQq5b1Dt10HspXyn7IM/gIIcSDYJoaUOTGIgpSQ5UP15s4bUBG1BkbvUi7VrtwnOXm6JMsiwHUm7k7Xfc5Rr/ZTWLkzwCthjROb61WI/I1P4Ceeldt6/7lTu5kRLAEppc8z4fa3Vuk5iOEmFWmCUC3Pquj+jPl/5EbiygriqS+7jzzsB7kIeSR6SawAyLiZzWICCGEmZiwCQ5ufTPA7dBwIo0uyCwY/24Gid+GByT4CCEWLFMGoOSMtYRev8Z8Hoi9JH83iWHdfB9ktlQPsZWszghhqLPGPS0sQu3T2UT0Hl321NngGGCcJB7285xSydtnOHPmD5TM5n6FEIuaKZrgPPp/YP4+BxT2pC4ttn6UWzBCSCxpJFH95JHqu+1lOlMaXaPUhhrqGbLnB7ld75TcBWQeLPAaDVdDb8MTZNobibaDr1FwQggx2yQlt8pqtdLT0zP9DUwYKj0VnsOqhRBiMTBlE5wQQoiFTwKQEEIIQ0gTnGrGTXBCCCGmRGpAQgghDCEBaBZIOm8hhJg6CUBCCCEMIQFICCGEISQACSGEMIQEIBEUy0uNZB6s90gvIR6EOI7ss1MRY1wJcvLsnNpXxJE048ogFgeTBaBIsorKKCsrIivK6LLMXMoPP5B5796Efyk//DDnZbG81EjqFPILCeFTWjanSlPJMbocYkEwxbvgNJEbN7N2zIEjNDTwwiaw8i9/YeVf/kLs6CiP3LvnMW/tv/0bB0dGfK7XunQp//Mjj8xFEWeN83g+rUYXQsyJ5rMNNJ81uhRiMTBPAIrKYnMqXH3/GuEr/byW2UReGB/nV2Nj8N13s7I9j9TZ+Emr7WPeZCm5PdazHiAz44Dyf/3LSG1HybQn+dw2sZWkamnCJ7xgdRPRe3bDyUaWlfhKNQ7eab890pTHVpJaEsHAoS95WFtGn4rcrwBpzP0el7Lu3QsxJGaEcOdCPTcfKyAxTP8SVj/lVv3i1ff49VNw8Xcv8GrQN2wLFaU5cPoS4TuzUb6uQT483MIx/WJRqZzYuY4QAOdljtR00IzSPFZGM59G2Nm2Slm055M6yq9o27YT3qp9VpYvj7jE9pODKM17CVw5McLTPratzNfK5OSLEw1U3lDLE6MrD3GU71tH+WRlFyJIJglAkWT97VroqOf8zUi2Gl0cAyiB4obvN2jbjnrOsx0l017P3Rvul5cuzzhA/IU3aD1+TtlWViWOtgolHXej0gQXf2viTRRKSUz5ktZDL7v2lWk/yvdt6r4cFXQcwhUsJgohsSSf3tp8Wh3Km7fj8zep+1FSR4RceIPWxnPKvg4eIPG7c+4ARxIpB2PU9ZWbfqwN3Xx/kkgpgc5D+TjxXjfAcZFEYmQ9rQ1PkGkvYLwhn86URuLXbWLIQRDlngkLG3au54sTdWy/AcWFRWwrjOPYyUH3/M3hfHi4jmNqUNie1kGzGlRC0u083d7A9pNOpUlsczbFV4INAnFs28kk2x6k/HAdSiBa77najQ52Hu5Q9pc5ogtaQkyfOfqAHv85a7nKJ5/N9/yn01VKbEYIQw2+0jdsIjoriTsXTrrntb1MZ08IUet0fTreKbld+YMCqaH3uC7vUNuXDBHDQ1MYbOCZanyc5ZE/U2bE5hHFRa65gl4NjgvjRKeUTrJ+Dd/3TCWLrD6Nufe6gY5rnN6z6vzRizj0gSXIcv/p9RfYsmUqtR+3nk/ctYtjXw9C+Apdv4qTL05oAWWQK/0QHWVxr9zfws6z6tVwpY8eVrAy6EELAbYtxBwyQQ0oma05oVx9//S8T789bbHxhDDOzRuTLzKjzKoBWF5qdDXdqXujdzY2HBPB8rAkXY4klccr9zyT9jmP59MxG/tmBscVVLlnmSWcJJhmrcJCeBTg5/oRwoyMD0CPryaWUGKfL2OtbnLs82Wsna+J6abKMcA4KX4XUX7Za0FoEw9FwGxE7CX59aRY9f02Sm6iWRN0n87smvFxzXW5nSN0T39lRm7OYlmEmCPGN8F9dZrq6mrdvyYc3Obq+9WLI/gASvNRCImFlT6azdRmrYxCXA0ltkISw7oZmNCfM7n7t8ZZ/lie72a50WHXjdby0iym+277kqGwJ1lt1PDv6R5XkOX+xavvcebMe7yeN5NCxnFkcxzj3QPTqv0UF2ZjdfbRpKv9uJrU0rIpT5/l5rWbI4xbEsg18DklsXAYXwNaBP6TxcIPP/qR6/P1fz/xtDuP59P5UqNHs482aut+YwHt1OvmKaO1gk/3Dfcb36b3sQPubaij4O43NjKUUeCafufCRYas7tqY9+g7JS14sOnGa+g9BIkHdaPv8Bpl94AEOi7/Hny5rZuLOLVZ+f94e4O7TycYq7I5tU/9v8coNieVpy9zYqedU+nKvA/bV7DN19gRX9KyObU5zv15ZxGnvEfD3eiguj2B8p1FnAJkFJyYCckHpJpOPqDMe/f4+f37hIeHMzLJMz83f/xjji9fPhtFFAvCxKHSU+E5rFqI+U1qQDPQunQprUuXYk1IoOevfzW6OEIIMa9IABIm5PkQ6AT6h2iFEPOWNMGpZpKSW9J5CyHE1Bk/Ck4IIcSiJAFICCGEISQACSGEMIQEICGEEIaQACSEEMIQEoDMJLaS1IONZL5UGnjZ+SQmlRP7ijhVGBd42fkoJpUT+7IpDmphCxWlCyTd9WxmR9WukX1FnAr6XIr5zhzPAUVlUfT8WjzyoC6WF5GKByYnz657F5r+lTHK2wg2THhNmu61Mx4J2PRJ3yYqzloH7Q3z5HU0M3sTwwOj5RuKSeXEzvBpbOBBHpdJz9kCYI4ABHD7KvV15xdvSgZwJ39baLSby1xKy6Y8fYwPDyuBISfPTnlpKt01HTTjpLKmbsLypzbD9RsAFiq2JtB1ok4JRmnZnNpsp+Km7p1oLnGkrRrk05NTeTOfEALMFIAWOX3uGs/0z2ra629ukJiRBD31dFJAitVfym59amnw/WYB3TIeqau911WUvH2G563dvL/lFWqncFzFhUWu1NG+XrrpWUtR9bfoUkhrKaLxevGm+1fplTXaPrQajIWKzDjGdbWS5rOX2J6+ntyYDpp95M0pXqNf3kllTYN75pU+ejZn+8y5k5O3Hmv/JTU9tfuYJk+brdEfm752FihtdiDetTv3tvXfBb5ehjoh26mSGXVE9zLSCd+Xc8Q9PanPo5yTTkvH8wWn0zku3TkJeFwTyu39AtUZnDMxIxKATMJ5PJ9W1NTZE+aGkPjYMO21w6wuKSD+whu039pNekopvW01EFtJLG/TekgJWkvy60kvrGRUzWdjeamAaO31NbGVpJY8ybiWhTS2klS7khLbFYxKjvLnoN52Hdixk3WuP+SnvWfGpFKWDl+oNY3iwiK2hV/myMlBlJtCNtHtDWw/60S7SZQXjtGsexGndXORssxJp7J+VhycHANg6Kb+CMYYcU6SuC0mlaenVYuJY3s6fHFi4otBA6XNtm7WUnIrx/V0noVjrhuaPm22Mr8sb4DmIG54OXk5bBhpYXvNxDIp38UMmpO8apVKwFJmNXf2UZaeoAvwFnKTLNNOM+EtJ289nFZSmON1TgIel9/a8AM+Z8Iv8wxCCF1LQVkZZWVllJVtJdno8pjM0HktOZqPPECOCnp10zxTcpfysBWGOtV3pznOcnPUnbp6yboUuPC2u8bTdpLe0SQetnnuonb3FrZMsfYTSE5KAiG6XDbHvh50ZQYlbT0bLIN86rrpKqkGxlcleHZQ69JTu1NbO2nqdmLNdHeQ5+Tl+OjzUSh9OJcm7cNRcu5c5tSEG1vChFw8vsrlK222OyW3UtaQiBW6lfVps33ND8D7HM0KpVbZ88kkqRdudPBpv4XkFPUkx8ST7PH9KZrPNrD98FRrP9B8tkW3ztTOSfEaz3I3n71Ej3dOowdyzkQg5qgB3TxPXfV518fIjUUUlG2F6tPIMIRgbCJ6zwESw/TTtPya/8rdUUh01ZbyiAob5+ZltbYUGcJyq2feG4ChOSh1880xynW/movXxEG/7gYXRJbQnq91v1qvtLBdCxJnm8lNslO+bx3lwHh7C18414N35tCYVJ5e5aTrvO/aRU6enW2rBvnwsHcTmHpDbm0JumlsRmmzw1eQwyDNPgZQ6Jv3ms82kBRRxLZ9RWxjbpuKjn09yLbMeHLOdkBKArQ3z97ADK9BIQD0B7OihZXhnvmXFE6+UP9n5Dlb7MwRgLzc+maA26nTGQmzOFleOkAiF2k/pNaSYitJLdGykJ3jz8MHwFpA5sECQOlj0vfxePY5zaGbI4wTxwaP5Ga6gKLWhlw3+KhwzxuQX94DDeI4kj7GFa8AUJy1jpD+Fp+/yN39FT5+9Wu/8INukplh2uyRMXfSOe8BFF60Zk+lD8fOCebohnqlj57N68mNGYAk6Do9W/uM48hOZaThdn2fTrCJ9vA/ihEMPGeLnHma4FwiyfrbtYRevya1n6kYHlCb6DYRXfgkrhR4sZXEW7vpPJRPq/pPH2ycnd0sz9hNdKz/zZe8fYYzZ/5AySwWWRu+vP1wnfpPd6O/0kcPcTydp/3U1wYWTN5UNjmlwx/v5iO19vPF+Ylt/4E6ywM123ks6yNtdtBiUilLt3jW9II2xsiEe6iT6yNgXTPJM1laE6jaB2edbISkN9QAABpGSURBVL2YVE5s9t7GIKfaYcPWHJJHLk0a1E/ts1MxjZTerj499ZwEd1xqc+zmYJ8tmsY5E9NmihpQ5MYiClLdTwHd7qin+rPFNCDba5Sa2iSm1EwCr+08e5E7Je4aztCFi9zJUH8eOioY6GlUU2m7uWo9bS/TylEySxpJdM0NNuV2IF6j2FYpqaK1Jo5j5y/ztJY+2kUbgTRI+eEWjuzTze9vcf0CDsgjvbTTNdDBzULF1slqP3FsV29w7toZupFXcaT5abZTjnWytNnBsHjsN9Cvd/16E55v8nHOjp1sIW2fu3yuJqcrLXy4xt0U1fNJCz2b10+y3iAfnrjM01s9S6AMRljHUOvUAqb36DqlDO5r4VS7k3JXM9ogX7Q72eBVA5rsuJrPNgB2ytXjAnTfyQzPmZgRyQekWrD5gNTmuAF9QImtJLUkhZs+hlvPpeLCIp4e9vxDLi4sYhstpk45HSgt9szSZk8c+jyvqA+Sfnp4ksEKQuiYogYkHqCYCHdznGrJuhSWc4MBA4OP1jnMsH5aHGmrYLx9zKAyBaf5bMOsDC1eeJRa5fx5K4QwmgSgha7tZTpTvJvgZquJbSaUYdUnvJrgpGljPtI1Y02lmVQsetIEp1qwTXBCCGFSUgMSD8T/YH2Uf3gu1+hiCBM43dbFO+fajC6GMCEJQOKB+H97vmX7Yf/PqwghFjcTPgckhBBiMZAAJIQQwhASgIQQQhhC+oAWAjXFgvK8jxmGWAshRGCmCkDJz5SRu1L9ICm5g6dlUvV4CakQQpibSQJQJFlFBawda6K6WoKOEEIsBuYIQI//XAk+i7TGsyS/nvTHOml/S0s6N3GaZ8ptz3Tc/im5gpad90rfHdlI6/F/nUa6b+8mPu9cRD6aAPNe572/fxI+/y0vvP6nKZ4dIcRCZYoAlGyN5fboCFvLytCyAjiaqzn9laHFmjP3L3dyJyOFsFhcLwddEhnCnW/OKgHJdpT0jBvuG7vtKJn2eu7emI2XiQZI9+217yX59aTvqdQFxt0kDtfT+lbNTAsihFhkTDAKLpLIFRCaGs616mqqq6upbnYQm1NEVpTRZZsjjgoGekKIWrdJnVDKw1Yt9fYmorOSuHPhpLtW0fYynR7Lz4y/dN+WlCSGGtw1mvuNjQyFKcHSxfoEk2S7Vpx9lRe2bJHajxDCgylqQACOZl367a/+G1fTCwiPZGIK5QXK2dnN8qw8ljSe477tCaJ7vqRXN3/8OwMylrKJhyIg2t5ItF0/fdxVtvuNBXRGul92alh2VSHEvGOCAHSLW2MQHxEJLKYkdF7avmTInk9YLPw5JYmhzpc9Zoc8sgnQbuxKYJir0xWov8l5PJ9WQEmsd4BUkCAkhAjIBE1w0NXjIDT15yRrEx7/OWtDHVxbJH1Aihq+7wlhWUwpD0dcxOG64Z9j9JtxlmcUupu5bIUkhk1sLvNHCWCofToh/hd2UfYdbT/qv4nN5V+5O+pjct7rvHfmDO+9+osg9yuEWAxMUAMCvjpNfUQRBWVlKO9PdtBUrWuSWyScZy8SX1IAF95wjYYDpZmrnXrSXTl9xumtLXD1y3iPkFOaw7TRaOcYOplHVImS5pvRi3ReiCElMrgyTdw3MHpRHYTgPQIO6KmnVWo/QoggSD4gleQDEkKIuWWKJjghhBCLjwQgIYQQhpAAJIQQwhASgIQQQhhCApAJWK1Wo4sghBBzTgKQEEIIQ0gAEkIIYQgJQEIIIQwhAUjMquLCIk7kBffintlloaK0iCNpBuw6JpUT+7IpVj/m5Nk5VRj3APdVxKl9RZzS7VOI+cgEr+JRs6GGek+/zdX36zi/SN6GvSDEpPL0qkE+PekMvOxsS1vPBi5z5Mrc77o4ax20N3BsKusUFvH0cAM7z07xXN3oYOfhDiUQ7Qyf2rpCmIwJAtAtztdVc14/6fGtlOXALQk+80pOSgK0N0/pRjxbitfE0dPaQvOc7zmONKOCrhDznAkC0ETJ1lhud9QvupeRmllxYRHbVg3y4eGWSQJMHNvToeuE+0ack2enPKmPIzUdrsDgPS0nz055utZk5+SLEw1U3nDv8+nhBqrJcS3T80kd5d61HFfNy/35xM5wPvUua1o2pzJHONIaTnnmiEe5XGWLuMYX4RsIb/XeTxxH9q1nRFc+ZZ31WPsvUT7pOcOj3B7Hu8rOqXR14f4Wtp8cJCfPThl9DKWvw8ogH34C2zbHueYLsZCYrw8oKgvbSgdtny3i3EDzkHYj1t+cmzv7GLckkBvjnpYUYWG8e0C58ceksp1mth+uY/vhOo60w4atqeTothuSbqc84pI634k103M+aE1gl9zB5sYYQ6xgZQy+3Rxh3BJOks+Zd7k+AtFRwfRjKUH3i/M+AsOqbJ4ebphQ7uazyrQP+2G8vcF17PrgEpKewMiJBr5wxrEtc4QjJy4zvipB+nvEgmO6AJScsRY6/pvUfkzm2Mk6tk9a+7GQm2Sh52uvG/GNDj7tt5Ccot3M1eYqrd/jRgfluj4QJWB5BQbnZY6oN2ef84kjbZWTrk59E9gYI9pH3QCBnKgVMDJG840xhrRF07I5VaoEh6QIC+PDY3QPayvrBjbErCCaMa7rAixpCVidfTTpp2n6W1z9O77L7YcukPe0dhjQrCjE3DBXE1xUFraVtxm4ILWfqfkFr7/7a55c4Z7S/cEWXqmZo937GQBw7OtBtmXGk3O2g+a0BKz9fbrmKgsVpXY2eFQ2PIOYq7YEage85/a1mtd2jyDg5PqIhbQoyIkKZ6gfVsZANzA+PAbAiFOpIRWvgZ4Rd3AYuumkmTHK16yAmBWEjwxClEVJDe8coVtf9kyj+p2EWBhMFYCSM9YSer1JRr5N2Z94dcefDNt78Zo4xrsv+b4RX+mjZ/N6cmM6SFoTR8/XLe71Cu1K4Drc4WqSm9rILrXm1TqxCax72MnTUXHkJsGV0yOkpVhIirAw9LVSK1ECVBzh4SOcag1ne5qFkXAnIzcBRhjPXEFxSgJ83czImnhyosIJGelzH2NMPMmWQT41YNSdEAuFeZrg1NrP1QvS+GaE4kLl2ZLJnqNR5vt47kQbADDpcOJBrvRbCI+KIy38Mqe8b9gjY+pN3ULF1nUEmywccNW8JmzTZQXhI30cuzEGSetJcwUYVdQK6B6g+eYI0WvWE27xbGJbGTHGlStOrpPA9jUrXLUn8NHvNEXdw05CkuIn9GcJsZiYJABFkvW3awm93ia1n3kmJyWBkP4+vzfiY+cvE705m2h9c5o6fXxVtvpQpZ3w7suMT2HfSs1rwGfNq/nmGCHp6+DrQWCQKyNxWHUBpnvYiTU9gZFOJ9wYoCs8DqvWxHZjjCHLOjagHNexr8ewrrIwdFMLsr76naam+WwzX7COcu2h0iAfXM3JsyvL71xHCHFskwdSxTwmKblVRqbknr8pvX0PTZ4Tkw21ngPKcO1LMixaiBmSAKSSACSEEHPLJE1wQgghFhsJQEIIIQwhAUgIIYQhJACZgPT/CCEWIwlAQgghDCEBSAghhCEkAAkhhDCEBCAhhBCGMM3LSJOfKSN3pfuzo7ma018ZV56FxvJSI/G33qCj8ZzRRRFCCMAkAShyYxG5NFFdrb6I9PGtlOVsJfmr05IXSAghFihzBKCwUG6P6nIA3RrhNlN5Lf98V0riwSf4vnaY+JInWQ4wepH2tyq4ry6xJL+e9Az3u6KHGvLpbVM/2I6SmTVM+0lYra3fU0/r8RrP9awHyMw4oPxfne9a3+5Ol3bnwsSaUsnbZ3je2s37W16hdpaPXgixOJkiAHX1OMjNKWDrcDWnv9LejN20yGo/SaSUQOehfJxsInrPAVbnb1ICge0o6Rk36Dz0Mk5QA0Y9d28UMORQVw97kvSSbmX92EpSS/KJjq1hqLGA1kZ/TXClJNpj6K3Nd29LCCHmgDkGIXx1murqJsgpo6ysgPj+eqo/XlzhB8bprVUDDOcY/Wac5ZE/AzYRnZXEnQsncb38v+1lOntCiFq3yff6jrPcHA1hWUyw+/be1kS1u7ewRWo/QohZZI4A9PhWyspsjLxfTXV1E7dTCygryiLS6HIZLSKeJep/x78LMHhgtJNRVw3mHENv6Zro/Kqht/YiZBwg82AjmQePYgm8khBCzJgJAlAkWemx3O74RE1G18Xp6iYcoWv5+eNGl81gwwOuPqCQR/Q1lE08FDGL+3FU0HEon9ZD+bRfiCFFgpAQYg6YIAApQsN09Z3HVxPLbUZuTb78ghZbyeqMEIY6a3A1x2UUuoOCrZDEsG4GpjCk+v6tcZY/lueqUU263He+M8uVvH2GM2f+QEnQexRCCP9MMAjhFufrmggvy6WsLFeddpur79ctsvTcISSWNJKoftKPcrvfWEA79aQfbFTnjtNbW8BUEkLfb3yb3scOuLehjYLzGgE3nW0LIcR0SEZUlZEZUZVh2PncrS2QkWhCiEXDNE1wQgghFhcJQEIIIQxhgj4gATX0HqoxuhBCCDGnpAYkhBDCEBKATMBqtRpdBCGEmHMSgIQQQhhCApAQQghDSAASQghhCAlAQgghDGGaYdgeKblvX6W+7jyL9VVwcyuOI/uy8RgG4bzMkZoOmtWPOXl2ytO1N9EN8uHhFo65FrZQUWpngza7v4XtJwfd20rL5tTmOG3DfHGigUrfr5sLomze+/acP97ewM6z8hIhIeYLUwSgyI1F5K64Sn21EnSSnymj4JlbizAnkFG8b+w6admUp4/x4eEGjgHFhUVsK02lWw1QxYV2Noy0sL1mEC0gnMjTAkEcRzbDh4frOIYayHZmUzzZvjxYqCjNhk/q2H5FmVJcWMS2wjiOnRx0zY9ub2D7WSfEpHJip50jN+sovzJLp0UI8UCZoAkumZ+nhuJod9d4ui5c5fbK1SQbWi4BFioy4xhvv+QKGMfOX2bckkBuDBCTytOrnHxxXqvxDHKq3UlIUjw56udyXbBp7uxjnBWs9EqUV1xYxKl92RR7TF1BuMXJiO6FtN3DutpN2no2WAb5VKvx3Ojg036wrolDCDE/mCAAAd6pF27e4jahREYZViABaEGgq1O78cdxZOc6QrAQHgVEhRPi7KNJa1JLy1aa6izhJE2yxeANcqXfwoadamCKSaUs3ULP10qwy4laAf19ruCWk2dn2yogfIUa/IQQZmeCJrgurl3PJTcjmfNqk1vyM7lKPiCDS7Z4xLFtXxHbAN/9NO5+np5P6vhwTRFPR1lAq53EpHJi5zpC1Ka8tH3rlVqO9za2riOkv2VCH9Cxk3U+m+SOnazjWFo2p/YVsQ0nX5yom9h/pPUxOS9z5ASU7VSCX7OP7QkhzMUEAQi6Pm5itS4fkKO5CcfK1dxaVPmAZuIXvP7ur3lyhXtK9wdbeCWo18sNUn64zv0xLZtTO+1UuIKQhQ077fS4+mIsVGTC0NdqrciyjvKdg65+HmJSOcEYV7wCRXGhnQ1c5oh+gEIAxYVFbAu/zJHDLTSnZXNqZxEn9AMNVmVzSpuvlr3cOUJ30HsQQhjJFAFIScOtG3AQlUXR7REZBRe0P/Hqjj/Nzqau9NGzeb36YYwRJ4x3N+g69vV9MyOMs4KuE7pBBVHhhHgFgeLCIratGuTDwx3B10y0/qUT6jpXWthONqc2r6f4bAvHbo5Rzhgf6kfrRa2AkT6p/QgxT5ikD0gnKoui5+MZ+K8yDNsIxYXZWF39Ok6aup2EpOdQoQ4cyMlb755/Y4Aup4UNW1PVfhd10EL3gCsIuIPP5CPffA9CULYXrusHLF4TB1pwu9JHD3FsK9QGHcSxXddHJIQwP1NkRI3cWERBaqj6yUFT9WnmegC2kRlRZ55RdQY8ntNh4nM8eD0H5PWMkPdzQB7P4rj6hrx47WPSIOVdtgn79nwOqOcTGYItxHxiigBkBos2AAkhhEHM1wQnhBBiUZAAJIQQwhASgIQQQhhCApAQQghDSAAyARmAIIRYjCQACSGEMIQEICGEEIaQACSEEMIQEoAWIttRMvdUssRjYimJBxt9TBdCCGPM6ctItVfuOJqrOf2V73kKY17HY2qxlaSWRDBw6GUk6fQssR0lM2uY9rcquG90WYRYhOYoAEWSVVRAfP9VHKydOPvxrRSk3qapuo4ulJTcuUVZ3KqTF5LOnhp6D9XQa3QxhBBCNScBKHLjZsLbq6n7KpmtqRPmkpUey+2OeleNp+vCVWzPx5McBecXTU6gUhIPFhCtfRy9qP4y95yecrBR/d84vbUFDDmUT0vy60nP0L32c3TY9V+PeT31tB7XJQqyHSUz5Uvab+W7lrlz4Q06Gs/NsNzavCf4vnaY+JInWT5hvrp/u5Y/VX9Mm4jesxtONrKsRNt+N53eNcC813nv75+Ez3/LC68HmZIitpJUrTwkke46p+7tW15qJP7WG1xjt+u8DDXk09uGj5pTKYkH87k76ffho9xCiLkJQLc+q+P0pHMjCQ+9zcA3Wl0nma3PryUUCI/EnXVzgbO8VEDIhTdonXDjV2su/prgbEdJz7jhvsnZjpKZ5Z59v7GA1kb1phjpY+fWAtKpp/VQjRoQCrE0ngvihrmJ6D36cm8ies8B0l8q1QW5JFJKoPNQPk51/ur8TUqAi60k1R5Db22+cuO2HSWz5Ch/dh1jCIkl+fTW5tPqUNaN19adCUcFHYcI2AS3POMA6T3KeVmSX096ViWOtiCa67y+jyX59aTvqZSmPiG8mGgQQiRZRWVKVtTmapquQ2iEr7vlwrX8sbxpDBDYRHRWEkMNM/iFPXqRdi1gtH3JEDE8FBvEerZCEsO6GXAFhHMMnbzIHesTWFwLjdNbq5XtHKPfjLM88mcALFmXAhfedtUaaDtJ72gSD9vcuxhq0GoVnuu6nH2VF7ZsCb72MxW683L/cid3wiKC+n4sKZ7fx/3GRobCUggL5pwKsYiYJCNqKGufL8DRXE31V6A0y8HtnsXTA+Q8/ga9ew64moNczT1mNzo89V/1EfEsAZZEhrDceoDMjAMes4dmq2wzdOebs+5j02pNAW3ioQiItjcSbddPH5f+NyG8mCAA3WLkNoT21+tGxinNciOLJ/4A5xh665xy842tJLWkkUTmQRBSawWuG3VMhNq34sfwAPeBJUy1v2n+mDc/IIQwkAma4G7R1X+b0NTNZKnplyM32oi9PUDXIun/mcAxwLjPaZ7NU4pz/HkYolNKlY+xlaS6OvUfsLYvGSKJ+PxN6gSlOfDOhZO+mwNjK1mdEcJQp9Ks5ezsZnnGbqJn0jSV9zrvnTnDe6/+Yurr3hjmznSbxlzNcUo/mGsQhtpUGG0/qmuGFEL4Mjc1oMe3Upaj+yvPKaMsB9fzQLc+q6OeIgqeL1MGad++Sv2iGoLtNZIMtWbg8Qu6ht6GJ8h0Ne24R4w5j9czdLCAzIMFQDedtReJL9TWUzrvE8O0z+py3qPhpqWG3kOQeFDXjNZT7zWQIoTEkkYS1U8eNYO2l2nlKJm6+XM6YsxRwbUL9aS79h/kvttepjOl0TUicaihniF7vmv2/cYC2qnXja5j4ug/IYSk5NYYmZJ74Zo4PFkIITQmaIITQgixGJlgEIIwK8tLjaRYJ5srD1cKIWZGmuBU0gQnhBBzS5rghBBCGEICkBBCCENIABJCCGEICUBCCCEMIQFICCGEISQACSGEMMScBqDIjUWUlZWx9XHf85OfKaOsrMj1TrjFZRPRexpJnPCuN1VsJakHDXq/mO0omXsqp5EqQgghJjdHAUjJ9bOZAXy/kSWZrWVlrB69yu25KZAQQgiDmSAlNyQ/Y2Pk/WrOk0WRj/kLnccbB3R5ZJRUBT8LkJJbeZEpHq//9zWthD+ceZ6knvfZsrs2uILNNHW1j3fBacu7UjBMmpJbCLHQmSAlN3R9XKf8Z1E2vYHzeD6t6lurl533ziNzLkBK7hq+7ykgJaWU3jb17da2J4imm86Z5qN50KmrA6bkFkIsZDIIYQFwnvVMg21J8ZWTp5ZXtmwJvvYzFdNMXR1MSm4hxMIlLyNdCBxnuTl6gIdt4Gwr5WFrNwPH5y7L6PRSV5s/JbcQ4sGSALQgnGP0m90kppTSyxNE93xJr9FFCtJCTckthAhMmuBMwyu1trdJU3Ir7jc2MmTNJzUrht6zvjKdlvCHM2c483bJ1Is2k9TVhLAsRvnfkvx6j/QOs5KSWwgxb5kiJXfkxiIKUkNds9c+X8ZabnP1/TrO35yTEpqCZ2pt79rB5Cm5tfnf9xQQHXGRa7M9imy6qau9y9xTT2dPAfHabKNTcgshDCX5gFQLIR/QhCHOQghhYtIEt1DYjpJi7WZAgo8QYp6QQQjznetBTqVJTpquhBDzhQSg+a7tZVpn+sCpEEIYQJrghBBCGEIGIah+/3+8CcD/9h//d4NLIoQQi4PUgIQQQhhC+oC83L171+giCCHEoiA1ICGEEIaQACSEEMIQc9oEt3H/P/HKhmX0ffwiv/kXjzn85r+8whNaPoH+j3nxwL/42IIQQoiFYo5qQBv5zX/5I7v4hj5fc/fv4rFrf+DFF1/kxRc/pm/VM/zT/o1zUzQhhBCGmJMAtHH/LsJaXuSXVd/6nP9Z1S/5ZdVn6qd/4Wo/LIu0+lxWCCHEwjAnTXCfVf2SzwIvJoQQYhEx3yCEv/tHnll1ly8bpA9ICCEWMnM9B5T9G/7pmQT6Pn6Rf2wxujBCCCEeJPPUgLJ/wz+9/AR88QevEXJCCCEWInMEIF3wcQ9GEEIIsZDNTRPc3/0jf3wmwf35mT/yx2dwPQ/0d/YnWAaw4RX++MdX1IXu8uXRX0pTnBBCLFDyNmyV9jbsX/2vew0uiRBCLA7maIITQgix6EgAEkIIYQhzDcM2gWXLlhldBCGEWBSkBiSEEMIQMghBCCGEIaQGJIQQwhASgIQQQhhCApAQQghDSAASQghhCAlAQgghDCEBSAghhCEkAAkhhDCEBCAhhBCGkAAkhBDCEP8/WlnwtOoFFm0AAAAASUVORK5CYII=",
+                              "width": 349,
+                              "height": 220,
+                              "position": "left",
+                              "metaData": {}
+                            }
+                          }
+                        }
+                      }
                     }
                   }
                 }
@@ -1857,6 +1689,199 @@
             "3": {
               "title": "Sempre precisará de um node para orquestrar o restante",
               "id": "274.d504.60d8ac4f1-40b2.79a8e0f0d"
+            }
+          }
+        },
+        "-8.75": {
+          "title": "Definições",
+          "id": "35.510b.858194499-e6a3.3af0fb055",
+          "attr": {
+            "style": {
+              "backgroundColor": "#fbd9d3"
+            },
+            "position": [
+              135.77169418335052,
+              -5063.934522449971,
+              29
+            ],
+            "collapsed": true
+          },
+          "ideas": {
+            "1": {
+              "title": "O que é Docker",
+              "id": "22.e692.e4c975976-f368.287ff0cd8",
+              "ideas": {
+                "1": {
+                  "title": "É uma tecnologia de containerização",
+                  "id": "4.f57c.0375af185-7f8d.63065228e",
+                  "attr": {
+                    "position": [
+                      115,
+                      -85,
+                      1
+                    ]
+                  }
+                },
+                "2": {
+                  "title": "Facilita a criação de ambientes isolados",
+                  "id": "36.510b.858194499-e6a3.3af0fb055"
+                }
+              },
+              "attr": {
+                "position": [
+                  93,
+                  -299,
+                  2
+                ]
+              }
+            },
+            "2": {
+              "title": "O que são containers",
+              "id": "37.510b.858194499-e6a3.3af0fb055",
+              "attr": {},
+              "ideas": {
+                "1": {
+                  "title": "É um ambiente isolado para rodar aplicações / tarefas/processos",
+                  "id": "38.510b.858194499-e6a3.3af0fb055"
+                },
+                "2": {
+                  "title": "Primeiro temos a imagem, que define o que será. E da imagem criamos o container.",
+                  "id": "45.510b.858194499-e6a3.3af0fb055"
+                }
+              }
+            },
+            "3": {
+              "title": "VM vs Containers",
+              "id": "24.e692.e4c975976-f368.287ff0cd8",
+              "ideas": {
+                "1": {
+                  "title": "Nas Maquinas Virtuais, temos que reservar partes de harware para cada VM. Como são instalados os S.O inteiros, tem uma carga maior de arquivos. ",
+                  "id": "33.e692.e4c975976-f368.287ff0cd8",
+                  "ideas": {
+                    "1": {
+                      "title": "É uma abstração de uma máquina real",
+                      "id": "39.510b.858194499-e6a3.3af0fb055"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Containers são leves, usam os arquivos do S.O host e rodam containers de forma isolada, sem interferência um no outro",
+                  "id": "34.e692.e4c975976-f368.287ff0cd8"
+                }
+              },
+              "attr": {}
+            },
+            "13": {
+              "title": "Docker Images",
+              "id": "18.e704.15db7800a-7b7a.0dfd3c8c5",
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FFFF99"
+                },
+                "position": [
+                  88,
+                  244,
+                  1
+                ]
+              },
+              "ideas": {
+                "2": {
+                  "title": "Diz o que o container terá.",
+                  "id": "21.e704.15db7800a-7b7a.0dfd3c8c5",
+                  "ideas": {
+                    "1": {
+                      "title": "Definimos o OS, versoes etc..",
+                      "id": "46.510b.858194499-e6a3.3af0fb055"
+                    }
+                  }
+                },
+                "12": {
+                  "title": "Listar imagens",
+                  "id": "19.e704.15db7800a-7b7a.0dfd3c8c5",
+                  "ideas": {
+                    "1": {
+                      "title": "$ docker images",
+                      "id": "20.e704.15db7800a-7b7a.0dfd3c8c5"
+                    }
+                  },
+                  "attr": {}
+                },
+                "13": {
+                  "title": "O container é criado a partir de uma imagem",
+                  "id": "47.510b.858194499-e6a3.3af0fb055"
+                }
+              }
+            },
+            "14": {
+              "title": "Arquitetura Docker",
+              "id": "25.e692.e4c975976-f368.287ff0cd8",
+              "ideas": {
+                "1": {
+                  "title": "Usa arquitetura Cliente x Servidor",
+                  "id": "40.510b.858194499-e6a3.3af0fb055",
+                  "ideas": {
+                    "1": {
+                      "title": "Terminal seria o cliente",
+                      "id": "41.510b.858194499-e6a3.3af0fb055"
+                    },
+                    "2": {
+                      "title": "Docker Engine seria o servidor",
+                      "id": "42.510b.858194499-e6a3.3af0fb055"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Cada container é um Processo no S.O host",
+                  "id": "43.510b.858194499-e6a3.3af0fb055"
+                },
+                "3": {
+                  "title": "O container compartilha o kernel do host, por isso é muito mais leve que uma VM",
+                  "id": "44.510b.858194499-e6a3.3af0fb055"
+                }
+              }
+            },
+            "15": {
+              "title": "dockerhub",
+              "id": "48.510b.858194499-e6a3.3af0fb055",
+              "ideas": {
+                "1": {
+                  "title": "É a forma de guardar imagens docker, como se fosse o github do git",
+                  "id": "49.510b.858194499-e6a3.3af0fb055",
+                  "ideas": {
+                    "1": {
+                      "title": "https://hub.docker.com/",
+                      "id": "50.510b.858194499-e6a3.3af0fb055"
+                    }
+                  }
+                }
+              }
+            },
+            "16": {
+              "title": "importante!",
+              "id": "170.5740.c96ab4023-bc6e.81252311b",
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FF0000"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Um container tem o tempo de vira apenas enquanto o processo principal estiver rodando.",
+                  "id": "171.5740.c96ab4023-bc6e.81252311b",
+                  "ideas": {
+                    "1": {
+                      "title": "Ex, se crio um container e a principal função é criar uma pasta, irá subir o container, criar a pasta e o container morrerá.",
+                      "id": "172.5740.c96ab4023-bc6e.81252311b",
+                      "ideas": {
+                        "1": {
+                          "title": "Para o container perdurar, é necessário deixar um processo em aberto, por exemplo o terminal (stdin e tty), ou seja, o terminal ficará rodando, se sair do terminal, o container morre.",
+                          "id": "173.5740.c96ab4023-bc6e.81252311b"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
             }
           }
         }
