@@ -46,7 +46,20 @@
         },
         "2": {
           "title": "Data Providers",
-          "id": "11.04a7.4e7b76f2-24a6.66509cdf"
+          "id": "11.04a7.4e7b76f2-24a6.66509cdf",
+          "attr": {
+            "position": [
+              100.02547359466553,
+              102.00004577636719,
+              7
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "São 'fornecedores de dados'. Uma função que retorna array de arrays",
+              "id": "12.04a7.4e7b76f2-24a6.66509cdf"
+            }
+          }
         },
         "-1": {
           "title": "Material de referência",
