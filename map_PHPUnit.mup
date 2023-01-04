@@ -73,8 +73,14 @@
           },
           "ideas": {
             "1": {
-              "title": "",
-              "id": "8.69db.671f25a92-e94f.474ae9b79"
+              "title": "Para facilitar, podemos usar dependência de testes. Onde fazemos o teste 1, e damos return, e usaremos no teste 2. Usando a annotation @depends",
+              "id": "8.69db.671f25a92-e94f.474ae9b79",
+              "ideas": {
+                "1": {
+                  "title": "Ex:",
+                  "id": "9.69db.671f25a92-e94f.474ae9b79"
+                }
+              }
             }
           }
         }
