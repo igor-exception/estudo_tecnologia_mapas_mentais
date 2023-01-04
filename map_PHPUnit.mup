@@ -45,10 +45,6 @@
             }
           }
         },
-        "2": {
-          "title": "",
-          "id": "16.04a7.4e7b76f2-24a6.66509cdf"
-        },
         "-1": {
           "title": "Material de referência",
           "id": "3.3509.1f85fe783-9403.b51855eb3",
@@ -110,9 +106,9 @@
           "id": "11.04a7.4e7b76f2-24a6.66509cdf",
           "attr": {
             "position": [
-              312.94324588775635,
-              110.00005054473877,
-              10
+              259.8949365615845,
+              73.0200252532959,
+              13
             ],
             "collapsed": true
           },
@@ -141,6 +137,23 @@
                   "metaData": {}
                 }
               }
+            }
+          }
+        },
+        "-31": {
+          "title": "3- Exceptions",
+          "id": "16.04a7.4e7b76f2-24a6.66509cdf",
+          "attr": {
+            "position": [
+              263.9290246963501,
+              191.03705406188965,
+              14
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Podemos testar exceptions,  usando annotation: @expectedException nomeException",
+              "id": "17.04a7.4e7b76f2-24a6.66509cdf"
             }
           }
         }
