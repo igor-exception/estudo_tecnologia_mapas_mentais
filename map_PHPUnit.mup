@@ -45,10 +45,6 @@
             }
           }
         },
-        "2": {
-          "title": "",
-          "id": "26.4588.24f97ecc9-ecdf.8cc65365b"
-        },
         "-1": {
           "title": "Material de referência",
           "id": "3.3509.1f85fe783-9403.b51855eb3",
@@ -224,6 +220,75 @@
                           "metaData": {}
                         }
                       }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "-51": {
+          "title": "5- Output do framework PHPUnit",
+          "id": "26.4588.24f97ecc9-ecdf.8cc65365b",
+          "attr": {
+            "position": [
+              292.9404993057251,
+              361.0340690612793,
+              16
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Quando rodamos os tests, o PHPUnit solta alguns outputs, que são representados da seguinte forma",
+              "id": "27.4588.24f97ecc9-ecdf.8cc65365b",
+              "ideas": {
+                "1": {
+                  "title": ".",
+                  "id": "28.4588.24f97ecc9-ecdf.8cc65365b",
+                  "ideas": {
+                    "1": {
+                      "title": "Quando o teste passa",
+                      "id": "29.4588.24f97ecc9-ecdf.8cc65365b"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "F",
+                  "id": "30.4588.24f97ecc9-ecdf.8cc65365b",
+                  "ideas": {
+                    "1": {
+                      "title": "Quando tem falha no teste",
+                      "id": "31.4588.24f97ecc9-ecdf.8cc65365b"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "R",
+                  "id": "32.4588.24f97ecc9-ecdf.8cc65365b",
+                  "ideas": {
+                    "1": {
+                      "title": "Quando o teste é marcado como arrsicado",
+                      "id": "33.4588.24f97ecc9-ecdf.8cc65365b"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "S",
+                  "id": "34.4588.24f97ecc9-ecdf.8cc65365b",
+                  "ideas": {
+                    "1": {
+                      "title": "Quando o teste é pulado(skipped)",
+                      "id": "35.4588.24f97ecc9-ecdf.8cc65365b"
+                    }
+                  }
+                },
+                "5": {
+                  "title": "I",
+                  "id": "36.4588.24f97ecc9-ecdf.8cc65365b",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "37.4588.24f97ecc9-ecdf.8cc65365b"
                     }
                   }
                 }
