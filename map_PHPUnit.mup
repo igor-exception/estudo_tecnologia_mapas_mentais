@@ -201,7 +201,7 @@
           },
           "ideas": {
             "1": {
-              "title": "",
+              "title": "Para testarmos um output, podemos usar o expectOutputString",
               "id": "23.4588.24f97ecc9-ecdf.8cc65365b"
             }
           }
