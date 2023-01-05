@@ -163,7 +163,7 @@
           },
           "ideas": {
             "1": {
-              "title": "Podemos testar exceptions,  usando annotation: @expectedException nomeException",
+              "title": "Muito importante ter testes para exceptions.\nExistem alguns assertions específicos",
               "id": "17.04a7.4e7b76f2-24a6.66509cdf"
             }
           }
