@@ -106,16 +106,27 @@
           "title": "7- Doubles",
           "id": "69.4539.96dc681dc-6ca0.39de755c7",
           "ideas": {
-            "1": {
+            "12": {
               "title": "1- Stubs",
               "id": "67.4539.96dc681dc-6ca0.39de755c7",
-              "ideas": {},
-              "attr": {}
-            },
-            "2": {
-              "title": "Em alguns casos,  métodos recebem como parâmetro objetos. Caso precisemos instanciar estes objetos para testar nosso método, poderá adicionar uma complexidade desnecessária",
-              "id": "68.4539.96dc681dc-6ca0.39de755c7",
-              "attr": {}
+              "ideas": {
+                "1": {
+                  "title": "Em alguns casos,  métodos recebem como parâmetro objetos. Caso precisemos instanciar estes objetos para testar nosso método, poderá adicionar uma complexidade desnecessária. Para resolver este problema, podemos usar os stubs",
+                  "id": "68.4539.96dc681dc-6ca0.39de755c7",
+                  "attr": {
+                    "style": {
+                      "width": 208
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "position": [
+                  153.22984981536865,
+                  -2.883538246154785,
+                  1
+                ]
+              }
             }
           }
         },
