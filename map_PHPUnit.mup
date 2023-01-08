@@ -187,8 +187,33 @@
                   }
                 },
                 "3": {
+                  "title": "assertEmpty($ret)",
+                  "id": "81.4539.96dc681dc-6ca0.39de755c7",
+                  "ideas": {
+                    "1": {
+                      "title": "Verifica se é vazio",
+                      "id": "82.4539.96dc681dc-6ca0.39de755c7"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "expectException(\\Exception::class)\n<codigo que gera exception>",
+                  "id": "83.4539.96dc681dc-6ca0.39de755c7",
+                  "attr": {
+                    "style": {
+                      "width": 258
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Define que espera uma exception",
+                      "id": "84.4539.96dc681dc-6ca0.39de755c7"
+                    }
+                  }
+                },
+                "5": {
                   "title": "",
-                  "id": "81.4539.96dc681dc-6ca0.39de755c7"
+                  "id": "85.4539.96dc681dc-6ca0.39de755c7"
                 }
               }
             }
