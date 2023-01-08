@@ -143,10 +143,52 @@
                   "id": "72.4539.96dc681dc-6ca0.39de755c7",
                   "ideas": {
                     "1": {
-                      "title": "",
-                      "id": "73.4539.96dc681dc-6ca0.39de755c7"
+                      "title": "$num = 10;\n$this->assertEquals(10, $num)",
+                      "id": "73.4539.96dc681dc-6ca0.39de755c7",
+                      "ideas": {
+                        "1": {
+                          "title": "Neste caso, espera que sejam iguais",
+                          "id": "75.4539.96dc681dc-6ca0.39de755c7"
+                        }
+                      },
+                      "attr": {
+                        "style": {
+                          "width": 201,
+                          "textAlign": "left"
+                        }
+                      }
                     }
                   }
+                }
+              }
+            },
+            "2": {
+              "title": "Alguns asserts",
+              "id": "76.4539.96dc681dc-6ca0.39de755c7",
+              "ideas": {
+                "1": {
+                  "title": "assertEquals($a, $b)",
+                  "id": "77.4539.96dc681dc-6ca0.39de755c7",
+                  "ideas": {
+                    "1": {
+                      "title": "Verifica se dois parametros sao iguals",
+                      "id": "78.4539.96dc681dc-6ca0.39de755c7"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "assertTrue($variable)",
+                  "id": "79.4539.96dc681dc-6ca0.39de755c7",
+                  "ideas": {
+                    "1": {
+                      "title": "Verifica se é verdadeiro",
+                      "id": "80.4539.96dc681dc-6ca0.39de755c7"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "",
+                  "id": "81.4539.96dc681dc-6ca0.39de755c7"
                 }
               }
             }
