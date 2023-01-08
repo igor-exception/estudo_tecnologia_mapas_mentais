@@ -439,6 +439,56 @@
               }
             }
           }
+        },
+        "-6": {
+          "title": "0- Nome dos testes",
+          "id": "56.4539.96dc681dc-6ca0.39de755c7",
+          "attr": {
+            "position": [
+              244.9462366104126,
+              -355.9517297744751,
+              19
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "O ideal é o nome do teste seguir as seguintes regras",
+              "id": "57.4539.96dc681dc-6ca0.39de755c7",
+              "ideas": {
+                "1": {
+                  "title": "1- Dizer o que está sendo testado",
+                  "id": "58.4539.96dc681dc-6ca0.39de755c7",
+                  "attr": {
+                    "position": [
+                      271.9317626953125,
+                      -73.9375,
+                      1
+                    ]
+                  }
+                },
+                "2": {
+                  "title": "2- Quais circunstâncias",
+                  "id": "59.4539.96dc681dc-6ca0.39de755c7",
+                  "attr": {
+                    "position": [
+                      279.9346008300781,
+                      12.056808471679688,
+                      2
+                    ]
+                  }
+                },
+                "3": {
+                  "title": "3- Qual o resultado esperado",
+                  "id": "60.4539.96dc681dc-6ca0.39de755c7",
+                  "attr": {
+                    "style": {
+                      "width": 189
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     }
