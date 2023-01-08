@@ -1463,7 +1463,8 @@
                   383.4801330566406,
                   -470.6165580749512,
                   2
-                ]
+                ],
+                "collapsed": true
               }
             },
             "3": {
@@ -3777,9 +3778,6 @@
             "13": {
               "title": "Objetos",
               "id": "141.613d.928845cf2-99aa.e23f3a828",
-              "attr": {
-                "collapsed": true
-              },
               "ideas": {
                 "1": {
                   "title": "stdClass - É uma forma de criar objetos genéricos.",
