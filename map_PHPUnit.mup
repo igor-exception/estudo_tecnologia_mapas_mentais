@@ -102,13 +102,20 @@
             ]
           }
         },
-        "3": {
-          "title": "7- Stubs",
-          "id": "67.4539.96dc681dc-6ca0.39de755c7",
+        "4": {
+          "title": "7- Doubles",
+          "id": "69.4539.96dc681dc-6ca0.39de755c7",
           "ideas": {
             "1": {
-              "title": "",
-              "id": "68.4539.96dc681dc-6ca0.39de755c7"
+              "title": "1- Stubs",
+              "id": "67.4539.96dc681dc-6ca0.39de755c7",
+              "ideas": {},
+              "attr": {}
+            },
+            "2": {
+              "title": "Em alguns casos,  métodos recebem como parâmetro objetos. Caso precisemos instanciar estes objetos para testar nosso método, poderá adicionar uma complexidade desnecessária",
+              "id": "68.4539.96dc681dc-6ca0.39de755c7",
+              "attr": {}
             }
           }
         },
