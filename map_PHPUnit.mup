@@ -217,11 +217,16 @@
                   "attr": {
                     "style": {
                       "width": 303
-                    }
+                    },
+                    "position": [
+                      118.11336421966553,
+                      146.04263305664062,
+                      1
+                    ]
                   },
                   "ideas": {
                     "1": {
-                      "title": "Verifica que é da mesma instancia",
+                      "title": "Verifica se é da mesma instancia",
                       "id": "86.4539.96dc681dc-6ca0.39de755c7"
                     }
                   }
