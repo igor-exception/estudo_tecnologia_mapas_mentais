@@ -496,8 +496,18 @@
                   "id": "61.4539.96dc681dc-6ca0.39de755c7",
                   "ideas": {
                     "1": {
-                      "title": "",
-                      "id": "62.4539.96dc681dc-6ca0.39de755c7"
+                      "title": "should-be_valid_when_value_is_a_number",
+                      "id": "62.4539.96dc681dc-6ca0.39de755c7",
+                      "ideas": {
+                        "1": {
+                          "title": "valid = O que está sendo testado",
+                          "id": "63.4539.96dc681dc-6ca0.39de755c7"
+                        },
+                        "2": {
+                          "title": "",
+                          "id": "64.4539.96dc681dc-6ca0.39de755c7"
+                        }
+                      }
                     }
                   }
                 }
