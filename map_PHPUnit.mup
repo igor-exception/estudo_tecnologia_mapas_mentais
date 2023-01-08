@@ -212,8 +212,19 @@
                   }
                 },
                 "5": {
-                  "title": "",
-                  "id": "85.4539.96dc681dc-6ca0.39de755c7"
+                  "title": "$user = new \\App\\User\\User;\nassertInstanceOf(\\App\\User\\User::class, $user)",
+                  "id": "85.4539.96dc681dc-6ca0.39de755c7",
+                  "attr": {
+                    "style": {
+                      "width": 303
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Verifica que é da mesma instancia",
+                      "id": "86.4539.96dc681dc-6ca0.39de755c7"
+                    }
+                  }
                 }
               }
             }
