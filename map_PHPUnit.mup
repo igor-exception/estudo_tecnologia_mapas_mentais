@@ -526,7 +526,14 @@
             },
             "2": {
               "title": "Não importa se o nome estiver muito grande, o importante é ser bem descritivo",
-              "id": "66.4539.96dc681dc-6ca0.39de755c7"
+              "id": "66.4539.96dc681dc-6ca0.39de755c7",
+              "attr": {
+                "position": [
+                  179.87503051757812,
+                  53.12495422363281,
+                  2
+                ]
+              }
             }
           }
         }
