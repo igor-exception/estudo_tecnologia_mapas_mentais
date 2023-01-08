@@ -130,6 +130,28 @@
             }
           }
         },
+        "5": {
+          "title": "8- Asserts",
+          "id": "70.4539.96dc681dc-6ca0.39de755c7",
+          "ideas": {
+            "1": {
+              "title": "São formas de comparar/esperar um resultado do que foi previsto e do resultado.",
+              "id": "71.4539.96dc681dc-6ca0.39de755c7",
+              "ideas": {
+                "1": {
+                  "title": "Ex:",
+                  "id": "72.4539.96dc681dc-6ca0.39de755c7",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "73.4539.96dc681dc-6ca0.39de755c7"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
         "-1": {
           "title": "Material de referência",
           "id": "3.3509.1f85fe783-9403.b51855eb3",
