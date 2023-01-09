@@ -254,11 +254,40 @@
                   "ideas": {
                     "1": {
                       "title": "Impede que o cliente veja listagem de pastas /itens do servidor",
-                      "id": "36.efc7.54757276e-fe29.46746b9ae"
+                      "id": "36.efc7.54757276e-fe29.46746b9ae",
+                      "attr": {
+                        "position": [
+                          217.94883728027344,
+                          23.130645751953125,
+                          1
+                        ]
+                      }
                     }
+                  },
+                  "attr": {
+                    "position": [
+                      144.95169067382812,
+                      35.130645751953125,
+                      1
+                    ]
                   }
+                },
+                "2": {
+                  "title": "É um arquivo que podemos definir algumas regras de acesso do servidor.",
+                  "id": "38.efc7.54757276e-fe29.46746b9ae"
                 }
+              },
+              "attr": {
+                "position": [
+                  134.94601440429688,
+                  81.13064575195312,
+                  1
+                ]
               }
+            },
+            "2": {
+              "title": "",
+              "id": "39.efc7.54757276e-fe29.46746b9ae"
             }
           }
         }
