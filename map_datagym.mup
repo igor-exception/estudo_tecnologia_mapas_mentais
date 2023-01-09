@@ -234,10 +234,32 @@
           },
           "attr": {
             "position": [
-              161.9886474609375,
-              214.25000667572021,
+              265.96022033691406,
+              102.37784481048584,
               3
             ]
+          }
+        },
+        "-12": {
+          "title": "Apache",
+          "id": "33.efc7.54757276e-fe29.46746b9ae",
+          "ideas": {
+            "1": {
+              "title": ".htaccess",
+              "id": "34.efc7.54757276e-fe29.46746b9ae",
+              "ideas": {
+                "1": {
+                  "title": "Options -Indexes",
+                  "id": "35.efc7.54757276e-fe29.46746b9ae",
+                  "ideas": {
+                    "1": {
+                      "title": "Impede que o cliente veja listagem de pastas /itens do servidor",
+                      "id": "36.efc7.54757276e-fe29.46746b9ae"
+                    }
+                  }
+                }
+              }
+            }
           }
         }
       }
