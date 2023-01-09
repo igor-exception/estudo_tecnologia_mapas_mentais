@@ -286,8 +286,19 @@
               }
             },
             "2": {
-              "title": "",
-              "id": "39.efc7.54757276e-fe29.46746b9ae"
+              "title": "Por padrão, é desativada a opção de usar o .htaccess. É necessário ativa-la no arquivo de configuração principal",
+              "id": "39.efc7.54757276e-fe29.46746b9ae",
+              "ideas": {
+                "1": {
+                  "title": "1- nano /etc/apache2/apache2.conf",
+                  "id": "40.efc7.54757276e-fe29.46746b9ae",
+                  "attr": {
+                    "style": {
+                      "width": 309
+                    }
+                  }
+                }
+              }
             }
           }
         }
