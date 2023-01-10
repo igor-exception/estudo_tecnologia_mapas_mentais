@@ -406,6 +406,16 @@
                 ]
               }
             },
+            "2": {
+              "title": "Documentação do Apache tem muita informação",
+              "id": "59.c4d0.a5a1d97c7-b30c.cd6959c87",
+              "ideas": {
+                "1": {
+                  "title": "",
+                  "id": "60.c4d0.a5a1d97c7-b30c.cd6959c87"
+                }
+              }
+            },
             "0.5": {
               "title": "Por padrão, é desativada a opção de usar o .htaccess. É necessário ativa-la no arquivo de configuração principal",
               "id": "39.efc7.54757276e-fe29.46746b9ae",
