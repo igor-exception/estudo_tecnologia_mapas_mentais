@@ -411,8 +411,14 @@
               "id": "59.c4d0.a5a1d97c7-b30c.cd6959c87",
               "ideas": {
                 "1": {
-                  "title": "",
-                  "id": "60.c4d0.a5a1d97c7-b30c.cd6959c87"
+                  "title": "Acredito que seria útil ter uma página com alterações mais comuns que as pessoas fazem, por exemplo página inicial estar dentro da pasta public. ",
+                  "id": "60.c4d0.a5a1d97c7-b30c.cd6959c87",
+                  "ideas": {
+                    "1": {
+                      "title": "https://httpd.apache.org/docs/2.2/rewrite/intro.html#regex",
+                      "id": "61.c4d0.a5a1d97c7-b30c.cd6959c87"
+                    }
+                  }
                 }
               }
             },
