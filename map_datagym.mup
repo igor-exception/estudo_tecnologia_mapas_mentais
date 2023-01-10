@@ -306,15 +306,26 @@
                   },
                   "attr": {
                     "position": [
-                      144.95169067382812,
-                      35.130645751953125,
-                      1
+                      193.8323516845703,
+                      -26.8721923828125,
+                      2
                     ]
                   }
                 },
                 "2": {
+                  "title": "",
+                  "id": "51.efc7.54757276e-fe29.46746b9ae"
+                },
+                "0.5": {
                   "title": "É um arquivo que podemos definir algumas regras de acesso do servidor.",
-                  "id": "38.efc7.54757276e-fe29.46746b9ae"
+                  "id": "38.efc7.54757276e-fe29.46746b9ae",
+                  "attr": {
+                    "position": [
+                      -13.161972045898438,
+                      -198.86932373046875,
+                      1
+                    ]
+                  }
                 }
               },
               "attr": {
@@ -325,7 +336,7 @@
                 ]
               }
             },
-            "2": {
+            "0.5": {
               "title": "Por padrão, é desativada a opção de usar o .htaccess. É necessário ativa-la no arquivo de configuração principal",
               "id": "39.efc7.54757276e-fe29.46746b9ae",
               "ideas": {
