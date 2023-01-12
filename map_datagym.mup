@@ -426,6 +426,16 @@
                 }
               }
             },
+            "3": {
+              "title": "Site que me ajudou a resolver momentaneamente",
+              "id": "63.415f.0e04e79b7-9377.771388735",
+              "ideas": {
+                "1": {
+                  "title": "https://www.htaccessredirect.net/",
+                  "id": "64.415f.0e04e79b7-9377.771388735"
+                }
+              }
+            },
             "0.5": {
               "title": "Por padrão, é desativada a opção de usar o .htaccess. É necessário ativa-la no arquivo de configuração principal",
               "id": "39.efc7.54757276e-fe29.46746b9ae",
