@@ -124,6 +124,10 @@
             "2": {
               "title": "Como criar uma espécie de rotas? Seria necessário neste pequeno projeto?",
               "id": "32.5736.429628996-1c87.86fbee60e"
+            },
+            "3": {
+              "title": "Dependency Injection",
+              "id": "65.1192.f00551cbd-30aa.528b4e414"
             }
           }
         },
