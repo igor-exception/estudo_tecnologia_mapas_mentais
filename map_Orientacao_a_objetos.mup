@@ -253,7 +253,7 @@
                                   },
                                   "ideas": {
                                     "1": {
-                                      "title": "",
+                                      "title": "Isso é benéfico, pois requisitamos a interface no parâmetro. E como a classe MysqlAdapter implementa essa interface, no futuro, caso queiramos alterar o Banco, fica muito simples, basta que o novo banco implemente também o AdapterInterface",
                                       "id": "30.0a3a.d56c2d008-407a.703efb109"
                                     }
                                   }
