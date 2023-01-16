@@ -4199,9 +4199,30 @@
                   "id": "629.cf9a.342a242c5-b629.f2646249b",
                   "ideas": {
                     "1": {
-                      "title": "password_hash",
+                      "title": "password_hash($pass, $algo)",
                       "id": "630.cf9a.342a242c5-b629.f2646249b",
-                      "ideas": {}
+                      "ideas": {
+                        "1": {
+                          "title": "$pass, seria a senha a ser criptografada",
+                          "id": "632.cf9a.342a242c5-b629.f2646249b"
+                        },
+                        "2": {
+                          "title": "$algo, seria o algoritmo usado para criptografar",
+                          "id": "633.cf9a.342a242c5-b629.f2646249b",
+                          "ideas": {
+                            "1": {
+                              "title": "opções de algo",
+                              "id": "634.cf9a.342a242c5-b629.f2646249b",
+                              "ideas": {
+                                "1": {
+                                  "title": "PASSWORD_DEFAULT ",
+                                  "id": "635.cf9a.342a242c5-b629.f2646249b"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
                     }
                   }
                 }
