@@ -4215,8 +4215,16 @@
                               "id": "634.cf9a.342a242c5-b629.f2646249b",
                               "ideas": {
                                 "1": {
-                                  "title": "PASSWORD_DEFAULT ",
+                                  "title": "PASSWORD_DEFAULT, usa a criptografia padrão, que é o BCRYPT, onde é criptografado, e atualmente dará um resultado com 60 caracteres",
                                   "id": "635.cf9a.342a242c5-b629.f2646249b"
+                                },
+                                "2": {
+                                  "title": "PASSWORD_ARGON2I ",
+                                  "id": "636.cf9a.342a242c5-b629.f2646249b"
+                                },
+                                "3": {
+                                  "title": "",
+                                  "id": "637.cf9a.342a242c5-b629.f2646249b"
                                 }
                               }
                             }
