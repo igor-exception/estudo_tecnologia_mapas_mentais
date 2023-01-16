@@ -4199,7 +4199,7 @@
                   "id": "629.cf9a.342a242c5-b629.f2646249b",
                   "ideas": {
                     "1": {
-                      "title": "password_hash($pass, $algo)",
+                      "title": "password_hash($pass, $algo, $params =[])",
                       "id": "630.cf9a.342a242c5-b629.f2646249b",
                       "ideas": {
                         "1": {
@@ -4216,7 +4216,13 @@
                               "ideas": {
                                 "1": {
                                   "title": "PASSWORD_DEFAULT, usa a criptografia padrão, que é o BCRYPT, onde é criptografado, e atualmente dará um resultado com 60 caracteres",
-                                  "id": "635.cf9a.342a242c5-b629.f2646249b"
+                                  "id": "635.cf9a.342a242c5-b629.f2646249b",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "É possível parar",
+                                      "id": "639.cf9a.342a242c5-b629.f2646249b"
+                                    }
+                                  }
                                 },
                                 "2": {
                                   "title": "PASSWORD_ARGON2I ",
@@ -4229,6 +4235,10 @@
                               }
                             }
                           }
+                        },
+                        "3": {
+                          "title": "",
+                          "id": "640.cf9a.342a242c5-b629.f2646249b"
                         }
                       }
                     }
