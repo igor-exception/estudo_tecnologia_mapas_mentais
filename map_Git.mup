@@ -175,8 +175,14 @@
               }
             },
             "7": {
-              "title": "",
-              "id": "54.4f62.cbb29243-723b.3fc857f7f"
+              "title": "Ignorar mudanças locais e pegar ultimo commit do repositório origin",
+              "id": "54.4f62.cbb29243-723b.3fc857f7f",
+              "ideas": {
+                "1": {
+                  "title": "git reset --hard origin/nome-da-branch",
+                  "id": "55.4f62.cbb29243-723b.3fc857f7f"
+                }
+              }
             }
           },
           "attr": {
