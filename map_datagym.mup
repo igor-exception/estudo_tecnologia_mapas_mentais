@@ -218,8 +218,14 @@
               "id": "76.995c.4780aff54-89fd.cbb297602",
               "ideas": {
                 "1": {
-                  "title": "",
-                  "id": "77.995c.4780aff54-89fd.cbb297602"
+                  "title": "Fiz a parte de montar a query para consulta se email existia, mas usava apenas um parametro (email).\nQuando fui usar para mais de um parâmetro, deu pau na query. ",
+                  "id": "77.995c.4780aff54-89fd.cbb297602",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "78.995c.4780aff54-89fd.cbb297602"
+                    }
+                  }
                 }
               }
             }
