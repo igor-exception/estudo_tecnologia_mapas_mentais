@@ -222,7 +222,7 @@
                   "id": "77.995c.4780aff54-89fd.cbb297602",
                   "ideas": {
                     "1": {
-                      "title": "",
+                      "title": "O método que monta a query é privado, e teoricamente eu não deveria testar. Mas sem testes não da pra confiar muito. Neste caso talvez o ideal seja criar uma espécie de helper",
                       "id": "78.995c.4780aff54-89fd.cbb297602"
                     }
                   }
