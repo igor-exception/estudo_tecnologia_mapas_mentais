@@ -755,6 +755,21 @@
                   2
                 ]
               }
+            },
+            "3": {
+              "title": "Filtrar por um arquivo específico",
+              "id": "95.99ec.31df208ed-d43d.dd531b598",
+              "ideas": {
+                "1": {
+                  "title": "$ ./vendor/bin/phpunit --filter <nome do arquivo>",
+                  "id": "96.99ec.31df208ed-d43d.dd531b598",
+                  "attr": {
+                    "style": {
+                      "width": 313
+                    }
+                  }
+                }
+              }
             }
           }
         }
