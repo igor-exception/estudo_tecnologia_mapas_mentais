@@ -162,7 +162,7 @@
               "id": "69.995c.4780aff54-89fd.cbb297602",
               "ideas": {
                 "1": {
-                  "title": "",
+                  "title": "Quando estava programando a parte de login, me deparei com a necessidade de instanciar o usuário para poder ter acesso ao método login...mas não faz sentido, certo? Pra que criar um objeto pra depois usar o método? Foi quando fez sentido usar um método estático",
                   "id": "70.995c.4780aff54-89fd.cbb297602"
                 }
               }
