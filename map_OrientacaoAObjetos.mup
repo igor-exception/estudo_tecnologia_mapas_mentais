@@ -30,10 +30,24 @@
           },
           "attr": {
             "position": [
-              152.005615234375,
-              -154.99432373046875,
+              179.005615234375,
+              -200.96308517456055,
               2
             ]
+          }
+        },
+        "2": {
+          "title": "Diferença O.O e Procedural",
+          "id": "10.56a6.db03370d3-564d.29a4b1e0a",
+          "ideas": {
+            "1": {
+              "title": "Em O.O os atributos e comportamentos estão em um único objeto.",
+              "id": "11.56a6.db03370d3-564d.29a4b1e0a"
+            },
+            "2": {
+              "title": "",
+              "id": "12.56a6.db03370d3-564d.29a4b1e0a"
+            }
           }
         },
         "-10": {
