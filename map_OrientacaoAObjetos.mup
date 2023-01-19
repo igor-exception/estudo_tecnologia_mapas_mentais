@@ -62,8 +62,36 @@
           "id": "21.56a6.db03370d3-564d.29a4b1e0a",
           "ideas": {
             "1": {
-              "title": "",
-              "id": "22.56a6.db03370d3-564d.29a4b1e0a"
+              "title": "Um dos benefícios da O.O, é que um objeto não precisa saber como outro funciona.",
+              "id": "22.56a6.db03370d3-564d.29a4b1e0a",
+              "ideas": {
+                "1": {
+                  "title": "ex:",
+                  "id": "23.56a6.db03370d3-564d.29a4b1e0a",
+                  "ideas": {
+                    "1": {
+                      "title": "Obj Math tem um método sum(), que soma 2 numeros inteiros;",
+                      "id": "24.56a6.db03370d3-564d.29a4b1e0a",
+                      "ideas": {
+                        "1": {
+                          "title": "obj myObj pode chamar o método sum do objeto Math, passar 2 inteiros que receberá a soma.",
+                          "id": "25.56a6.db03370d3-564d.29a4b1e0a",
+                          "ideas": {
+                            "1": {
+                              "title": "myObj não precisa saber o funcionamento, os calculos etc...",
+                              "id": "26.56a6.db03370d3-564d.29a4b1e0a"
+                            },
+                            "2": {
+                              "title": "Inclusive, se Math mudar a forma de calculo, não afeta o myObj",
+                              "id": "27.56a6.db03370d3-564d.29a4b1e0a"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
             }
           }
         },
