@@ -1,1 +1,27 @@
-{"formatVersion":3,"id":"root","ideas":{"1":{"title":"Press Space or double-click to edit","id":1}},"attr":{"theme":"default"}}
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Orientação a Objetos",
+      "id": 1,
+      "attr": {
+        "position": [
+          -69,
+          -15,
+          1
+        ],
+        "style": {
+          "backgroundColor": "#FFFF99",
+          "text": {
+            "color": "#FF0000"
+          }
+        }
+      }
+    }
+  },
+  "attr": {
+    "theme": "default"
+  },
+  "title": ""
+}
