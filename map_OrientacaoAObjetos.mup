@@ -102,7 +102,18 @@
               "title": "Comportamentos, são referenciados como métodos",
               "id": "16.56a6.db03370d3-564d.29a4b1e0a"
             },
-            "3": {
+            "5": {
+              "title": "Data hiding",
+              "id": "20.56a6.db03370d3-564d.29a4b1e0a",
+              "ideas": {
+                "1": {
+                  "title": "É referenciado por restringir acesso a certos métodos ou atributos",
+                  "id": "19.56a6.db03370d3-564d.29a4b1e0a",
+                  "attr": {}
+                }
+              }
+            },
+            "15": {
               "title": "Encapsulamento",
               "id": "17.56a6.db03370d3-564d.29a4b1e0a",
               "ideas": {
@@ -110,11 +121,14 @@
                   "title": "É combinar os atributos e métodos na mesma entidade",
                   "id": "18.56a6.db03370d3-564d.29a4b1e0a"
                 }
+              },
+              "attr": {
+                "position": [
+                  117.98579025268555,
+                  197.01992797851562,
+                  1
+                ]
               }
-            },
-            "4": {
-              "title": "Data hiding",
-              "id": "19.56a6.db03370d3-564d.29a4b1e0a"
             }
           },
           "attr": {
