@@ -48,6 +48,13 @@
               "title": "Procedural os atributos e comportamentos estão normalmente separados",
               "id": "12.56a6.db03370d3-564d.29a4b1e0a"
             }
+          },
+          "attr": {
+            "position": [
+              162.005615234375,
+              -22.948863983154297,
+              3
+            ]
           }
         },
         "-10": {
@@ -82,6 +89,10 @@
               }
             }
           }
+        },
+        "-11": {
+          "title": "",
+          "id": "14.56a6.db03370d3-564d.29a4b1e0a"
         }
       }
     }
