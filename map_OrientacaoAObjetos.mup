@@ -51,11 +51,6 @@
             }
           },
           "attr": {
-            "position": [
-              162.005615234375,
-              -22.948863983154297,
-              3
-            ],
             "collapsed": true
           }
         },
@@ -143,8 +138,20 @@
                   "metaData": {}
                 }
               },
-              "ideas": {}
+              "ideas": {
+                "1": {
+                  "title": "",
+                  "id": "39.56a6.db03370d3-564d.29a4b1e0a"
+                }
+              }
             }
+          },
+          "attr": {
+            "position": [
+              148.0056381225586,
+              102.01131820678711,
+              6
+            ]
           }
         },
         "-10": {
@@ -224,8 +231,8 @@
           },
           "attr": {
             "position": [
-              147.98298263549805,
-              42.01701736450195,
+              154.98294830322266,
+              -112.97446060180664,
               4
             ],
             "collapsed": true
@@ -239,6 +246,13 @@
               "title": "Suportam o conceiroo de 'data hiding'. Servem para fornecer uma forma específica e padronizada de Inserir e Pegar informações",
               "id": "31.56a6.db03370d3-564d.29a4b1e0a"
             }
+          },
+          "attr": {
+            "position": [
+              169.9943618774414,
+              -15.977298736572266,
+              5
+            ]
           }
         }
       }
