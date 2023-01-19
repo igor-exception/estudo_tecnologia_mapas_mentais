@@ -84,6 +84,10 @@
                             "2": {
                               "title": "Inclusive, se Math mudar a forma de calculo, não afeta o myObj",
                               "id": "27.56a6.db03370d3-564d.29a4b1e0a"
+                            },
+                            "3": {
+                              "title": "Fazer o calculo não é responsabilidade do myObj, e sim do Math",
+                              "id": "29.56a6.db03370d3-564d.29a4b1e0a"
                             }
                           }
                         }
