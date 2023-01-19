@@ -96,6 +96,10 @@
                   }
                 }
               }
+            },
+            "2": {
+              "title": "",
+              "id": "32.56a6.db03370d3-564d.29a4b1e0a"
             }
           }
         },
@@ -179,6 +183,16 @@
               42.01701736450195,
               4
             ]
+          }
+        },
+        "-12": {
+          "title": "Getters & Setters",
+          "id": "30.56a6.db03370d3-564d.29a4b1e0a",
+          "ideas": {
+            "1": {
+              "title": "Suportam o conceiroo de 'data hiding'. Servem para fornecer uma forma específica e padronizada de Inserir e Pegar informações",
+              "id": "31.56a6.db03370d3-564d.29a4b1e0a"
+            }
           }
         }
       }
