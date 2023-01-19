@@ -140,8 +140,22 @@
               },
               "ideas": {
                 "1": {
-                  "title": "",
-                  "id": "39.56a6.db03370d3-564d.29a4b1e0a"
+                  "title": "Um diagrama de classe possui basicamente 3 seções:",
+                  "id": "39.56a6.db03370d3-564d.29a4b1e0a",
+                  "ideas": {
+                    "1": {
+                      "title": "O Nome",
+                      "id": "40.56a6.db03370d3-564d.29a4b1e0a"
+                    },
+                    "2": {
+                      "title": "Os dados (atributos)",
+                      "id": "41.56a6.db03370d3-564d.29a4b1e0a"
+                    },
+                    "3": {
+                      "title": "Os comportamentos (métodos)",
+                      "id": "42.56a6.db03370d3-564d.29a4b1e0a"
+                    }
+                  }
                 }
               }
             }
@@ -227,6 +241,16 @@
                   1
                 ]
               }
+            },
+            "16": {
+              "title": "Classe",
+              "id": "43.56a6.db03370d3-564d.29a4b1e0a",
+              "ideas": {
+                "1": {
+                  "title": "",
+                  "id": "44.56a6.db03370d3-564d.29a4b1e0a"
+                }
+              }
             }
           },
           "attr": {
@@ -234,8 +258,7 @@
               154.98294830322266,
               -112.97446060180664,
               4
-            ],
-            "collapsed": true
+            ]
           }
         },
         "-12": {
