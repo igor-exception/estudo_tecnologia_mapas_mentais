@@ -17,6 +17,31 @@
             "color": "#FF0000"
           }
         }
+      },
+      "ideas": {
+        "-10": {
+          "title": "Info / Referência",
+          "id": "2.56a6.db03370d3-564d.29a4b1e0a",
+          "attr": {
+            "position": [
+              191.98581790924072,
+              -216.98295211791992,
+              1
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "The Object-Oriented\nThought Process",
+              "id": "3.56a6.db03370d3-564d.29a4b1e0a",
+              "ideas": {
+                "1": {
+                  "title": "https://www.amazon.com.br/Object-Oriented-Thought-Process-Matt-Weisfeld/dp/0321861272",
+                  "id": "5.56a6.db03370d3-564d.29a4b1e0a"
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
