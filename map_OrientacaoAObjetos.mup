@@ -56,6 +56,16 @@
                   "id": "5.56a6.db03370d3-564d.29a4b1e0a"
                 }
               }
+            },
+            "2": {
+              "title": "O Autor recomenda depois de ler este livro, partir para outro mais avançado",
+              "id": "8.56a6.db03370d3-564d.29a4b1e0a",
+              "ideas": {
+                "1": {
+                  "title": "Object-Oriented Design in\nJava by Stephen Gilbert and Bill McCarty",
+                  "id": "9.56a6.db03370d3-564d.29a4b1e0a"
+                }
+              }
             }
           }
         }
