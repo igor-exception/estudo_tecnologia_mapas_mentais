@@ -91,8 +91,39 @@
           }
         },
         "-11": {
-          "title": "",
-          "id": "14.56a6.db03370d3-564d.29a4b1e0a"
+          "title": "Terminologia",
+          "id": "14.56a6.db03370d3-564d.29a4b1e0a",
+          "ideas": {
+            "1": {
+              "title": "Dados são referenciados como atributos",
+              "id": "15.56a6.db03370d3-564d.29a4b1e0a"
+            },
+            "2": {
+              "title": "Comportamentos, são referenciados como métodos",
+              "id": "16.56a6.db03370d3-564d.29a4b1e0a"
+            },
+            "3": {
+              "title": "Encapsulamento",
+              "id": "17.56a6.db03370d3-564d.29a4b1e0a",
+              "ideas": {
+                "1": {
+                  "title": "É combinar os atributos e métodos na mesma entidade",
+                  "id": "18.56a6.db03370d3-564d.29a4b1e0a"
+                }
+              }
+            },
+            "4": {
+              "title": "Data hiding",
+              "id": "19.56a6.db03370d3-564d.29a4b1e0a"
+            }
+          },
+          "attr": {
+            "position": [
+              147.98298263549805,
+              42.01701736450195,
+              4
+            ]
+          }
         }
       }
     }
