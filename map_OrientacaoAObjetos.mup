@@ -249,6 +249,16 @@
                 "1": {
                   "title": "São uma espécie de planta. Quando um objeto é instanciado, é usada a classe como base.",
                   "id": "44.56a6.db03370d3-564d.29a4b1e0a"
+                },
+                "2": {
+                  "title": "Classe abstrata",
+                  "id": "51.56a6.db03370d3-564d.29a4b1e0a",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "52.56a6.db03370d3-564d.29a4b1e0a"
+                    }
+                  }
                 }
               }
             },
