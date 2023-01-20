@@ -413,8 +413,24 @@
               "id": "68.56a6.db03370d3-564d.29a4b1e0a",
               "ideas": {
                 "1": {
-                  "title": "",
+                  "title": "Além da Herança, uma outra forma de \"criar\" classes de outra classe, é usando Composição.",
                   "id": "69.56a6.db03370d3-564d.29a4b1e0a"
+                },
+                "2": {
+                  "title": "Diferença Herança X Composição",
+                  "id": "71.56a6.db03370d3-564d.29a4b1e0a",
+                  "ideas": {
+                    "1": {
+                      "title": "Existem perguntas específicas que fazemos para saber se uma classe deve ser herdada ou composta.",
+                      "id": "72.56a6.db03370d3-564d.29a4b1e0a",
+                      "ideas": {
+                        "1": {
+                          "title": "",
+                          "id": "73.56a6.db03370d3-564d.29a4b1e0a"
+                        }
+                      }
+                    }
+                  }
                 }
               }
             }
