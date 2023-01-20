@@ -274,12 +274,21 @@
                               "height": 192,
                               "position": "left",
                               "metaData": {}
-                            }
+                            },
+                            "position": [
+                              42.99427795410156,
+                              -91.96026611328125,
+                              1
+                            ]
                           },
                           "ideas": {
                             "1": {
                               "title": "Neste caso, tanto a classe Dog, quanto Cat, herdaram a propriedade eyeColor e o método: getEyeColor",
                               "id": "49.56a6.db03370d3-564d.29a4b1e0a"
+                            },
+                            "2": {
+                              "title": "Um grande benefício, é que se for necessário mudar o código que tem em comum, poderá fazer na super classe Mammal",
+                              "id": "50.56a6.db03370d3-564d.29a4b1e0a"
                             }
                           }
                         }
