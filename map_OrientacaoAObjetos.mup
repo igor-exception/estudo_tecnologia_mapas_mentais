@@ -425,8 +425,12 @@
                       "id": "72.56a6.db03370d3-564d.29a4b1e0a",
                       "ideas": {
                         "1": {
-                          "title": "",
+                          "title": "Um Cachorro, é um Animal? Se sim deve usar Herança",
                           "id": "73.56a6.db03370d3-564d.29a4b1e0a"
+                        },
+                        "2": {
+                          "title": "Um motor é um carro? Não. Na verdade o Carro POSSUI um motor. Neste caso uma composição",
+                          "id": "74.56a6.db03370d3-564d.29a4b1e0a"
                         }
                       }
                     }
