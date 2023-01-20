@@ -388,7 +388,25 @@
             },
             "19": {
               "title": "Composição",
-              "id": "64.56a6.db03370d3-564d.29a4b1e0a"
+              "id": "64.56a6.db03370d3-564d.29a4b1e0a",
+              "ideas": {
+                "1": {
+                  "title": "São formas de objetos comporem outros.",
+                  "id": "65.56a6.db03370d3-564d.29a4b1e0a",
+                  "ideas": {
+                    "1": {
+                      "title": "ex:",
+                      "id": "66.56a6.db03370d3-564d.29a4b1e0a",
+                      "ideas": {
+                        "1": {
+                          "title": "",
+                          "id": "67.56a6.db03370d3-564d.29a4b1e0a"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
             }
           },
           "attr": {
