@@ -351,8 +351,31 @@
                       "id": "59.56a6.db03370d3-564d.29a4b1e0a",
                       "ideas": {
                         "1": {
-                          "title": "",
-                          "id": "60.56a6.db03370d3-564d.29a4b1e0a"
+                          "title": "$user = new User('John Doe');",
+                          "id": "60.56a6.db03370d3-564d.29a4b1e0a",
+                          "attr": {
+                            "style": {
+                              "width": 218
+                            }
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "class User \n{\n   private name;\n    public function __construct($name) {\n        $this->name = $name;\n    }\n}",
+                              "id": "61.56a6.db03370d3-564d.29a4b1e0a",
+                              "attr": {
+                                "style": {
+                                  "textAlign": "left",
+                                  "width": 263
+                                },
+                                "position": [
+                                  245.98861694335938,
+                                  -64.97161865234375,
+                                  1
+                                ]
+                              },
+                              "ideas": {}
+                            }
+                          }
                         }
                       }
                     }
