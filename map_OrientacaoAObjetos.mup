@@ -436,6 +436,43 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "21": {
+              "title": "Polimorfismo",
+              "id": "75.56a6.db03370d3-564d.29a4b1e0a",
+              "ideas": {
+                "1": {
+                  "title": "É a forma em que objetos que possuem o mesmo método, podem ter respostas diferentes.",
+                  "id": "76.56a6.db03370d3-564d.29a4b1e0a",
+                  "ideas": {
+                    "1": {
+                      "title": "Ex:",
+                      "id": "77.56a6.db03370d3-564d.29a4b1e0a",
+                      "ideas": {
+                        "1": {
+                          "title": "Tenho uma classe abstrata Shape. E outras classes a Herda, como Circulo, Quadrado.",
+                          "id": "78.56a6.db03370d3-564d.29a4b1e0a",
+                          "ideas": {
+                            "1": {
+                              "title": "Na superclasse, existe o método pegaArea, que é abstrato e que deve ser implementado nas subClasses.",
+                              "id": "79.56a6.db03370d3-564d.29a4b1e0a",
+                              "ideas": {
+                                "1": {
+                                  "title": "",
+                                  "id": "81.56a6.db03370d3-564d.29a4b1e0a"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
               }
             }
           },
