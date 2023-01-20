@@ -278,7 +278,7 @@
                           },
                           "ideas": {
                             "1": {
-                              "title": "",
+                              "title": "Neste caso, tanto a classe Dog, quanto Cat, herdaram a propriedade eyeColor e o método: getEyeColor",
                               "id": "49.56a6.db03370d3-564d.29a4b1e0a"
                             }
                           }
