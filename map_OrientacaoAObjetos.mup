@@ -339,8 +339,12 @@
               "id": "56.56a6.db03370d3-564d.29a4b1e0a",
               "ideas": {
                 "1": {
-                  "title": "",
+                  "title": "É o método dependendo da liguagem , com o mesmo nome da classe. Ou com um nome específico (Em PHP é __construct).",
                   "id": "57.56a6.db03370d3-564d.29a4b1e0a"
+                },
+                "2": {
+                  "title": "",
+                  "id": "58.56a6.db03370d3-564d.29a4b1e0a"
                 }
               }
             }
