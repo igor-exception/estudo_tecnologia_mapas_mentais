@@ -255,8 +255,14 @@
                   "id": "51.56a6.db03370d3-564d.29a4b1e0a",
                   "ideas": {
                     "1": {
-                      "title": "",
-                      "id": "52.56a6.db03370d3-564d.29a4b1e0a"
+                      "title": "É uma classe que não pode ser instanciada. Serve para ser estendida",
+                      "id": "52.56a6.db03370d3-564d.29a4b1e0a",
+                      "ideas": {
+                        "1": {
+                          "title": "",
+                          "id": "53.56a6.db03370d3-564d.29a4b1e0a"
+                        }
+                      }
                     }
                   }
                 }
