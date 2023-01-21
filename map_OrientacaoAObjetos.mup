@@ -572,6 +572,10 @@
                     "1": {
                       "title": "É necessário separar bem: o que o usuário precisa saber para usar o objeto E o que o usuário NÃO precisa saber. (Data hiding)",
                       "id": "91.6dd3.570ed2aaa-e323.ad0e50633"
+                    },
+                    "2": {
+                      "title": "",
+                      "id": "92.6dd3.570ed2aaa-e323.ad0e50633"
                     }
                   }
                 },
