@@ -650,8 +650,36 @@
                       "id": "99.6dd3.570ed2aaa-e323.ad0e50633",
                       "ideas": {
                         "1": {
-                          "title": "",
-                          "id": "100.6dd3.570ed2aaa-e323.ad0e50633"
+                          "title": "Digamos que um usuário queira ir para o aeroporto. Podemos criar duas classes que fazem a mesma coisa, uma de forma mais abstrata, e outra de forma mais concreta.",
+                          "id": "100.6dd3.570ed2aaa-e323.ad0e50633",
+                          "ideas": {
+                            "1": {
+                              "title": "Abstrata",
+                              "id": "101.6dd3.570ed2aaa-e323.ad0e50633",
+                              "ideas": {
+                                "1": {
+                                  "title": "A classe o nome: meLeveAoAeroporto()",
+                                  "id": "103.6dd3.570ed2aaa-e323.ad0e50633",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Esta classe",
+                                      "id": "105.6dd3.570ed2aaa-e323.ad0e50633"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "2": {
+                              "title": "Concreta",
+                              "id": "102.6dd3.570ed2aaa-e323.ad0e50633",
+                              "ideas": {
+                                "1": {
+                                  "title": "Tem varios métodos: esquerda, direita etc...",
+                                  "id": "104.6dd3.570ed2aaa-e323.ad0e50633"
+                                }
+                              }
+                            }
+                          }
                         }
                       }
                     }
