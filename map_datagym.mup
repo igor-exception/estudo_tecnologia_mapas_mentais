@@ -149,7 +149,13 @@
                         "1": {
                           "title": "Percebi que estava muito dificil de criar este Mock, e fui entender o motivo. Entre diversas buscas, caí no Dependency Injection, onde trata exatamente sobre a instância hard-coded que é exatamente o que fiz. Neste caso, é melhor usar injeção de dependência, e facilitará muito o mock dos testes",
                           "id": "68.1192.f00551cbd-30aa.528b4e414",
-                          "attr": {}
+                          "attr": {},
+                          "ideas": {
+                            "1": {
+                              "title": "",
+                              "id": "79.4f8a.2916d473f-dc7a.99b58cc63"
+                            }
+                          }
                         }
                       }
                     }
