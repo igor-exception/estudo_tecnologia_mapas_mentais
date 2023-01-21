@@ -715,8 +715,14 @@
                   "id": "90.6dd3.570ed2aaa-e323.ad0e50633",
                   "ideas": {
                     "1": {
-                      "title": "",
-                      "id": "109.6dd3.570ed2aaa-e323.ad0e50633"
+                      "title": "O ideal é fornecer o mínimo de acesso ao usuário da classe. É melhor fornecer menos informações, e depois liberar, do que imaginar que possa ser útil algumas informações e dar acesso.",
+                      "id": "109.6dd3.570ed2aaa-e323.ad0e50633",
+                      "ideas": {
+                        "1": {
+                          "title": "Ex: Ao invés de todo funcionário ter acesso ao método que mostra o salário de todos funcionários, deixo limitado, e talvez surja a necessidade de liberar acesso ao método para alguns usuários específicos.",
+                          "id": "110.6dd3.570ed2aaa-e323.ad0e50633"
+                        }
+                      }
                     }
                   }
                 }
