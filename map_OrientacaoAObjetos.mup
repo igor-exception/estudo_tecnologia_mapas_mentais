@@ -552,7 +552,34 @@
         },
         "-13": {
           "title": "Design O.O",
-          "id": "86.6dd3.570ed2aaa-e323.ad0e50633"
+          "id": "86.6dd3.570ed2aaa-e323.ad0e50633",
+          "attr": {
+            "position": [
+              187.98583984375,
+              121.04827499389648,
+              7
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Existem 3 conceitos importantes para desenvolver um bom senso de pensamento O.O",
+              "id": "87.6dd3.570ed2aaa-e323.ad0e50633",
+              "ideas": {
+                "1": {
+                  "title": "Saber a diferença entre Interface e Implementação",
+                  "id": "88.6dd3.570ed2aaa-e323.ad0e50633"
+                },
+                "2": {
+                  "title": "Pensar de forma mais abstrata",
+                  "id": "89.6dd3.570ed2aaa-e323.ad0e50633"
+                },
+                "3": {
+                  "title": "Dar ao usuário a menor interface possível",
+                  "id": "90.6dd3.570ed2aaa-e323.ad0e50633"
+                }
+              }
+            }
+          }
         }
       }
     }
