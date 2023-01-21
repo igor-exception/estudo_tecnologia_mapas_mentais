@@ -578,6 +578,18 @@
                           77.05105590820312,
                           2
                         ]
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "Algo que deve ser fixado, é que uma mudança na implementação não deve exigir mudança no código do usuário (quem usa o objeto)",
+                          "id": "96.6dd3.570ed2aaa-e323.ad0e50633",
+                          "ideas": {
+                            "1": {
+                              "title": "",
+                              "id": "97.6dd3.570ed2aaa-e323.ad0e50633"
+                            }
+                          }
+                        }
                       }
                     },
                     "0.5": {
