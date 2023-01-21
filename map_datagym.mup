@@ -152,8 +152,26 @@
                           "attr": {},
                           "ideas": {
                             "1": {
-                              "title": "",
-                              "id": "79.4f8a.2916d473f-dc7a.99b58cc63"
+                              "title": "A forma de resolver, é  pedindo por parâmetro, a instancia do Banco.",
+                              "id": "79.4f8a.2916d473f-dc7a.99b58cc63",
+                              "ideas": {
+                                "1": {
+                                  "title": "Quando fazemos isso, fazemos inversão de controle.",
+                                  "id": "80.4f8a.2916d473f-dc7a.99b58cc63",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "ex tosco: Se quero mostadela, vou no Mercado e peço. A pessoa que trabalha na parte de frios, irá pegar a peça de mortadela, cortar e me entregar.",
+                                      "id": "81.4f8a.2916d473f-dc7a.99b58cc63",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "Na inversão de controle, eu levo a peça, ela corta e me entrega.",
+                                          "id": "82.4f8a.2916d473f-dc7a.99b58cc63"
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
                             }
                           }
                         }
