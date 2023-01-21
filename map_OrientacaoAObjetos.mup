@@ -712,7 +712,13 @@
                 },
                 "3": {
                   "title": "Dar ao usuário a menor interface possível",
-                  "id": "90.6dd3.570ed2aaa-e323.ad0e50633"
+                  "id": "90.6dd3.570ed2aaa-e323.ad0e50633",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "109.6dd3.570ed2aaa-e323.ad0e50633"
+                    }
+                  }
                 }
               }
             }
