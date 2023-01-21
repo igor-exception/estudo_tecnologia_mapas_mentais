@@ -567,7 +567,13 @@
               "ideas": {
                 "1": {
                   "title": "Saber a diferença entre Interface e Implementação",
-                  "id": "88.6dd3.570ed2aaa-e323.ad0e50633"
+                  "id": "88.6dd3.570ed2aaa-e323.ad0e50633",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "91.6dd3.570ed2aaa-e323.ad0e50633"
+                    }
+                  }
                 },
                 "2": {
                   "title": "Pensar de forma mais abstrata",
