@@ -639,7 +639,23 @@
                 },
                 "2": {
                   "title": "Pensar de forma mais abstrata",
-                  "id": "89.6dd3.570ed2aaa-e323.ad0e50633"
+                  "id": "89.6dd3.570ed2aaa-e323.ad0e50633",
+                  "ideas": {
+                    "1": {
+                      "title": "Sempre que possível, deixar a classe mais reutilizável é melhor.",
+                      "id": "98.6dd3.570ed2aaa-e323.ad0e50633"
+                    },
+                    "2": {
+                      "title": "Exemplo do livro",
+                      "id": "99.6dd3.570ed2aaa-e323.ad0e50633",
+                      "ideas": {
+                        "1": {
+                          "title": "",
+                          "id": "100.6dd3.570ed2aaa-e323.ad0e50633"
+                        }
+                      }
+                    }
+                  }
                 },
                 "3": {
                   "title": "Dar ao usuário a menor interface possível",
