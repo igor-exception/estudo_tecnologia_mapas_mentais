@@ -55,7 +55,7 @@
           }
         },
         "3": {
-          "title": "Conceito",
+          "title": "Conceito de O.O",
           "id": "21.56a6.db03370d3-564d.29a4b1e0a",
           "ideas": {
             "2": {
@@ -265,6 +265,9 @@
                 }
               }
             }
+          },
+          "attr": {
+            "collapsed": true
           }
         },
         "-10": {
@@ -892,6 +895,10 @@
               }
             }
           }
+        },
+        "-14": {
+          "title": "Escopo",
+          "id": "140.3289.7323c2cf1-7da8.1a19b4a9e"
         }
       }
     }
