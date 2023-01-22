@@ -275,8 +275,14 @@
           "id": "165.3289.7323c2cf1-7da8.1a19b4a9e",
           "ideas": {
             "1": {
-              "title": "",
-              "id": "166.3289.7323c2cf1-7da8.1a19b4a9e"
+              "title": "Copiar uma variável primitiva é algo banal. Ex: $a = 10;\n$b = $a;",
+              "id": "166.3289.7323c2cf1-7da8.1a19b4a9e",
+              "ideas": {
+                "1": {
+                  "title": "",
+                  "id": "167.3289.7323c2cf1-7da8.1a19b4a9e"
+                }
+              }
             }
           }
         },
