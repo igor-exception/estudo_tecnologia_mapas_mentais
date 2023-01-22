@@ -531,6 +531,9 @@
                   "title": "Se uma classe é herdada, e não definimos o construtor, utilizará o construtor da superclasse",
                   "id": "119.3289.7323c2cf1-7da8.1a19b4a9e"
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             },
             "19": {
@@ -553,6 +556,9 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             },
             "20": {
@@ -669,6 +675,9 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             },
             "22": {
@@ -705,7 +714,9 @@
                   }
                 }
               },
-              "attr": {}
+              "attr": {
+                "collapsed": true
+              }
             }
           },
           "attr": {
