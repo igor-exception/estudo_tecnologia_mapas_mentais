@@ -279,7 +279,7 @@
               "id": "166.3289.7323c2cf1-7da8.1a19b4a9e",
               "ideas": {
                 "1": {
-                  "title": "",
+                  "title": "Mas copiar objetos é algo mais complexo, pois objetos tem referências. E quando copiamos objetos, acabamos copiando suas referências, se mudo algum atributo no objeto B, mudará o valor também no objeto A. Pois são apenas referências",
                   "id": "167.3289.7323c2cf1-7da8.1a19b4a9e"
                 }
               }
