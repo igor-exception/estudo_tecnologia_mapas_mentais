@@ -949,7 +949,7 @@
                       "id": "146.3289.7323c2cf1-7da8.1a19b4a9e",
                       "ideas": {
                         "1": {
-                          "title": "São atributos que são compartilhados entre objetos.",
+                          "title": "São atributos que estão ACESSIVEIS para todos os métodos",
                           "id": "152.3289.7323c2cf1-7da8.1a19b4a9e",
                           "ideas": {
                             "1": {
@@ -991,7 +991,7 @@
                               },
                               "ideas": {
                                 "1": {
-                                  "title": "Neste caso, existe o atributo de classe, e cada método possui seu próprio atributo, mesmo que tenham o mesmo nome.",
+                                  "title": "Neste caso, existe o atributo de objeto, e cada método possui seu próprio atributo, mesmo que tenham o mesmo nome.",
                                   "id": "158.3289.7323c2cf1-7da8.1a19b4a9e"
                                 }
                               }
@@ -1002,7 +1002,13 @@
                     },
                     "3": {
                       "title": "Atributos de classe",
-                      "id": "147.3289.7323c2cf1-7da8.1a19b4a9e"
+                      "id": "147.3289.7323c2cf1-7da8.1a19b4a9e",
+                      "ideas": {
+                        "1": {
+                          "title": "É a forma de dois ou mais objetos compartilharem O MESMO atributo",
+                          "id": "159.3289.7323c2cf1-7da8.1a19b4a9e"
+                        }
+                      }
                     }
                   }
                 }
