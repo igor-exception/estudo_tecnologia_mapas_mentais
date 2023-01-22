@@ -389,10 +389,6 @@
                 "4": {
                   "title": "Caso a classe tenha atributos, é uma boa prática seta-los no contrutor",
                   "id": "112.3289.7323c2cf1-7da8.1a19b4a9e"
-                },
-                "5": {
-                  "title": "",
-                  "id": "113.3289.7323c2cf1-7da8.1a19b4a9e"
                 }
               }
             },
@@ -533,6 +529,17 @@
                   }
                 }
               }
+            },
+            "22": {
+              "title": "Sobrecarga de método (Overloading Methods)",
+              "id": "113.3289.7323c2cf1-7da8.1a19b4a9e",
+              "ideas": {
+                "1": {
+                  "title": "",
+                  "id": "115.3289.7323c2cf1-7da8.1a19b4a9e"
+                }
+              },
+              "attr": {}
             }
           },
           "attr": {
