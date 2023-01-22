@@ -387,7 +387,7 @@
                   "id": "111.3289.7323c2cf1-7da8.1a19b4a9e"
                 },
                 "4": {
-                  "title": "",
+                  "title": "Caso a classe tenha atributos, é uma boa prática seta-los no contrutor",
                   "id": "112.3289.7323c2cf1-7da8.1a19b4a9e"
                 }
               }
