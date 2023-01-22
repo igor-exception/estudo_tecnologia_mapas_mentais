@@ -252,8 +252,12 @@
                       },
                       "ideas": {
                         "1": {
-                          "title": "",
+                          "title": "São usados os blocos: try{] catch (<tipo exception>){}",
                           "id": "138.3289.7323c2cf1-7da8.1a19b4a9e"
+                        },
+                        "2": {
+                          "title": "Caso alguma exception aconteça no bloco try, irá procurar a exception correspondente no catch (podem ter vários catchs)",
+                          "id": "139.3289.7323c2cf1-7da8.1a19b4a9e"
                         }
                       }
                     }
