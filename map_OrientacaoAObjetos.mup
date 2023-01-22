@@ -174,12 +174,16 @@
           "id": "124.3289.7323c2cf1-7da8.1a19b4a9e",
           "ideas": {
             "1": {
-              "title": "O livro cita uma abordagem em relação ao gerenciamento de erros. Cita que existem 3 soluções básicas para gerenciar erros",
+              "title": "O livro cita uma abordagem em relação ao gerenciamento de erros. Cita que existem algumas possibilidades para gerenciar erros",
               "id": "125.3289.7323c2cf1-7da8.1a19b4a9e",
               "ideas": {
                 "1": {
-                  "title": "",
+                  "title": "1- Ignorar o problema (Péssima ideia)",
                   "id": "126.3289.7323c2cf1-7da8.1a19b4a9e"
+                },
+                "2": {
+                  "title": "",
+                  "id": "128.3289.7323c2cf1-7da8.1a19b4a9e"
                 }
               }
             }
