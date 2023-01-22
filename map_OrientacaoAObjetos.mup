@@ -182,8 +182,16 @@
                   "id": "126.3289.7323c2cf1-7da8.1a19b4a9e"
                 },
                 "2": {
-                  "title": "",
+                  "title": "2- Analisar o potencial problema e abortar o programa quando acha-lo",
                   "id": "128.3289.7323c2cf1-7da8.1a19b4a9e"
+                },
+                "3": {
+                  "title": "3- Analisar o potencial problema, pegar o erro, e tentar conserta-lo",
+                  "id": "129.3289.7323c2cf1-7da8.1a19b4a9e"
+                },
+                "4": {
+                  "title": "4- Lançar uma exception",
+                  "id": "130.3289.7323c2cf1-7da8.1a19b4a9e"
                 }
               }
             }
