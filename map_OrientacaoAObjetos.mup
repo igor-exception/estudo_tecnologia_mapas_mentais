@@ -946,7 +946,13 @@
                     },
                     "2": {
                       "title": "Atributos Objetos",
-                      "id": "146.3289.7323c2cf1-7da8.1a19b4a9e"
+                      "id": "146.3289.7323c2cf1-7da8.1a19b4a9e",
+                      "ideas": {
+                        "1": {
+                          "title": "São atributos que são compartilhados entre objetos.",
+                          "id": "152.3289.7323c2cf1-7da8.1a19b4a9e"
+                        }
+                      }
                     },
                     "3": {
                       "title": "Atributos de classe",
