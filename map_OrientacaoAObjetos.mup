@@ -169,6 +169,22 @@
             "collapsed": true
           }
         },
+        "5": {
+          "title": "Error Handling",
+          "id": "124.3289.7323c2cf1-7da8.1a19b4a9e",
+          "ideas": {
+            "1": {
+              "title": "O livro cita uma abordagem em relação ao gerenciamento de erros. Cita que existem 3 soluções básicas para gerenciar erros",
+              "id": "125.3289.7323c2cf1-7da8.1a19b4a9e",
+              "ideas": {
+                "1": {
+                  "title": "",
+                  "id": "126.3289.7323c2cf1-7da8.1a19b4a9e"
+                }
+              }
+            }
+          }
+        },
         "-10": {
           "title": "Info / Referência",
           "id": "2.56a6.db03370d3-564d.29a4b1e0a",
@@ -402,7 +418,7 @@
                       }
                     },
                     "2": {
-                      "title": "",
+                      "title": "Quando os atributos são inicializados, podemos considerar que a aplicação está em: Safe State",
                       "id": "123.3289.7323c2cf1-7da8.1a19b4a9e"
                     }
                   }
