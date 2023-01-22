@@ -205,7 +205,28 @@
                 },
                 "3": {
                   "title": "3- Analisar o potencial problema, pegar o erro, e tentar conserta-lo",
-                  "id": "129.3289.7323c2cf1-7da8.1a19b4a9e"
+                  "id": "129.3289.7323c2cf1-7da8.1a19b4a9e",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "134.3289.7323c2cf1-7da8.1a19b4a9e",
+                      "attr": {
+                        "icon": {
+                          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAABqCAYAAAB9CvlVAAAMUklEQVR4nO3daVhTVxoH8H9CWBIQAiiLUBVUBA1WR7GK1r2tVlzQau2iHbtrbUdrZaZ1Zlo7PC1132unrS2jrU/VahfRumLVUlypkUVFFq0iQVlkz3LzzgfReknAAAFJ+v6eJ59yzj3n3vyT3HtzeJH8kpJDYKyGhIg4EOwO6f2eAGtdOBBMhAPBRDgQTIQDwUQ4EEyEA8FEOBBMhAPBRDgQTIQDwUSsHwiDGmunjce/9tyst5lQdhnq5CM4kpwOjdbqs7BP2nKU65p3COsHQnceR3fuwdFzN2E020BA1sbpUAUEo8+QkRgW+SAGv/MLGrefZTj77Q6crGjKhFuTCpxaPgFdlU5w8uyGJ9aoUX33085ucHOqq28xkrbsQHplE6dAVldCGYm76XS+YP5p7WGaE+JFwxerqYyItMUaKqxqzDgCFe56hbqp3qJftE2YbitScWguhXoNoHf2nqeMH+dSH2U4/SOp2tLetH9WN1LNTaSyJszBqoEozTpOh38+RD8fPkE5ZmclkKH0K5qk7EPvnakivV5PBkMjB9On0Lt93Kjv+2dJb+bp8svHKeHrz+jj9V/S9qPZVN7IYVpOBSW8EED+z31fM9cS2jy5LQXNOmDxFvTH3yaVx8O0OKOxB9WqgSih717pQYHtfUnprKQnt1TUer6Kdr7QnmQSEPDHQyKPpLi0hu9A9cHXKMilH8Wmm/bV/rqAesodSO4bRv369yA/FyUNXZJqNjjm6E8voqhe4aRSqWo9wql39ApS60WNaVFULwo3aaui8N7RtEJt4aiGNIqNcKURa/Lo1merQDlLB5ProMUWzpqI9CdpQU8X6vH2cYv3tTZZE79x7uKB8etTMX5tFhYPfQgnTZbduGDMKjWy5u9EzLBYuK9NwNu9HCFx8UKgv0MDx9IhZfdB5HUYhSGdTfvKQqdiecKz6DMkFB5SI/I2RKPXkniceH0RBtT5HXxX/+DRmDnPBwWG2jshgaNfBDrJRI0xeuY8+BQYYNLa0Q8RnSw8xMJ1FBQ5wtPbo+bETgpvbyUkhQWW9QcAmQoP92+LJfv24MJ/ItC9oYcVgBUDYQGFNzp0bAtXqQzuvp0QFGTBq2NWBTIycoHgMISZ2YTUyRVC6mrMWp4KTbULvNzyIdUocNUAwJIh5T7oHBoGb8E0EDLPdpCLG8OncyjCvAXTQMg80U4OyxDBSBJI7zrNlzpIITGaPzU3zxFhYV2ALalI0wLdFQ3oWqNlA2EtQjEKSwTIA5UwOd7Gq9j03CDMTnsIM19+GlH+MhSfikdSorGOqx5TupPLMPmxlbigNw2EkyoGB5IXIkJ2pzGWTX4MKy/oTQPhpELMgWQsjLDgMDt4wVupQ2ZJFQAFACNKim/C6Olt4awBQAovL3dIKotQWG4EFA2/iLTNQEic4ewogWAQTJ8r249te70wa/8WfFDzQug6qrHms0sWb94pMg7qsjhLGyNOXQYLW9dNFozwUFd8mZICLUbCGdU4dfoclN3fbNBm9HoDSOIIR8fG3VGw3n0IXTHycnOQk5uHm9VGVBVeRk5OLnKvlcBQ08RYoUFOlgZlggE387Jw4cJFZF3943nLZ+2JAH9X6DR5KKj9tnf2hperBqcOnUZB2XWc27MCL768HucNVSi+XtbwsVqMG4ZPHgXhh3X4KkcH7bkv8PEuJ4yeNKQB2zDg6lUN0DYQgY34ugBgrfsQBspcMpjkta4gAJCkzQSKLyIiqqIfn/cjB1EbCTl4TaHNxQ0dT6BLK4eRwmca7TC5ntRS6icTKVguIUik5Nx+EM3+5EOKbutAEsVwWpVbx/2R1kDIp4TZ4eQm9yAPuTv9Zd5eutGg6RbRxmgPch+3gQoauZvNcGOqZQi5q2mEe0d6da/5u1rawmxKz8ynqlb8+ptnoJKs05SSW0oNnnrpdprm50njNlxreN8aNhsIomJKeDGYAqZvp5L7PZVW4sbmKeTf7Q1KbMJdOBv+tVOJUQs/wiNp2/FT/b+j/TkYNdixNQsTlvwbg10bvxmb/8stY2UFdApXuNzvidx3RlRW6KBwbdqRsPlAMOuy4a8M1hw4EEyEA8FEOBBMhAPBRDgQTIQDYQGjwQAzv6vaJQ5EXYSrSFz9Fp4ZoYJ/2yh8qmnIQhXbxYGoS3UufkurRPDwvvA36KBvvb+bW5Xd3qms+P0Efj6qxuVSGXxVg/HowCA05ha/UfMxRnXdirEZ+/F6gP2/f2xzxdQ96JL/icjhcch0D0F4kBSXf5uD0Nij2DevB2SGFCyOfh4bc80tiu2KF+K34G/hlh8WnXoVJo5/F8mKCVi9+zM81aERK1tbEbsMRP2rrq20ShoAYITm0HfYl1sCneQ7/HB8LZ7q0NilSq2DXQai/lXXVlolfWskBETPwdz9eiQrxmH2I7YdBsAeA3GvVdfWWiVdQ/rAOMT9MM6ae3Bf2V8g7rXq2lqrpO8ox/lD+5Ba5IaQoSMQ7mXbJ562PXtzrLbq2oAyzWVc+r0Y1UYtiq/k4rKm3LR/yfd4Z8IkTJn1Bc7Zw+G0xlq+1sU6q64NWStomKtEvILcbSStqdW/+uBsCnKQUcjcw9SoP2JvZez2PoSuKAdZRQoEBfvCpdneuALOxw1C+EIpYlMOIybUti85AXs8h6jh5BWEMK/mHqUUx45lwH30KjwXYvthAOw4EC1DgcgXP8S6wCnwtYPTB8COb12zxrGTXDNr4UAwEQ4EE+FAMBEOBBPhQDARDgQT4UAwEQ4EE+FAMBEOBBPhQDARDgQT4UAwEQ4EE+FAMBEOBBPhQDARDgQT4UAwEQ4EE+FAMBEOBBPhQDARDgQT4UAwEQ4EE+FAMBEOxG2V11FQ9ueoVlsfuwuEcD0DSYeP4uw1XQN6VeDA/EF4fLG62eZlK+wsEAIyN8fgyaiReHr1GYvrSRkLdmDddneMfULVrLOzBXYWCAeEvrENXzwTAInFZS8E5Hz1OY72nIEZKq6fYuUjUI7cY4eRlJoPaWAERgx0x5VsJ4T39L8vpWqMxkrkX7iIEmUXhPgpzKdfl4IN8ZkYuWAqOtRqYK162TbFauXLSk/Q6kkh5CpTULuOQeTn5khuXp7Upl8spRks2YCeTi+Kol7hKlKpaj3Ce1P0CrWFE6mmfa8GUZfR0+nRjnJydHIimVRBXScupaRC0wp0ZbteoqCQN+hQrRJy2l8XUE+5A8l9w6hf/x7k56KkoUtSSV+rv/bMShrTSUne3f9KX1+yaEdbNSu9cStx5L1piDnRA4t+Tcasvp6ggkQsiBqPZdpqaC369JYhePRMzPMpgMG0CDX8Ijo1YD4CchKPYcC6JGimhUOWuRXznnwJk+d0wpkvJ8L79ieBsQA7Pt2Jds/uxcBa//+0/nrZt1txrWvztMn4ZvsVRM7fi1l9PW99NPsMw/sblqLiG1+0t/BMRe7TGaFh3hBMi1DDs0FFqCVQRr2LVTN6QQkAYVOxNHYPdk3fiISbEzHd81YrIXsTPk96EDNWdjc5EPXXy77TimtdmyVcR0GxHAEPtBN9TzupXsJqi0/cdTi5bDIeW3kBetMi1FDFHMDJhREWbkuKdh064O6XR9GlM9rrE5B3XQA8HQDocHpDPC4+8m9MfaBWYu9VL/vukbjWtbmtdEJwQBkOns2GML477lRsNBTgfDbQOcTHgoGcEBmnRplVilALuJaehhvGgTWfTkYUppxBrnMgOvrUzK78AP67WYvJ8WNufYrc7V71skXsq9a1lU4qDZS+fBh5eg+gN7emUmF1BeWd+JpihgdQm8FL6WJLnmtpNbRtegA5OPjQ4Pkb6Yj6LCVve49GBcqp62t7qZSIiATKj48m//6xlGpublU/0gz/dvToomOkKS2gjJ+W07TwNiRtM5bW55aKTyyLN9FEDwlJfZ+iLYUtsYPNy3pXGcI1SvxgPHVxdSCpVEISmZLCxr5N32ZWW22IezNQ1tLB5CKRku/jM+n53p4kk0hI6uxLD726idIrbjfLpCVDfOnxT66Q+crXltfLtrda19Yvfq4touy0NMoprKrjYLekKrqRe4kKqmrNpGI3vTXm77SvtP7e2sJsSs/Mp9rd/2Cgcx/2J0eXSPoow/YvOYnsuPh5yyjG/6KD8KZkFdK2TbeL8sZ8r7ZJuNY1s3N2kmtmLRwIJsKBYCIcCCbCgWAiHAgmwoFgIhwIJsKBYCIcCCbCgWAiHAgm8n8WsPrqwhq+3gAAAABJRU5ErkJggg==",
+                          "width": 132,
+                          "height": 106,
+                          "position": "left",
+                          "metaData": {}
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "",
+                          "id": "135.3289.7323c2cf1-7da8.1a19b4a9e"
+                        }
+                      }
+                    }
+                  }
                 },
                 "4": {
                   "title": "4- Lançar uma exception",
