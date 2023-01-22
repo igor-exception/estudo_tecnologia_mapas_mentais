@@ -539,8 +539,14 @@
                   "id": "115.3289.7323c2cf1-7da8.1a19b4a9e",
                   "ideas": {
                     "1": {
-                      "title": "",
-                      "id": "116.3289.7323c2cf1-7da8.1a19b4a9e"
+                      "title": "O compilador / interpretador saberá qual método chamar pela assinatura",
+                      "id": "116.3289.7323c2cf1-7da8.1a19b4a9e",
+                      "ideas": {
+                        "1": {
+                          "title": "Assinatura = junção de visibilidade + retorno + parametros",
+                          "id": "117.3289.7323c2cf1-7da8.1a19b4a9e"
+                        }
+                      }
                     }
                   }
                 }
