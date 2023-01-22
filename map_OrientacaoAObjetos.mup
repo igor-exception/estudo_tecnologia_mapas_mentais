@@ -270,6 +270,16 @@
             "collapsed": true
           }
         },
+        "6": {
+          "title": "Operações de objetos",
+          "id": "165.3289.7323c2cf1-7da8.1a19b4a9e",
+          "ideas": {
+            "1": {
+              "title": "",
+              "id": "166.3289.7323c2cf1-7da8.1a19b4a9e"
+            }
+          }
+        },
         "-10": {
           "title": "Info / Referência",
           "id": "2.56a6.db03370d3-564d.29a4b1e0a",
@@ -1064,6 +1074,9 @@
               "title": "Escopo é a área de pertencimento de cada parte. Uma classe tem seu escopo, um método tem seu escopo",
               "id": "151.3289.7323c2cf1-7da8.1a19b4a9e"
             }
+          },
+          "attr": {
+            "collapsed": true
           }
         }
       }
