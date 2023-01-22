@@ -898,7 +898,19 @@
         },
         "-14": {
           "title": "Escopo",
-          "id": "140.3289.7323c2cf1-7da8.1a19b4a9e"
+          "id": "140.3289.7323c2cf1-7da8.1a19b4a9e",
+          "ideas": {
+            "1": {
+              "title": "Vários objetos podem ser instanciados da mesma classe. Mas cada um tem sua identidade e estado únicos.",
+              "id": "141.3289.7323c2cf1-7da8.1a19b4a9e",
+              "ideas": {
+                "1": {
+                  "title": "Alguns atributos e métodos podem ser compartilhados entre todas instancias de objetos da mesma classe.",
+                  "id": "142.3289.7323c2cf1-7da8.1a19b4a9e"
+                }
+              }
+            }
+          }
         }
       }
     }
