@@ -388,7 +388,13 @@
                 },
                 "4": {
                   "title": "Caso a classe tenha atributos, é uma boa prática seta-los no construtor",
-                  "id": "112.3289.7323c2cf1-7da8.1a19b4a9e"
+                  "id": "112.3289.7323c2cf1-7da8.1a19b4a9e",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "120.3289.7323c2cf1-7da8.1a19b4a9e"
+                    }
+                  }
                 },
                 "5": {
                   "title": "Se uma classe é herdada, e não definimos o construtor, utilizará o construtor da superclasse",
