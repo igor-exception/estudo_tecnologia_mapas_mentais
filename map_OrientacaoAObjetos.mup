@@ -221,8 +221,14 @@
                       },
                       "ideas": {
                         "1": {
-                          "title": "",
-                          "id": "135.3289.7323c2cf1-7da8.1a19b4a9e"
+                          "title": "O usuário teve um problema de exception de divisão por Zero. Neste caso o dev inseriu um if, para caso seja Zero, passe a valer 1.",
+                          "id": "135.3289.7323c2cf1-7da8.1a19b4a9e",
+                          "ideas": {
+                            "1": {
+                              "title": "É uma situação ruim, pois torna o sistema impreciso",
+                              "id": "136.3289.7323c2cf1-7da8.1a19b4a9e"
+                            }
+                          }
                         }
                       }
                     }
