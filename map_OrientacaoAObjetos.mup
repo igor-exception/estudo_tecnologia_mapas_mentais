@@ -1026,8 +1026,14 @@
                               },
                               "ideas": {
                                 "1": {
-                                  "title": "",
-                                  "id": "162.3289.7323c2cf1-7da8.1a19b4a9e"
+                                  "title": "Ao declarar um atributo como estático, definimos que todos objetos instanciados, compartilharão o mesmo resultado",
+                                  "id": "162.3289.7323c2cf1-7da8.1a19b4a9e",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "",
+                                      "id": "163.3289.7323c2cf1-7da8.1a19b4a9e"
+                                    }
+                                  }
                                 }
                               }
                             }
