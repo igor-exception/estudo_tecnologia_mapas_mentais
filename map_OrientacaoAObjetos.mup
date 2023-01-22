@@ -179,7 +179,13 @@
               "ideas": {
                 "1": {
                   "title": "1- Ignorar o problema (Péssima ideia)",
-                  "id": "126.3289.7323c2cf1-7da8.1a19b4a9e"
+                  "id": "126.3289.7323c2cf1-7da8.1a19b4a9e",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "131.3289.7323c2cf1-7da8.1a19b4a9e"
+                    }
+                  }
                 },
                 "2": {
                   "title": "2- Analisar o potencial problema e abortar o programa quando acha-lo",
