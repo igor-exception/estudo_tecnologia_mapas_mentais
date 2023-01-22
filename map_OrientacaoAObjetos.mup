@@ -391,8 +391,19 @@
                   "id": "112.3289.7323c2cf1-7da8.1a19b4a9e",
                   "ideas": {
                     "1": {
+                      "title": "Não inicializar os atributos pode tornar a aplicação instável.",
+                      "id": "120.3289.7323c2cf1-7da8.1a19b4a9e",
+                      "ideas": {
+                        "1": {
+                          "title": "Ex: Se não inicializo o atributo número, pode ser que algum método tente fazer alguma operação matemática com uma variavel sem valor, onde poderá gerar algum tipo de falha",
+                          "id": "121.3289.7323c2cf1-7da8.1a19b4a9e",
+                          "ideas": {}
+                        }
+                      }
+                    },
+                    "2": {
                       "title": "",
-                      "id": "120.3289.7323c2cf1-7da8.1a19b4a9e"
+                      "id": "123.3289.7323c2cf1-7da8.1a19b4a9e"
                     }
                   }
                 },
