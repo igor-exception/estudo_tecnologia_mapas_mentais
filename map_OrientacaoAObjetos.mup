@@ -1155,8 +1155,40 @@
               "id": "175.47c2.66b8be65c-2a63.886c65f21",
               "ideas": {
                 "1": {
-                  "title": "",
-                  "id": "176.47c2.66b8be65c-2a63.886c65f21"
+                  "title": "É um método estabelecido, que podemos separar em 3 grandes partes",
+                  "id": "176.47c2.66b8be65c-2a63.886c65f21",
+                  "ideas": {
+                    "1": {
+                      "title": "Design",
+                      "id": "177.47c2.66b8be65c-2a63.886c65f21",
+                      "ideas": {
+                        "1": {
+                          "title": "Quando planejamos o sistema de acordo com os requisitos",
+                          "id": "180.47c2.66b8be65c-2a63.886c65f21"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Implementação",
+                      "id": "178.47c2.66b8be65c-2a63.886c65f21",
+                      "ideas": {
+                        "1": {
+                          "title": "Quando construímos o sistema",
+                          "id": "181.47c2.66b8be65c-2a63.886c65f21"
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Deploy",
+                      "id": "179.47c2.66b8be65c-2a63.886c65f21",
+                      "ideas": {
+                        "1": {
+                          "title": "",
+                          "id": "182.47c2.66b8be65c-2a63.886c65f21"
+                        }
+                      }
+                    }
+                  }
                 }
               }
             }
