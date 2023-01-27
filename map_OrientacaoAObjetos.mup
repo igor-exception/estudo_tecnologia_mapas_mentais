@@ -293,6 +293,16 @@
             "collapsed": true
           }
         },
+        "7": {
+          "title": "Processo de design OO",
+          "id": "188.5675.a374fc17d-0543.387f153ad",
+          "ideas": {
+            "1": {
+              "title": "",
+              "id": "189.5675.a374fc17d-0543.387f153ad"
+            }
+          }
+        },
         "-10": {
           "title": "Info / Referência",
           "id": "2.56a6.db03370d3-564d.29a4b1e0a",
@@ -1208,6 +1218,9 @@
                 }
               }
             }
+          },
+          "attr": {
+            "collapsed": true
           }
         }
       }
