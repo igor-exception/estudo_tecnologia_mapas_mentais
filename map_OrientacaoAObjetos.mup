@@ -298,8 +298,22 @@
           "id": "188.5675.a374fc17d-0543.387f153ad",
           "ideas": {
             "1": {
-              "title": "",
+              "title": "Não existe apenas uma forma de fazer o Design. Formas diferentes podem fazer bem o proposto",
               "id": "189.5675.a374fc17d-0543.387f153ad"
+            },
+            "2": {
+              "title": "Uma forma sólida do processo de Design O.O geralmente inclui:",
+              "id": "190.5675.a374fc17d-0543.387f153ad",
+              "ideas": {
+                "1": {
+                  "title": "1- Fazer a análise adequada",
+                  "id": "191.5675.a374fc17d-0543.387f153ad"
+                },
+                "2": {
+                  "title": "",
+                  "id": "192.5675.a374fc17d-0543.387f153ad"
+                }
+              }
             }
           }
         },
