@@ -340,8 +340,13 @@
               }
             },
             "3": {
-              "title": "",
-              "id": "199.5675.a374fc17d-0543.387f153ad"
+              "title": "Mesmo com o processo de design e planejamento, sempre surgirão mudanças, até nas fases mais avançadas. O Gerente de projeto irá definir quando parar as mudanças/alterações pra focar em fazer o que já está planejado e as futuras alterações podem entrar como features.",
+              "id": "199.5675.a374fc17d-0543.387f153ad",
+              "attr": {
+                "style": {
+                  "width": 223
+                }
+              }
             }
           }
         },
