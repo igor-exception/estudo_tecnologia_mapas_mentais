@@ -310,8 +310,24 @@
                   "id": "191.5675.a374fc17d-0543.387f153ad"
                 },
                 "2": {
-                  "title": "2-",
+                  "title": "2- Criar o cronograma que descreve o sistema",
                   "id": "192.5675.a374fc17d-0543.387f153ad"
+                },
+                "3": {
+                  "title": "3- Fazer o levantamento dos requisitos",
+                  "id": "193.5675.a374fc17d-0543.387f153ad"
+                },
+                "4": {
+                  "title": "4- Desenvolver um protótipo para interface do usuário",
+                  "id": "194.5675.a374fc17d-0543.387f153ad"
+                },
+                "5": {
+                  "title": "5- identificar as Classes",
+                  "id": "195.5675.a374fc17d-0543.387f153ad"
+                },
+                "6": {
+                  "title": "",
+                  "id": "196.5675.a374fc17d-0543.387f153ad"
                 }
               }
             }
