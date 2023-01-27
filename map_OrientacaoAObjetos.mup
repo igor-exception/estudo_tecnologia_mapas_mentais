@@ -326,8 +326,16 @@
                   "id": "195.5675.a374fc17d-0543.387f153ad"
                 },
                 "6": {
-                  "title": "",
+                  "title": "6- Determinar as responsabilidades de cada classe",
                   "id": "196.5675.a374fc17d-0543.387f153ad"
+                },
+                "7": {
+                  "title": "7- Determinar como as classes se interagem",
+                  "id": "197.5675.a374fc17d-0543.387f153ad"
+                },
+                "8": {
+                  "title": "8- Criar um modelo de de fácil entendimento do sistema que será construído.",
+                  "id": "198.5675.a374fc17d-0543.387f153ad"
                 }
               }
             }
