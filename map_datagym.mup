@@ -264,8 +264,18 @@
               "id": "84.e8f0.197d5e319-ea5e.357aca6bb",
               "ideas": {
                 "1": {
-                  "title": "",
-                  "id": "85.e8f0.197d5e319-ea5e.357aca6bb"
+                  "title": "Estou lendo o livro: The Object Oriented Thought Process 3 edition",
+                  "id": "85.e8f0.197d5e319-ea5e.357aca6bb",
+                  "ideas": {
+                    "1": {
+                      "title": "Seria legal seguir os passos de SOW e levantamento de requisitos no futuro novo projeto. (pagina 107 do livro de )",
+                      "id": "86.e8f0.197d5e319-ea5e.357aca6bb"
+                    },
+                    "2": {
+                      "title": "",
+                      "id": "87.e8f0.197d5e319-ea5e.357aca6bb"
+                    }
+                  }
                 }
               }
             }
