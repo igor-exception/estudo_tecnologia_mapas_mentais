@@ -293,68 +293,6 @@
             "collapsed": true
           }
         },
-        "7": {
-          "title": "Processo de design OO",
-          "id": "188.5675.a374fc17d-0543.387f153ad",
-          "ideas": {
-            "1": {
-              "title": "Não existe apenas uma forma de fazer o Design. Formas diferentes podem fazer bem o proposto",
-              "id": "189.5675.a374fc17d-0543.387f153ad"
-            },
-            "2": {
-              "title": "Uma forma sólida do processo de Design O.O geralmente inclui:",
-              "id": "190.5675.a374fc17d-0543.387f153ad",
-              "ideas": {
-                "1": {
-                  "title": "1- Fazer a análise adequada",
-                  "id": "191.5675.a374fc17d-0543.387f153ad"
-                },
-                "2": {
-                  "title": "2- Criar o cronograma que descreve o sistema",
-                  "id": "192.5675.a374fc17d-0543.387f153ad"
-                },
-                "3": {
-                  "title": "3- Fazer o levantamento dos requisitos",
-                  "id": "193.5675.a374fc17d-0543.387f153ad"
-                },
-                "4": {
-                  "title": "4- Desenvolver um protótipo para interface do usuário",
-                  "id": "194.5675.a374fc17d-0543.387f153ad"
-                },
-                "5": {
-                  "title": "5- identificar as Classes",
-                  "id": "195.5675.a374fc17d-0543.387f153ad"
-                },
-                "6": {
-                  "title": "6- Determinar as responsabilidades de cada classe",
-                  "id": "196.5675.a374fc17d-0543.387f153ad"
-                },
-                "7": {
-                  "title": "7- Determinar como as classes se interagem",
-                  "id": "197.5675.a374fc17d-0543.387f153ad"
-                },
-                "8": {
-                  "title": "8- Criar um modelo de de fácil entendimento do sistema que será construído.",
-                  "id": "198.5675.a374fc17d-0543.387f153ad"
-                }
-              }
-            },
-            "3": {
-              "title": "Mesmo com o processo de design e planejamento, sempre surgirão mudanças, até nas fases mais avançadas. O Gerente de projeto irá definir quando parar as mudanças/alterações pra focar em fazer o que já está planejado e as futuras alterações podem entrar como features.",
-              "id": "199.5675.a374fc17d-0543.387f153ad",
-              "attr": {
-                "style": {
-                  "width": 223
-                }
-              }
-            },
-            "4": {
-              "title": "O design é o planejamento de como um sistema será construído. Nele teremos informações vitais para seguir para parte da implementação",
-              "id": "174.47c2.66b8be65c-2a63.886c65f21",
-              "attr": {}
-            }
-          }
-        },
         "-10": {
           "title": "Info / Referência",
           "id": "2.56a6.db03370d3-564d.29a4b1e0a",
@@ -1204,11 +1142,67 @@
             "collapsed": true
           }
         },
-        "-15": {
-          "title": "Diretrizes de Design",
-          "id": "173.47c2.66b8be65c-2a63.886c65f21",
+        "-24": {
+          "title": "Processo de design OO",
+          "id": "188.5675.a374fc17d-0543.387f153ad",
           "ideas": {
+            "1": {
+              "title": "Não existe apenas uma forma de fazer o Design. Formas diferentes podem fazer bem o proposto",
+              "id": "189.5675.a374fc17d-0543.387f153ad"
+            },
             "2": {
+              "title": "Uma forma sólida do processo de Design O.O geralmente inclui:",
+              "id": "190.5675.a374fc17d-0543.387f153ad",
+              "ideas": {
+                "1": {
+                  "title": "1- Fazer a análise adequada",
+                  "id": "191.5675.a374fc17d-0543.387f153ad"
+                },
+                "2": {
+                  "title": "2- Criar o cronograma que descreve o sistema",
+                  "id": "192.5675.a374fc17d-0543.387f153ad"
+                },
+                "3": {
+                  "title": "3- Fazer o levantamento dos requisitos",
+                  "id": "193.5675.a374fc17d-0543.387f153ad"
+                },
+                "4": {
+                  "title": "4- Desenvolver um protótipo para interface do usuário",
+                  "id": "194.5675.a374fc17d-0543.387f153ad"
+                },
+                "5": {
+                  "title": "5- identificar as Classes",
+                  "id": "195.5675.a374fc17d-0543.387f153ad"
+                },
+                "6": {
+                  "title": "6- Determinar as responsabilidades de cada classe",
+                  "id": "196.5675.a374fc17d-0543.387f153ad"
+                },
+                "7": {
+                  "title": "7- Determinar como as classes se interagem",
+                  "id": "197.5675.a374fc17d-0543.387f153ad"
+                },
+                "8": {
+                  "title": "8- Criar um modelo de de fácil entendimento do sistema que será construído.",
+                  "id": "198.5675.a374fc17d-0543.387f153ad"
+                }
+              }
+            },
+            "3": {
+              "title": "Mesmo com o processo de design e planejamento, sempre surgirão mudanças, até nas fases mais avançadas. O Gerente de projeto irá definir quando parar as mudanças/alterações pra focar em fazer o que já está planejado e as futuras alterações podem entrar como features.",
+              "id": "199.5675.a374fc17d-0543.387f153ad",
+              "attr": {
+                "style": {
+                  "width": 223
+                }
+              }
+            },
+            "4": {
+              "title": "O design é o planejamento de como um sistema será construído. Nele teremos informações vitais para seguir para parte da implementação",
+              "id": "174.47c2.66b8be65c-2a63.886c65f21",
+              "attr": {}
+            },
+            "5": {
               "title": "Waterfall",
               "id": "175.47c2.66b8be65c-2a63.886c65f21",
               "ideas": {
@@ -1266,6 +1260,13 @@
                 }
               }
             }
+          },
+          "attr": {
+            "position": [
+              171.9914836883545,
+              342.98009490966797,
+              8
+            ]
           }
         }
       }
