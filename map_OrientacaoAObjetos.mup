@@ -1275,6 +1275,10 @@
                     "1": {
                       "title": "É um documento que descreve o sistema.  Todo mundo que ler, terá um completo entendimento do sistema. E dará o sentimento real de como o sistema irá se parecer e se comportar.",
                       "id": "203.b059.a0b7f202e-ae14.487a34ce"
+                    },
+                    "2": {
+                      "title": "Geralmente é escrito em parágrafos",
+                      "id": "206.b059.a0b7f202e-ae14.487a34ce"
                     }
                   }
                 },
@@ -1283,7 +1287,7 @@
                   "id": "204.b059.a0b7f202e-ae14.487a34ce",
                   "ideas": {
                     "1": {
-                      "title": "",
+                      "title": "Descreve o que o usuário quer que o sistema faça. É específico o suficiente para representar a verdadeira necessidade do usuário final",
                       "id": "205.b059.a0b7f202e-ae14.487a34ce"
                     }
                   }
