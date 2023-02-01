@@ -293,6 +293,30 @@
             "collapsed": true
           }
         },
+        "17": {
+          "title": "Design Patterns",
+          "id": "214.725b.73127fe18-6d97.0a298043a",
+          "attr": {
+            "position": [
+              142.01992225646973,
+              431.8692169189453,
+              9
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "S.O.L.I.D",
+              "id": "213.725b.73127fe18-6d97.0a298043a",
+              "attr": {},
+              "ideas": {
+                "1": {
+                  "title": "",
+                  "id": "215.725b.73127fe18-6d97.0a298043a"
+                }
+              }
+            }
+          }
+        },
         "-10": {
           "title": "Info / Referência",
           "id": "2.56a6.db03370d3-564d.29a4b1e0a",
@@ -1265,6 +1289,9 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             },
             "6": {
@@ -1304,7 +1331,7 @@
                   }
                 },
                 "3": {
-                  "title": "3- Protótico",
+                  "title": "3- Protótipo",
                   "id": "208.b059.a0b7f202e-ae14.487a34ce",
                   "ideas": {
                     "1": {
@@ -1317,6 +1344,9 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             }
           },
