@@ -329,7 +329,7 @@
                           "id": "217.725b.73127fe18-6d97.0a298043a",
                           "ideas": {
                             "1": {
-                              "title": "",
+                              "title": "EX: Se uma classe é responsável por representar uma nota fiscal, ela toma conta apenas disso. A parte de Fatura, por exemplo, fica na responsabilidade de outra classe",
                               "id": "218.725b.73127fe18-6d97.0a298043a"
                             }
                           }
