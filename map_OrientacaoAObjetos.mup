@@ -337,7 +337,7 @@
                       }
                     },
                     "2": {
-                      "title": "",
+                      "title": "Uma forma de analisar se uma classe é Coesa, é verificar se ela sempre irá crescer. Classes coesas nem sempre crescem.",
                       "id": "219.a59d.b9332041e-ab66.8414fd249"
                     }
                   }
