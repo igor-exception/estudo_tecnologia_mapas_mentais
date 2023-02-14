@@ -160,12 +160,16 @@
                                   "id": "80.4f8a.2916d473f-dc7a.99b58cc63",
                                   "ideas": {
                                     "1": {
-                                      "title": "ex tosco: Se quero mostadela, vou no Mercado e peço. A pessoa que trabalha na parte de frios, irá pegar a peça de mortadela, cortar e me entregar.",
+                                      "title": "ex tosco: Se quero mortadela, vou no Mercado e peço. A pessoa que trabalha na parte de frios, irá pegar a peça de mortadela, cortar e me entregar.",
                                       "id": "81.4f8a.2916d473f-dc7a.99b58cc63",
                                       "ideas": {
                                         "1": {
                                           "title": "Na inversão de controle, eu levo a peça, ela corta e me entrega.",
                                           "id": "82.4f8a.2916d473f-dc7a.99b58cc63"
+                                        },
+                                        "2": {
+                                          "title": "Desta forma, o modelo da classe funcionario de frios, terá apenas a responsabilidade de cortar, idependente do que for. A responsabilidade de entregar o item, é do cliente.",
+                                          "id": "88.9034.2f6aff4c1-dd3c.7818c8c09"
                                         }
                                       }
                                     }
