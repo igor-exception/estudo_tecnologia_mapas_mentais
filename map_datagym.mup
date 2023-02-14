@@ -689,8 +689,19 @@
           },
           "ideas": {
             "1": {
-              "title": "",
-              "id": "94.9034.2f6aff4c1-dd3c.7818c8c09"
+              "title": "Recebe dados do Front, chama $database->search()",
+              "id": "94.9034.2f6aff4c1-dd3c.7818c8c09",
+              "attr": {
+                "style": {
+                  "width": 181
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "",
+                  "id": "95.9034.2f6aff4c1-dd3c.7818c8c09"
+                }
+              }
             }
           }
         }
