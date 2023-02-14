@@ -702,7 +702,7 @@
                   "id": "95.9034.2f6aff4c1-dd3c.7818c8c09",
                   "ideas": {
                     "1": {
-                      "title": "Chamo o método mountQuery, que já esta testado e funcionando",
+                      "title": "Preciso garantir que se passar dados inválidos, por exemplo o email inexistente, gere exception",
                       "id": "96.9034.2f6aff4c1-dd3c.7818c8c09"
                     }
                   }
