@@ -717,7 +717,13 @@
                       "ideas": {
                         "1": {
                           "title": "Usar o password_verify('senha passada', 'senha do DB')",
-                          "id": "99.9034.2f6aff4c1-dd3c.7818c8c09"
+                          "id": "99.9034.2f6aff4c1-dd3c.7818c8c09",
+                          "ideas": {
+                            "1": {
+                              "title": "",
+                              "id": "100.9034.2f6aff4c1-dd3c.7818c8c09"
+                            }
+                          }
                         }
                       }
                     }
