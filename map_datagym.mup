@@ -8,7 +8,7 @@
       "attr": {
         "position": [
           -194,
-          21,
+          188,
           1
         ]
       },
@@ -655,6 +655,37 @@
                 "collapsed": true
               }
             }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "Tarefas",
+      "id": "91.9034.2f6aff4c1-dd3c.7818c8c09",
+      "attr": {
+        "position": [
+          1323,
+          -55,
+          1
+        ],
+        "style": {
+          "fontMultiplier": 2,
+          "backgroundColor": "#000000",
+          "text": {
+            "color": "#FFCC00"
+          }
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Cadastro de usuário",
+          "id": "92.9034.2f6aff4c1-dd3c.7818c8c09",
+          "attr": {
+            "position": [
+              177.26992797851517,
+              -88.86362552642828,
+              1
+            ]
           }
         }
       }
