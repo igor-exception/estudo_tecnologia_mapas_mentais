@@ -713,7 +713,13 @@
                     },
                     "2": {
                       "title": "Preciso comparar a senha recebida do banco, com a senha passada pelo user.",
-                      "id": "98.9034.2f6aff4c1-dd3c.7818c8c09"
+                      "id": "98.9034.2f6aff4c1-dd3c.7818c8c09",
+                      "ideas": {
+                        "1": {
+                          "title": "Usar o password_verify('senha passada', 'senha do DB')",
+                          "id": "99.9034.2f6aff4c1-dd3c.7818c8c09"
+                        }
+                      }
                     }
                   }
                 }
