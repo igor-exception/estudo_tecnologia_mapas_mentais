@@ -664,7 +664,7 @@
       "id": "91.9034.2f6aff4c1-dd3c.7818c8c09",
       "attr": {
         "position": [
-          1323,
+          1161,
           -55,
           1
         ],
@@ -698,7 +698,7 @@
               },
               "ideas": {
                 "1": {
-                  "title": "",
+                  "title": "Na classe Database, método Search, recebo os dados",
                   "id": "95.9034.2f6aff4c1-dd3c.7818c8c09"
                 }
               }
