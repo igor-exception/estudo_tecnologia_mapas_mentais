@@ -678,7 +678,7 @@
       },
       "ideas": {
         "1": {
-          "title": "Cadastro de usuário",
+          "title": "Login de usuário",
           "id": "92.9034.2f6aff4c1-dd3c.7818c8c09",
           "attr": {
             "position": [
@@ -699,7 +699,13 @@
               "ideas": {
                 "1": {
                   "title": "Na classe Database, método Search, recebo os dados",
-                  "id": "95.9034.2f6aff4c1-dd3c.7818c8c09"
+                  "id": "95.9034.2f6aff4c1-dd3c.7818c8c09",
+                  "ideas": {
+                    "1": {
+                      "title": "Chamo o método mountQuery, que já esta testada e funcionando",
+                      "id": "96.9034.2f6aff4c1-dd3c.7818c8c09"
+                    }
+                  }
                 }
               }
             }
