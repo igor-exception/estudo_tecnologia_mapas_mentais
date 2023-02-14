@@ -703,7 +703,17 @@
                   "ideas": {
                     "1": {
                       "title": "Preciso garantir que se passar dados inválidos, por exemplo o email inexistente, gere exception",
-                      "id": "96.9034.2f6aff4c1-dd3c.7818c8c09"
+                      "id": "96.9034.2f6aff4c1-dd3c.7818c8c09",
+                      "ideas": {
+                        "1": {
+                          "title": "Feito",
+                          "id": "97.9034.2f6aff4c1-dd3c.7818c8c09"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "",
+                      "id": "98.9034.2f6aff4c1-dd3c.7818c8c09"
                     }
                   }
                 }
