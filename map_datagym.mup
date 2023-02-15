@@ -815,7 +815,27 @@
               "ideas": {
                 "1": {
                   "title": "para isso, preciso alterar o método de login, para poder retornar uma array quando der certo.",
-                  "id": "112.9034.2f6aff4c1-dd3c.7818c8c09"
+                  "id": "112.9034.2f6aff4c1-dd3c.7818c8c09",
+                  "ideas": {
+                    "1": {
+                      "title": "ok",
+                      "id": "113.9034.2f6aff4c1-dd3c.7818c8c09"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "na pagina home, verificar se já existe  sessão. Se ja tiver, redirecionar para dashboard.",
+                  "id": "114.9034.2f6aff4c1-dd3c.7818c8c09",
+                  "ideas": {
+                    "1": {
+                      "title": "OK",
+                      "id": "115.9034.2f6aff4c1-dd3c.7818c8c09"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "",
+                  "id": "116.9034.2f6aff4c1-dd3c.7818c8c09"
                 }
               }
             }
