@@ -3592,7 +3592,7 @@
                           },
                           "ideas": {
                             "1": {
-                              "title": "",
+                              "title": "Este erro acontece, pois o session altera o header do html. Neste caso, o header já tinha sido enviado e o session_start() tentou alterado. Por isso do erro.",
                               "id": "646.2ee7.9e0175f67-d71c.eb83777e1"
                             }
                           }
