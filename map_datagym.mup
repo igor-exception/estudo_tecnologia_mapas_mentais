@@ -780,16 +780,33 @@
           "id": "107.9034.2f6aff4c1-dd3c.7818c8c09",
           "attr": {
             "position": [
-              26.26718139648392,
-              80.13919734954823,
+              199.26718139648392,
+              75.26421260833729,
               2
             ]
           },
           "ideas": {
             "1": {
               "title": "Após login, redirecionar user para dashboard, simples. Fazer funcionar",
-              "id": "108.9034.2f6aff4c1-dd3c.7818c8c09"
+              "id": "108.9034.2f6aff4c1-dd3c.7818c8c09",
+              "ideas": {
+                "1": {
+                  "title": "ok",
+                  "id": "109.9034.2f6aff4c1-dd3c.7818c8c09"
+                }
+              }
             }
+          }
+        },
+        "21": {
+          "title": "Ao fazer login, vincular sessão, armazenar: id, nome, email",
+          "id": "110.9034.2f6aff4c1-dd3c.7818c8c09",
+          "attr": {
+            "position": [
+              198.54272460937455,
+              175.27272701263416,
+              3
+            ]
           }
         }
       }
