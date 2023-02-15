@@ -749,6 +749,27 @@
                               }
                             }
                           }
+                        },
+                        "2": {
+                          "title": "Dando certo, retornar true para quem solicitou (signin) e redirecionar para outra página",
+                          "id": "104.9034.2f6aff4c1-dd3c.7818c8c09",
+                          "attr": {
+                            "position": [
+                              185.26989746093705,
+                              82.14770507812496,
+                              1
+                            ]
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "ok",
+                              "id": "105.9034.2f6aff4c1-dd3c.7818c8c09"
+                            },
+                            "2": {
+                              "title": "",
+                              "id": "106.9034.2f6aff4c1-dd3c.7818c8c09"
+                            }
+                          }
                         }
                       }
                     }
