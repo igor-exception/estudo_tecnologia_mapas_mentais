@@ -739,6 +739,10 @@
                                     "1": {
                                       "title": "nao pode ter 2 contas com mesmo email",
                                       "id": "102.9034.2f6aff4c1-dd3c.7818c8c09"
+                                    },
+                                    "2": {
+                                      "title": "resolvido",
+                                      "id": "103.9034.2f6aff4c1-dd3c.7818c8c09"
                                     }
                                   }
                                 }
