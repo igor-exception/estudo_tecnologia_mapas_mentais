@@ -834,8 +834,14 @@
                   }
                 },
                 "3": {
-                  "title": "",
-                  "id": "116.9034.2f6aff4c1-dd3c.7818c8c09"
+                  "title": "Se tentar entrar na dashboard sem existir sessão, redirecionar para home para fazer login/criar conta",
+                  "id": "116.9034.2f6aff4c1-dd3c.7818c8c09",
+                  "ideas": {
+                    "1": {
+                      "title": "ok",
+                      "id": "117.9034.2f6aff4c1-dd3c.7818c8c09"
+                    }
+                  }
                 }
               }
             }
