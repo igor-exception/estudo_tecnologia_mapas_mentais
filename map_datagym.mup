@@ -664,8 +664,8 @@
       "id": "91.9034.2f6aff4c1-dd3c.7818c8c09",
       "attr": {
         "position": [
-          1161,
-          -55,
+          690,
+          -118,
           1
         ],
         "style": {
@@ -842,6 +842,29 @@
                       "id": "117.9034.2f6aff4c1-dd3c.7818c8c09"
                     }
                   }
+                }
+              }
+            }
+          }
+        },
+        "31": {
+          "title": "Sair da dashboard",
+          "id": "118.54a1.4c5155d61-fdef.716abb404",
+          "attr": {
+            "position": [
+              64.26992797851562,
+              253.15338802337646,
+              4
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Ao clicar no profile / logout, encerrar sessão",
+              "id": "119.54a1.4c5155d61-fdef.716abb404",
+              "ideas": {
+                "1": {
+                  "title": "ok",
+                  "id": "120.54a1.4c5155d61-fdef.716abb404"
                 }
               }
             }
