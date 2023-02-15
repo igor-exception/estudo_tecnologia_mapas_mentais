@@ -814,7 +814,7 @@
               "id": "111.9034.2f6aff4c1-dd3c.7818c8c09",
               "ideas": {
                 "1": {
-                  "title": "para isso, preciso ",
+                  "title": "para isso, preciso alterar o método de login, para poder retornar uma array quando der certo.",
                   "id": "112.9034.2f6aff4c1-dd3c.7818c8c09"
                 }
               }
