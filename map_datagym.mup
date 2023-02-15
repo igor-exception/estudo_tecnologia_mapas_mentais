@@ -799,7 +799,7 @@
           }
         },
         "21": {
-          "title": "Ao fazer login, vincular sessão, armazenar: id, nome, email",
+          "title": "Vincular sessao",
           "id": "110.9034.2f6aff4c1-dd3c.7818c8c09",
           "attr": {
             "position": [
@@ -807,6 +807,18 @@
               175.27272701263416,
               3
             ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Primeiro, na pagina de login, preciso iniciar a session, armazenando o email, nome e id do user.",
+              "id": "111.9034.2f6aff4c1-dd3c.7818c8c09",
+              "ideas": {
+                "1": {
+                  "title": "para isso, preciso ",
+                  "id": "112.9034.2f6aff4c1-dd3c.7818c8c09"
+                }
+              }
+            }
           }
         }
       }
