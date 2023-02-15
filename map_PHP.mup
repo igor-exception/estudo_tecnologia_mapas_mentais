@@ -3416,11 +3416,11 @@
                           "id": "496.78a3.a748e4e37-f34d.2da8f920a",
                           "ideas": {
                             "1": {
-                              "title": "Não deve armazenar dados sensíveis nos coockies",
+                              "title": "Não deve armazenar dados sensíveis nos cookies",
                               "id": "497.78a3.a748e4e37-f34d.2da8f920a"
                             },
                             "2": {
-                              "title": "Não armazenar dados que pertence a outra conta de usuário",
+                              "title": "Não armazenar dados que pertencem a outra conta de usuário",
                               "id": "498.78a3.a748e4e37-f34d.2da8f920a"
                             },
                             "3": {
