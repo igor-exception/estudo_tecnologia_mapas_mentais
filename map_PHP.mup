@@ -3550,13 +3550,32 @@
                   "title": "Gerenciando dados da Sessão",
                   "id": "552.9857.3b040a76f-3aaa.d3e03c4be",
                   "ideas": {
-                    "1": {
-                      "title": "$_SESSION['name'] = 'John Doe';",
-                      "id": "553.9857.3b040a76f-3aaa.d3e03c4be"
-                    },
                     "2": {
-                      "title": "",
-                      "id": "647.2ee7.9e0175f67-d71c.eb83777e1"
+                      "title": "Inserindo dados",
+                      "id": "647.2ee7.9e0175f67-d71c.eb83777e1",
+                      "ideas": {
+                        "1": {
+                          "title": "$_SESSION['name'] = 'John Doe';",
+                          "id": "553.9857.3b040a76f-3aaa.d3e03c4be",
+                          "attr": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Removendo dados específicos",
+                      "id": "648.2ee7.9e0175f67-d71c.eb83777e1",
+                      "ideas": {
+                        "1": {
+                          "title": "unset($_SESSION['name'])",
+                          "id": "649.2ee7.9e0175f67-d71c.eb83777e1",
+                          "ideas": {
+                            "1": {
+                              "title": "removerá apenas o indice name.",
+                              "id": "650.2ee7.9e0175f67-d71c.eb83777e1"
+                            }
+                          }
+                        }
+                      }
                     }
                   }
                 },
