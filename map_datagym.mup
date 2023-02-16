@@ -895,7 +895,7 @@
               },
               "ideas": {
                 "1": {
-                  "title": "Percebi que é interessante",
+                  "title": "",
                   "id": "124.2a3b.fb30f4236-cf68.16006aeb5"
                 }
               }
@@ -912,6 +912,10 @@
                   "metaData": {}
                 }
               }
+            },
+            "3": {
+              "title": "Percebi que é interessante adicionar campo descrição nas tabelas: Exercises e Actions",
+              "id": "125.2a3b.fb30f4236-cf68.16006aeb5"
             }
           }
         }
