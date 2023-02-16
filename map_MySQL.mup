@@ -151,13 +151,31 @@
                     }
                   }
                 },
-                "2": {
-                  "title": "ALTER TABLE users MODIFY updated_at DATETIME NOT NULL;",
-                  "id": "99.119c.45f4506f2-94a5.1290c9f62"
-                },
                 "3": {
-                  "title": "Alter",
-                  "id": "106.a8c4.da5bc764d-b206.2f0c5556e"
+                  "title": "ALTER TABLE",
+                  "id": "106.a8c4.da5bc764d-b206.2f0c5556e",
+                  "ideas": {
+                    "1": {
+                      "title": "ALTER TABLE users MODIFY updated_at DATETIME NOT NULL;",
+                      "id": "99.119c.45f4506f2-94a5.1290c9f62",
+                      "attr": {}
+                    },
+                    "2": {
+                      "title": "Adicionando uma nova coluna",
+                      "id": "107.a8c4.da5bc764d-b206.2f0c5556e",
+                      "ideas": {
+                        "1": {
+                          "title": "ALTER TABLE exercises ADD COLUMN description TEXT",
+                          "id": "108.a8c4.da5bc764d-b206.2f0c5556e",
+                          "attr": {
+                            "style": {
+                              "width": 345
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
                 }
               }
             },
