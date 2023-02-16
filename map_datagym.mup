@@ -7,8 +7,8 @@
       "id": 1,
       "attr": {
         "position": [
-          -194,
-          188,
+          -968,
+          253,
           1
         ]
       },
@@ -893,12 +893,7 @@
                   "metaData": {}
                 }
               },
-              "ideas": {
-                "1": {
-                  "title": "",
-                  "id": "124.2a3b.fb30f4236-cf68.16006aeb5"
-                }
-              }
+              "ideas": {}
             },
             "2": {
               "title": "",
@@ -917,6 +912,17 @@
               "title": "Percebi que é interessante adicionar campo descrição nas tabelas: Exercises e Actions",
               "id": "125.2a3b.fb30f4236-cf68.16006aeb5"
             }
+          }
+        },
+        "-1": {
+          "title": "Limpar um pouco o layout",
+          "id": "126.2a3b.fb30f4236-cf68.16006aeb5",
+          "attr": {
+            "position": [
+              92.72723388671875,
+              485.04259395599365,
+              7
+            ]
           }
         }
       }
