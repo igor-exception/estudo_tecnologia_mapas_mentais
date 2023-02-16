@@ -154,6 +154,10 @@
                 "2": {
                   "title": "ALTER TABLE users MODIFY updated_at DATETIME NOT NULL;",
                   "id": "99.119c.45f4506f2-94a5.1290c9f62"
+                },
+                "3": {
+                  "title": "Alter",
+                  "id": "106.a8c4.da5bc764d-b206.2f0c5556e"
                 }
               }
             },
