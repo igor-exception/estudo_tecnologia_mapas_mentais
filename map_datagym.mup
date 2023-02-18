@@ -1170,9 +1170,20 @@
                               }
                             }
                           },
-                          "attr": {}
+                          "attr": {
+                            "style": {
+                              "backgroundColor": "#FF00FF"
+                            }
+                          }
                         }
+                      },
+                      "attr": {
+                        "collapsed": true
                       }
+                    },
+                    "2": {
+                      "title": "criar página específica para mostrar infos do exercício",
+                      "id": "160.b7d8.685002f3f-1500.cc15607dc"
                     }
                   }
                 }
