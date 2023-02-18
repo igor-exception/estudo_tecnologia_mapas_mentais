@@ -1000,7 +1000,7 @@
           },
           "ideas": {
             "2": {
-              "title": "Corrigir tests, usando mock",
+              "title": "Corrigir tests de login, usando mock",
               "id": "142.b7d8.685002f3f-1500.cc15607dc",
               "attr": {
                 "position": [
@@ -1030,19 +1030,44 @@
                     }
                   }
                 },
-                "2": {
-                  "title": "Editar info do banco",
-                  "id": "140.a549.e142321bf-a5dc.0cde06328"
+                "4": {
+                  "title": "Mostrar exercícios",
+                  "id": "145.b7d8.685002f3f-1500.cc15607dc",
+                  "attr": {
+                    "position": [
+                      138.2784423828125,
+                      -10.215911865234375,
+                      3
+                    ]
+                  }
                 },
-                "3": {
+                "9": {
                   "title": "remover do banco",
-                  "id": "141.a549.e142321bf-a5dc.0cde06328"
+                  "id": "141.a549.e142321bf-a5dc.0cde06328",
+                  "attr": {
+                    "position": [
+                      129.2784423828125,
+                      67.78408813476562,
+                      2
+                    ]
+                  }
+                },
+                "14": {
+                  "title": "Editar info do banco",
+                  "id": "140.a549.e142321bf-a5dc.0cde06328",
+                  "attr": {
+                    "position": [
+                      114.2784423828125,
+                      131.78408813476562,
+                      1
+                    ]
+                  }
                 }
               },
               "attr": {
                 "position": [
-                  175.8779754638672,
-                  141.1363983154297,
+                  170.15347290039062,
+                  158.92044067382812,
                   3
                 ]
               }
