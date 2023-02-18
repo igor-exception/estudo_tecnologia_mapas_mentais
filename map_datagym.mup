@@ -1193,7 +1193,13 @@
                     },
                     "3": {
                       "title": "buscar infos do exercicio",
-                      "id": "162.b7d8.685002f3f-1500.cc15607dc"
+                      "id": "162.b7d8.685002f3f-1500.cc15607dc",
+                      "ideas": {
+                        "1": {
+                          "title": "ok",
+                          "id": "164.b7d8.685002f3f-1500.cc15607dc"
+                        }
+                      }
                     },
                     "4": {
                       "title": "criar testes do exercicio",
