@@ -598,8 +598,25 @@
           }
         },
         "-2": {
-          "title": "",
-          "id": "109.7c34.c1bccf65f-7550.435a22fc5"
+          "title": "Cheatsheet",
+          "id": "109.7c34.c1bccf65f-7550.435a22fc5",
+          "ideas": {
+            "1": {
+              "title": "https://devhints.io/mysql",
+              "id": "110.7c34.c1bccf65f-7550.435a22fc5"
+            }
+          },
+          "attr": {
+            "position": [
+              146.98580169677734,
+              252.9970703125,
+              4
+            ],
+            "style": {
+              "fontMultiplier": 1.75,
+              "backgroundColor": "#00FF00"
+            }
+          }
         }
       }
     }
