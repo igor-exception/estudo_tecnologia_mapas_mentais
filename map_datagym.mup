@@ -1260,12 +1260,31 @@
                 ]
               },
               "ideas": {
-                "2": {
+                "3": {
+                  "title": "Testes",
+                  "id": "182.8b33.e642ca4ec-7d17.85612bde6",
+                  "ideas": {
+                    "1": {
+                      "title": "mostrar info",
+                      "id": "183.8b33.e642ca4ec-7d17.85612bde6"
+                    },
+                    "2": {
+                      "title": "editar info",
+                      "id": "184.8b33.e642ca4ec-7d17.85612bde6"
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "width": 38
+                    }
+                  }
+                },
+                "13": {
                   "title": "remover do banco",
                   "attr": {
                     "position": [
-                      202.0823974609375,
-                      26.914794921875,
+                      135.35791015625,
+                      225.71026611328125,
                       1
                     ]
                   },
