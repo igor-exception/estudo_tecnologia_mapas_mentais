@@ -1266,11 +1266,23 @@
                   "ideas": {
                     "1": {
                       "title": "mostrar info",
-                      "id": "183.8b33.e642ca4ec-7d17.85612bde6"
+                      "id": "183.8b33.e642ca4ec-7d17.85612bde6",
+                      "ideas": {
+                        "1": {
+                          "title": "ok",
+                          "id": "187.8b33.e642ca4ec-7d17.85612bde6"
+                        }
+                      }
                     },
                     "2": {
                       "title": "editar info",
-                      "id": "184.8b33.e642ca4ec-7d17.85612bde6"
+                      "id": "184.8b33.e642ca4ec-7d17.85612bde6",
+                      "ideas": {
+                        "1": {
+                          "title": "ok",
+                          "id": "186.8b33.e642ca4ec-7d17.85612bde6"
+                        }
+                      }
                     }
                   },
                   "attr": {
