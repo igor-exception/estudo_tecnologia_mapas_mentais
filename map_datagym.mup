@@ -1421,7 +1421,13 @@
                     },
                     "3": {
                       "title": "show",
-                      "id": "203.36af.1c9950b95-b22a.7fb50e72b"
+                      "id": "203.36af.1c9950b95-b22a.7fb50e72b",
+                      "ideas": {
+                        "1": {
+                          "title": "ok",
+                          "id": "214.36af.1c9950b95-b22a.7fb50e72b"
+                        }
+                      }
                     },
                     "4": {
                       "title": "delete",
