@@ -1320,6 +1320,80 @@
               18
             ]
           }
+        },
+        "68.5": {
+          "title": "19/02/2023",
+          "ideas": {
+            "1": {
+              "title": "Página Exercises",
+              "attr": {
+                "position": [
+                  137.272705078125,
+                  7.28411865234375,
+                  1
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "Testes",
+                  "attr": {
+                    "style": {
+                      "width": 38
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "mostrar info",
+                      "ideas": {
+                        "1": {
+                          "title": "ok",
+                          "id": "193.36af.1c9950b95-b22a.7fb50e72b"
+                        }
+                      },
+                      "id": "192.36af.1c9950b95-b22a.7fb50e72b"
+                    },
+                    "2": {
+                      "title": "editar info",
+                      "ideas": {
+                        "1": {
+                          "title": "ok",
+                          "id": "195.36af.1c9950b95-b22a.7fb50e72b"
+                        }
+                      },
+                      "id": "194.36af.1c9950b95-b22a.7fb50e72b"
+                    }
+                  },
+                  "id": "191.36af.1c9950b95-b22a.7fb50e72b"
+                },
+                "2": {
+                  "title": "remover do banco",
+                  "attr": {
+                    "position": [
+                      135.35791015625,
+                      225.71026611328125,
+                      1
+                    ]
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "ok",
+                      "id": "197.36af.1c9950b95-b22a.7fb50e72b"
+                    }
+                  },
+                  "id": "196.36af.1c9950b95-b22a.7fb50e72b"
+                }
+              },
+              "id": "190.36af.1c9950b95-b22a.7fb50e72b"
+            }
+          },
+          "id": "189.36af.1c9950b95-b22a.7fb50e72b",
+          "attr": {
+            "position": [
+              203.26708984375,
+              510.8123960494995,
+              19
+            ]
+          }
         }
       }
     }
