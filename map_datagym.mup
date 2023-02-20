@@ -285,6 +285,28 @@
                   }
                 }
               }
+            },
+            "2": {
+              "title": "Tive alguns insights durante o código.",
+              "id": "207.36af.1c9950b95-b22a.7fb50e72b",
+              "ideas": {
+                "1": {
+                  "title": "Testes",
+                  "id": "208.36af.1c9950b95-b22a.7fb50e72b",
+                  "ideas": {
+                    "1": {
+                      "title": "Fazer uma tabela com o que precisa ser testado, pois é dificil de lembrar.",
+                      "id": "209.36af.1c9950b95-b22a.7fb50e72b",
+                      "ideas": {
+                        "1": {
+                          "title": "Aconteceram algumas vezes de enquanto testava outra funcionalidade, percebi que não tinha feito determinado teste de uma funcionalidade anterior",
+                          "id": "210.36af.1c9950b95-b22a.7fb50e72b"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
             }
           }
         },
