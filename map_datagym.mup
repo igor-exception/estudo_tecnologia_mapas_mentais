@@ -1356,8 +1356,26 @@
                   "id": "199.36af.1c9950b95-b22a.7fb50e72b",
                   "ideas": {
                     "1": {
-                      "title": "",
-                      "id": "200.36af.1c9950b95-b22a.7fb50e72b"
+                      "title": "create",
+                      "id": "200.36af.1c9950b95-b22a.7fb50e72b",
+                      "ideas": {
+                        "1": {
+                          "title": "ok",
+                          "id": "201.36af.1c9950b95-b22a.7fb50e72b"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "edit",
+                      "id": "202.36af.1c9950b95-b22a.7fb50e72b"
+                    },
+                    "3": {
+                      "title": "show",
+                      "id": "203.36af.1c9950b95-b22a.7fb50e72b"
+                    },
+                    "4": {
+                      "title": "delete",
+                      "id": "204.36af.1c9950b95-b22a.7fb50e72b"
                     }
                   }
                 }
