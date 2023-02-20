@@ -1403,7 +1403,17 @@
                           "ideas": {
                             "1": {
                               "title": "Talvez o ideal seja criar um método validador e chama-lo na adição e edição, pra não repetir código",
-                              "id": "206.36af.1c9950b95-b22a.7fb50e72b"
+                              "id": "206.36af.1c9950b95-b22a.7fb50e72b",
+                              "ideas": {
+                                "1": {
+                                  "title": "feito!",
+                                  "id": "213.36af.1c9950b95-b22a.7fb50e72b"
+                                }
+                              }
+                            },
+                            "2": {
+                              "title": "ok",
+                              "id": "212.36af.1c9950b95-b22a.7fb50e72b"
                             }
                           }
                         }
