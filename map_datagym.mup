@@ -1488,6 +1488,10 @@
             "2": {
               "title": "Criar testes da página Profile",
               "id": "219.36af.1c9950b95-b22a.7fb50e72b"
+            },
+            "3": {
+              "title": "Percebi que usarei muitos filtros em comum, talvez ideal seja criar um validador específico.",
+              "id": "220.36af.1c9950b95-b22a.7fb50e72b"
             }
           }
         }
