@@ -466,6 +466,12 @@
                           "textAlign": "left",
                           "width": 294
                         }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "add coluna",
+                          "id": "112.d2af.0cb41ed25-173e.ba8253717"
+                        }
                       }
                     },
                     "2": {
@@ -475,6 +481,22 @@
                         "style": {
                           "textAlign": "left",
                           "width": 305
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "remove coluna",
+                          "id": "113.d2af.0cb41ed25-173e.ba8253717"
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "ALTER TABLE exercises MODIFY description TEXT",
+                      "id": "111.d2af.0cb41ed25-173e.ba8253717",
+                      "ideas": {
+                        "1": {
+                          "title": "altera tipo coluna",
+                          "id": "114.d2af.0cb41ed25-173e.ba8253717"
                         }
                       }
                     }
