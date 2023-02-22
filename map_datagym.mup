@@ -1528,7 +1528,13 @@
               "ideas": {
                 "1": {
                   "title": "permitir alterar apenas nome e senha.",
-                  "id": "227.cdf7.05f715412-6d68.81679d07"
+                  "id": "227.cdf7.05f715412-6d68.81679d07",
+                  "ideas": {
+                    "1": {
+                      "title": "ok",
+                      "id": "230.cdf7.05f715412-6d68.81679d07"
+                    }
+                  }
                 }
               },
               "attr": {}
@@ -1549,6 +1555,22 @@
                   "attr": {
                     "style": {
                       "backgroundColor": "#FFFF99"
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "criar testes do profile",
+              "id": "231.cdf7.05f715412-6d68.81679d07",
+              "ideas": {
+                "1": {
+                  "title": "dificuldade:",
+                  "id": "232.cdf7.05f715412-6d68.81679d07",
+                  "ideas": {
+                    "1": {
+                      "title": "tenho um método que recebe dados de um método estático, como fazer mock?",
+                      "id": "233.cdf7.05f715412-6d68.81679d07"
                     }
                   }
                 }
