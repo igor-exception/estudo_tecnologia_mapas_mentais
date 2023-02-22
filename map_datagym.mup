@@ -260,6 +260,9 @@
                 }
               }
             }
+          },
+          "attr": {
+            "collapsed": true
           }
         },
         "4": {
@@ -696,6 +699,9 @@
                 "collapsed": true
               }
             }
+          },
+          "attr": {
+            "collapsed": true
           }
         }
       }
@@ -1654,7 +1660,13 @@
                 },
                 "2": {
                   "title": "pesquisar sobre algumas boas práticas e uso de metodos estaticos, e refatorar classes",
-                  "id": "242.cdf7.05f715412-6d68.81679d07"
+                  "id": "242.cdf7.05f715412-6d68.81679d07",
+                  "ideas": {
+                    "1": {
+                      "title": "Decidi que irei refatorar o código tentando deixar o código mais parecido com um ORM, onde as classes herdarão de Database e evitar usar metodos privados, Poderei usar injeção de dependência para helpers que podem ser usandos em diversos lugares",
+                      "id": "243.0c03.ab6afdc86-ca93.13759770e"
+                    }
+                  }
                 }
               }
             }
