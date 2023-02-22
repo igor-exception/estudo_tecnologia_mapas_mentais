@@ -1508,16 +1508,6 @@
             "2": {
               "title": "Criar testes da página Profile",
               "id": "219.36af.1c9950b95-b22a.7fb50e72b"
-            },
-            "3": {
-              "title": "Percebi que usarei muitos filtros em comum, talvez ideal seja criar um validador específico.",
-              "id": "220.36af.1c9950b95-b22a.7fb50e72b",
-              "ideas": {
-                "1": {
-                  "title": "ex: validateId em profile e exercise",
-                  "id": "221.36af.1c9950b95-b22a.7fb50e72b"
-                }
-              }
             }
           }
         },
@@ -1542,6 +1532,27 @@
                 }
               },
               "attr": {}
+            },
+            "3": {
+              "title": "refatorar",
+              "id": "228.cdf7.05f715412-6d68.81679d07",
+              "ideas": {
+                "1": {
+                  "title": "Percebi que usarei muitos filtros em comum, talvez ideal seja criar um validador específico.",
+                  "id": "220.36af.1c9950b95-b22a.7fb50e72b",
+                  "ideas": {
+                    "1": {
+                      "title": "ex: validateId em profile e exercise",
+                      "id": "221.36af.1c9950b95-b22a.7fb50e72b"
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFFF99"
+                    }
+                  }
+                }
+              }
             }
           }
         }
