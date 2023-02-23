@@ -7,40 +7,20 @@
       "id": 1,
       "ideas": {
         "1": {
-          "title": "b",
-          "id": "4.3679.922071b86-4d5c.b0ce6355d",
+          "title": "",
+          "id": "6.3679.922071b86-4d5c.b0ce6355d",
           "attr": {
             "parentConnector": {
-              "color": "#ff9900",
-              "themeAutoColor": "#ff9900"
-            }
-          }
-        },
-        "2": {
-          "title": "c",
-          "id": "5.3679.922071b86-4d5c.b0ce6355d",
-          "attr": {
-            "parentConnector": {
-              "color": "#ffdf55",
-              "themeAutoColor": "#ffdf55"
-            }
-          }
-        },
-        "-1": {
-          "title": "a",
-          "id": "3.3679.922071b86-4d5c.b0ce6355d",
-          "attr": {
-            "parentConnector": {
-              "color": "#86C0EA",
-              "themeAutoColor": "#86C0EA"
+              "color": "#00534e",
+              "themeAutoColor": "#00534e"
             }
           }
         }
       },
       "attr": {
         "position": [
-          -47,
-          -47,
+          -57,
+          -187,
           1
         ],
         "parentConnector": {
