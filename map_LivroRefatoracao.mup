@@ -34,18 +34,19 @@
           }
         },
         "2": {
-          "title": "Quando pegamos um código para refatorar, é importante passar o olho no código para identificar possíveis separações de código, por ter comportamentos que podem, de fato, serem separados.",
-          "id": "11.3679.922071b86-4d5c.b0ce6355d",
+          "title": "Controle de versão",
+          "id": "15.3679.922071b86-4d5c.b0ce6355d",
           "attr": {
             "parentConnector": {
-              "color": "#ffdf55",
-              "themeAutoColor": "#ffdf55"
-            },
-            "position": [
-              210.991455078125,
-              25.005706787109375,
-              3
-            ]
+              "color": "#810000",
+              "themeAutoColor": "#810000"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "",
+              "id": "16.3679.922071b86-4d5c.b0ce6355d"
+            }
           }
         },
         "-10": {
@@ -66,6 +67,55 @@
             "1": {
               "title": "Livro Refatoração, autor: Martin Fowler, 2.a Edição",
               "id": "7.3679.922071b86-4d5c.b0ce6355d"
+            }
+          }
+        },
+        "-11": {
+          "title": "Identificação",
+          "id": "12.3679.922071b86-4d5c.b0ce6355d",
+          "attr": {
+            "parentConnector": {
+              "color": "#0088b2",
+              "themeAutoColor": "#0088b2"
+            },
+            "position": [
+              244.9886474609375,
+              75.00283813476562,
+              3
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Quando pegamos um código para refatorar, é importante passar o olho no código para identificar possíveis separações de código, por ter comportamentos que podem, de fato, serem separados.",
+              "id": "11.3679.922071b86-4d5c.b0ce6355d"
+            }
+          }
+        },
+        "-21": {
+          "title": "Testes",
+          "id": "13.3679.922071b86-4d5c.b0ce6355d",
+          "attr": {
+            "parentConnector": {
+              "color": "#0088b2",
+              "themeAutoColor": "#0088b2"
+            },
+            "position": [
+              246.98297119140625,
+              160.0198974609375,
+              4
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "É importante que o código tenha testes, para garantir o funcionamento do código a cada alteração.\nÉ muito fácil se equivocar no entendimento de um código, os testes garantirão a cobertura necessária para que nos dê tranquilidade para refatoração sem medo de quebrar o código.\nCada alteração feita, é necessário rodar os testes. Caso contrário, se fizermos muitas alterações e depois rodar os testes e falhar, gastaremos muito tempo achando o que deu errado.",
+              "id": "14.3679.922071b86-4d5c.b0ce6355d",
+              "attr": {
+                "position": [
+                  132.9800901412964,
+                  53.00567626953125,
+                  1
+                ]
+              }
             }
           }
         }
