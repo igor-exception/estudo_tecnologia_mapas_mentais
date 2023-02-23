@@ -44,7 +44,7 @@
           },
           "ideas": {
             "1": {
-              "title": "",
+              "title": "Versionamento é essencial, cada comportamento refatorado e testado, podemos fazer commits privados..\nCaso num futuro precisarmos voltar, será simples.",
               "id": "16.3679.922071b86-4d5c.b0ce6355d"
             }
           }
