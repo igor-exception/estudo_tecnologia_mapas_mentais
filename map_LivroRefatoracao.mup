@@ -7,12 +7,45 @@
       "id": 1,
       "ideas": {
         "1": {
-          "title": "",
+          "title": "Motivo de ler o livro",
+          "id": "8.3679.922071b86-4d5c.b0ce6355d",
+          "attr": {
+            "parentConnector": {
+              "color": "#ff9900",
+              "themeAutoColor": "#ff9900"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Estou fazendo o projeto: Datagym, como estou fazendo usando PHP sem framework, para consolidar conhecimento, cheguei a um ponto que acredito que posso refatorar muito código, pois já percebi alguns códigos duplicados.",
+              "id": "9.3679.922071b86-4d5c.b0ce6355d",
+              "ideas": {
+                "1": {
+                  "title": "",
+                  "id": "10.3679.922071b86-4d5c.b0ce6355d"
+                }
+              }
+            }
+          }
+        },
+        "-10": {
+          "title": "Info",
           "id": "6.3679.922071b86-4d5c.b0ce6355d",
           "attr": {
             "parentConnector": {
               "color": "#00534e",
               "themeAutoColor": "#00534e"
+            },
+            "position": [
+              255.00852298736572,
+              -126.99429321289062,
+              1
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Livro Refatoração, autor: Martin Fowler, 2.a Edição",
+              "id": "7.3679.922071b86-4d5c.b0ce6355d"
             }
           }
         }
