@@ -1,0 +1,38 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Livro Refatoração",
+      "id": 1,
+      "ideas": {
+        "-1": {
+          "title": "a",
+          "id": "3.3679.922071b86-4d5c.b0ce6355d",
+          "attr": {
+            "parentConnector": {
+              "color": "#86C0EA",
+              "themeAutoColor": "#86C0EA"
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          -47,
+          -47,
+          1
+        ],
+        "parentConnector": {
+          "color": "#00534e",
+          "themeAutoColor": "#00534e"
+        }
+      }
+    }
+  },
+  "attr": {
+    "theme": "productivity"
+  },
+  "title": "",
+  "links": []
+}
