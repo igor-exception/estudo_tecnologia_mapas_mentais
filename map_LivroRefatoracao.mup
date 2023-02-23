@@ -13,7 +13,12 @@
             "parentConnector": {
               "color": "#ff9900",
               "themeAutoColor": "#ff9900"
-            }
+            },
+            "position": [
+              211.991455078125,
+              -118.99429321289062,
+              2
+            ]
           },
           "ideas": {
             "1": {
@@ -21,11 +26,26 @@
               "id": "9.3679.922071b86-4d5c.b0ce6355d",
               "ideas": {
                 "1": {
-                  "title": "",
+                  "title": "Neste caso, senti necessidade de uma base mais sólida, para pegar alguns conceitos para amparar minhas deciões. Talvez conseguir alguns insights de como fazer as coisas de uma melhor forma.",
                   "id": "10.3679.922071b86-4d5c.b0ce6355d"
                 }
               }
             }
+          }
+        },
+        "2": {
+          "title": "Quando pegamos um código para refatorar, é importante passar o olho no código para identificar possíveis separações de código, por ter comportamentos que podem, de fato, serem separados.",
+          "id": "11.3679.922071b86-4d5c.b0ce6355d",
+          "attr": {
+            "parentConnector": {
+              "color": "#ffdf55",
+              "themeAutoColor": "#ffdf55"
+            },
+            "position": [
+              210.991455078125,
+              25.005706787109375,
+              3
+            ]
           }
         },
         "-10": {
