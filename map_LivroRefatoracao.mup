@@ -110,6 +110,14 @@
                 }
               }
             }
+          },
+          "attr": {
+            "style": {
+              "backgroundColor": "#a0115f",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
           }
         }
       },
