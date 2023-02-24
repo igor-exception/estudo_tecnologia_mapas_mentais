@@ -97,8 +97,14 @@
           }
         },
         "-41": {
-          "title": "",
-          "id": "20.587f.c5d7b0c21-df44.cc31fb2eb"
+          "title": "Conjunto de refatorações",
+          "id": "20.587f.c5d7b0c21-df44.cc31fb2eb",
+          "ideas": {
+            "1": {
+              "title": "",
+              "id": "23.587f.c5d7b0c21-df44.cc31fb2eb"
+            }
+          }
         }
       },
       "attr": {
