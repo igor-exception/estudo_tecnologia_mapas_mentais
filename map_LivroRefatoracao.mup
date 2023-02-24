@@ -103,7 +103,12 @@
             "1": {
               "title": "1- Extrair função (Extract Function)",
               "id": "23.587f.c5d7b0c21-df44.cc31fb2eb",
-              "ideas": {}
+              "ideas": {
+                "1": {
+                  "title": "É o ato de mover um pedaço de código que tem um comportamento para dentro de uma função específica",
+                  "id": "28.587f.c5d7b0c21-df44.cc31fb2eb"
+                }
+              }
             }
           }
         }
