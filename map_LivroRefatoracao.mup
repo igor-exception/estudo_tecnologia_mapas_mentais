@@ -10,10 +10,6 @@
           "title": "Motivo de ler o livro",
           "id": "8.3679.922071b86-4d5c.b0ce6355d",
           "attr": {
-            "parentConnector": {
-              "color": "#ff9900",
-              "themeAutoColor": "#ff9900"
-            },
             "position": [
               211.991455078125,
               -118.99429321289062,
@@ -33,40 +29,10 @@
             }
           }
         },
-        "2": {
-          "title": "Controle de versão",
-          "id": "15.3679.922071b86-4d5c.b0ce6355d",
-          "attr": {
-            "parentConnector": {
-              "color": "#810000",
-              "themeAutoColor": "#810000"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Versionamento é essencial, cada comportamento refatorado e testado, podemos fazer commits privados..\nCaso num futuro precisarmos voltar, será simples.",
-              "id": "16.3679.922071b86-4d5c.b0ce6355d"
-            }
-          }
-        },
-        "3": {
-          "title": "",
-          "id": "17.587f.c5d7b0c21-df44.cc31fb2eb",
-          "attr": {
-            "parentConnector": {
-              "color": "#86C0EA",
-              "themeAutoColor": "#86C0EA"
-            }
-          }
-        },
         "-10": {
           "title": "Info",
           "id": "6.3679.922071b86-4d5c.b0ce6355d",
           "attr": {
-            "parentConnector": {
-              "color": "#00534e",
-              "themeAutoColor": "#00534e"
-            },
             "position": [
               255.00852298736572,
               -126.99429321289062,
@@ -80,51 +46,52 @@
             }
           }
         },
-        "-11": {
-          "title": "Identificação",
-          "id": "12.3679.922071b86-4d5c.b0ce6355d",
+        "-31": {
+          "title": "Conceitos necessários antes de refatorar",
+          "id": "17.587f.c5d7b0c21-df44.cc31fb2eb",
           "attr": {
-            "parentConnector": {
-              "color": "#0088b2",
-              "themeAutoColor": "#0088b2"
-            },
             "position": [
-              244.9886474609375,
-              75.00283813476562,
+              234.974383354187,
+              107.99432754516602,
               3
             ]
           },
           "ideas": {
             "1": {
-              "title": "Quando pegamos um código para refatorar, é importante passar o olho no código para identificar possíveis separações de código, por ter comportamentos que podem, de fato, serem separados.",
-              "id": "11.3679.922071b86-4d5c.b0ce6355d"
-            }
-          }
-        },
-        "-21": {
-          "title": "Testes",
-          "id": "13.3679.922071b86-4d5c.b0ce6355d",
-          "attr": {
-            "parentConnector": {
-              "color": "#0088b2",
-              "themeAutoColor": "#0088b2"
+              "title": "Controle de versão",
+              "id": "15.3679.922071b86-4d5c.b0ce6355d",
+              "ideas": {
+                "1": {
+                  "title": "Versionamento é essencial, cada comportamento refatorado e testado, podemos fazer commits privados..\nCaso num futuro precisarmos voltar, será simples.",
+                  "id": "16.3679.922071b86-4d5c.b0ce6355d"
+                }
+              }
             },
-            "position": [
-              246.98297119140625,
-              160.0198974609375,
-              4
-            ]
-          },
-          "ideas": {
-            "1": {
-              "title": "É importante que o código tenha testes, para garantir o funcionamento do código a cada alteração.\nÉ muito fácil se equivocar no entendimento de um código, os testes garantirão a cobertura necessária para que nos dê tranquilidade para refatoração sem medo de quebrar o código.\nCada alteração feita, é necessário rodar os testes. Caso contrário, se fizermos muitas alterações e depois rodar os testes e falhar, gastaremos muito tempo achando o que deu errado.",
-              "id": "14.3679.922071b86-4d5c.b0ce6355d",
-              "attr": {
-                "position": [
-                  132.9800901412964,
-                  53.00567626953125,
-                  1
-                ]
+            "2": {
+              "title": "Testes",
+              "id": "13.3679.922071b86-4d5c.b0ce6355d",
+              "ideas": {
+                "1": {
+                  "title": "É importante que o código tenha testes, para garantir o funcionamento do código a cada alteração.\nÉ muito fácil se equivocar no entendimento de um código, os testes garantirão a cobertura necessária para que nos dê tranquilidade para refatoração sem medo de quebrar o código.\nCada alteração feita, é necessário rodar os testes. Caso contrário, se fizermos muitas alterações e depois rodar os testes e falhar, gastaremos muito tempo achando o que deu errado.",
+                  "id": "14.3679.922071b86-4d5c.b0ce6355d",
+                  "attr": {
+                    "position": [
+                      132.9800901412964,
+                      53.00567626953125,
+                      1
+                    ]
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "Identificação",
+              "id": "12.3679.922071b86-4d5c.b0ce6355d",
+              "ideas": {
+                "1": {
+                  "title": "Quando pegamos um código para refatorar, é importante passar o olho no código para identificar possíveis separações de código, por ter comportamentos que podem, de fato, serem separados.",
+                  "id": "11.3679.922071b86-4d5c.b0ce6355d"
+                }
               }
             }
           }
@@ -135,16 +102,12 @@
           -57,
           -187,
           1
-        ],
-        "parentConnector": {
-          "color": "#00534e",
-          "themeAutoColor": "#00534e"
-        }
+        ]
       }
     }
   },
   "attr": {
-    "theme": "productivity"
+    "theme": "topdownStandard"
   },
   "title": "",
   "links": []
