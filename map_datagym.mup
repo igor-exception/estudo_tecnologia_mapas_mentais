@@ -1714,7 +1714,13 @@
                 },
                 "2": {
                   "title": "Validators para exercise.php",
-                  "id": "256.a9fb.00caa85bb-f970.809ea2372"
+                  "id": "256.a9fb.00caa85bb-f970.809ea2372",
+                  "ideas": {
+                    "1": {
+                      "title": "ok",
+                      "id": "257.a9fb.00caa85bb-f970.809ea2372"
+                    }
+                  }
                 },
                 "0.5": {
                   "title": "Percebi que alguns testes que estava fazendo, testava a criacao do objeto como um todo. Mas preciso testar a menor parte(unidade). Neste caso, ao invés de testar a instancia do objeto passando nome válido ou invalido, devo testar o metodo que valida o nome, assim como email, etc...",
@@ -1759,7 +1765,13 @@
               "ideas": {
                 "1": {
                   "title": "desenhar algumas telas",
-                  "id": "254.a9fb.00caa85bb-f970.809ea2372"
+                  "id": "254.a9fb.00caa85bb-f970.809ea2372",
+                  "ideas": {
+                    "1": {
+                      "title": "ok",
+                      "id": "258.a9fb.00caa85bb-f970.809ea2372"
+                    }
+                  }
                 },
                 "2": {
                   "title": "terei que mudar a tabela Exercises, para vincular o user_id. Pois cada usuário poderá cadastrar seus exercícios, eles não serao compartilhados",
