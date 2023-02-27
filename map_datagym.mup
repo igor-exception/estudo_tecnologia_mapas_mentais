@@ -1748,8 +1748,18 @@
                   "id": "254.a9fb.00caa85bb-f970.809ea2372"
                 },
                 "2": {
-                  "title": "",
-                  "id": "255.a9fb.00caa85bb-f970.809ea2372"
+                  "title": "terei que mudar a tabela Exercises, para vincular o user_id. Pois cada usuário poderá cadastrar seus exercícios, eles não serao compartilhados",
+                  "id": "255.a9fb.00caa85bb-f970.809ea2372",
+                  "attr": {
+                    "position": [
+                      148.04269409179688,
+                      33.99174213409401,
+                      1
+                    ],
+                    "style": {
+                      "backgroundColor": "#FF0000"
+                    }
+                  }
                 }
               }
             }
