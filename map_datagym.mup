@@ -1686,7 +1686,26 @@
           "ideas": {
             "1": {
               "title": "Arrumar os validators",
-              "id": "245.a9fb.00caa85bb-f970.809ea2372"
+              "id": "245.a9fb.00caa85bb-f970.809ea2372",
+              "attr": {
+                "position": [
+                  134.03976440429688,
+                  -10.142059326171875,
+                  1
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "Email",
+                  "id": "246.a9fb.00caa85bb-f970.809ea2372",
+                  "ideas": {
+                    "1": {
+                      "title": "Para validar email, preciso saber se email ja existe. Neste caso, crio um validador específico?",
+                      "id": "247.a9fb.00caa85bb-f970.809ea2372"
+                    }
+                  }
+                }
+              }
             }
           }
         }
