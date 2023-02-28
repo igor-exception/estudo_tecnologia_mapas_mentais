@@ -1812,9 +1812,9 @@
               "id": "261.7f5a.d15766c96-5b01.001ee7acd",
               "attr": {
                 "position": [
-                  163.0340576171875,
-                  135.65356826782227,
-                  1
+                  174.1817626953125,
+                  -55.72433090209961,
+                  5
                 ]
               }
             },
@@ -1823,10 +1823,16 @@
               "id": "262.7f5a.d15766c96-5b01.001ee7acd",
               "attr": {
                 "position": [
-                  147.0340576171875,
-                  12.30411148071289,
-                  2
+                  185.07666015625,
+                  -102.03960800170898,
+                  4
                 ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "ok",
+                  "id": "269.7f5a.d15766c96-5b01.001ee7acd"
+                }
               }
             }
           }
@@ -1858,10 +1864,14 @@
                       "id": "266.7f5a.d15766c96-5b01.001ee7acd"
                     },
                     "2": {
-                      "title": "",
+                      "title": "testar comportamento do método, onde o metodo valida um ID, faz trim e remove sql_injection. Testar também estas possibilidades",
                       "id": "267.7f5a.d15766c96-5b01.001ee7acd"
                     }
                   }
+                },
+                "2": {
+                  "title": "Testar validations",
+                  "id": "268.7f5a.d15766c96-5b01.001ee7acd"
                 }
               }
             }
