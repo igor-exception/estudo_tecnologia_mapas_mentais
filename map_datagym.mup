@@ -1809,7 +1809,25 @@
           "ideas": {
             "1": {
               "title": "Adicionar id_user na tabela exercise",
-              "id": "261.7f5a.d15766c96-5b01.001ee7acd"
+              "id": "261.7f5a.d15766c96-5b01.001ee7acd",
+              "attr": {
+                "position": [
+                  163.0340576171875,
+                  135.65356826782227,
+                  1
+                ]
+              }
+            },
+            "0.5": {
+              "title": "Refatorar ExerciseTest",
+              "id": "262.7f5a.d15766c96-5b01.001ee7acd",
+              "attr": {
+                "position": [
+                  147.0340576171875,
+                  12.30411148071289,
+                  2
+                ]
+              }
             }
           }
         }
