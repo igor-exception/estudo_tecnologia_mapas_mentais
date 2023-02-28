@@ -1830,6 +1830,26 @@
               }
             }
           }
+        },
+        "118.5": {
+          "title": "Ajustes importantes",
+          "id": "263.7f5a.d15766c96-5b01.001ee7acd",
+          "attr": {
+            "position": [
+              13.042495727539062,
+              984.9799413681033,
+              26
+            ],
+            "style": {
+              "fontMultiplier": 1.75
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "",
+              "id": "264.7f5a.d15766c96-5b01.001ee7acd"
+            }
+          }
         }
       }
     }
