@@ -1818,6 +1818,10 @@
                 ]
               }
             },
+            "2": {
+              "title": "testar metodos statics da classe exercise",
+              "id": "271.7f5a.d15766c96-5b01.001ee7acd"
+            },
             "0.5": {
               "title": "Refatorar ExerciseTest",
               "id": "262.7f5a.d15766c96-5b01.001ee7acd",
