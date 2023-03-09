@@ -308,6 +308,35 @@
             "collapsed": true
           }
         },
+        "41": {
+          "title": "Design Patterns",
+          "id": "651.cc68.84c936557-5d43.e41e9767",
+          "ideas": {
+            "1": {
+              "title": "https://gist.github.com/igor-exception/15940b5472d8e79bda885cb193a8a75d",
+              "id": "652.cc68.84c936557-5d43.e41e9767"
+            }
+          },
+          "attr": {
+            "position": [
+              15.329635620117188,
+              811.085262298584,
+              41
+            ],
+            "parentConnector": {
+              "lineStyle": "dashed",
+              "width": 11,
+              "color": "#FF0000"
+            },
+            "style": {
+              "backgroundColor": "#FFFF00",
+              "text": {
+                "color": "#FF0000"
+              },
+              "fontMultiplier": 2.25
+            }
+          }
+        },
         "-1": {
           "title": "Comandos de Saída",
           "id": "30.cd29.57ac7f1ea-975c.464c88df",
