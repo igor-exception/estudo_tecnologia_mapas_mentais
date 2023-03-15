@@ -13,6 +13,10 @@
         ],
         "style": {
           "fontMultiplier": 3.25
+        },
+        "parentConnector": {
+          "color": "#00534e",
+          "themeAutoColor": "#00534e"
         }
       },
       "ideas": {
@@ -48,7 +52,11 @@
               258,
               -36,
               19
-            ]
+            ],
+            "parentConnector": {
+              "color": "#00534e",
+              "themeAutoColor": "#00534e"
+            }
           }
         },
         "11": {
@@ -63,6 +71,12 @@
               "title": "Do jeito certo: http://br.phptherightway.com/#site-header",
               "id": "429.4877.2b1eeeb61-3bc6.5dc37c9c6"
             }
+          },
+          "attr": {
+            "parentConnector": {
+              "color": "#ff9900",
+              "themeAutoColor": "#ff9900"
+            }
           }
         },
         "21": {
@@ -74,7 +88,11 @@
               249.2101593017578,
               40
             ],
-            "collapsed": true
+            "collapsed": true,
+            "parentConnector": {
+              "color": "#ffdf55",
+              "themeAutoColor": "#ffdf55"
+            }
           },
           "ideas": {
             "1": {
@@ -277,7 +295,11 @@
               341.18458557128906,
               38
             ],
-            "collapsed": true
+            "collapsed": true,
+            "parentConnector": {
+              "color": "#0088b2",
+              "themeAutoColor": "#0088b2"
+            }
           }
         },
         "31": {
@@ -305,7 +327,11 @@
               463.19313049316406,
               39
             ],
-            "collapsed": true
+            "collapsed": true,
+            "parentConnector": {
+              "color": "#810000",
+              "themeAutoColor": "#810000"
+            }
           }
         },
         "41": {
@@ -324,9 +350,10 @@
               41
             ],
             "parentConnector": {
+              "color": "#FF0000",
+              "themeAutoColor": "#86C0EA",
               "lineStyle": "dashed",
-              "width": 11,
-              "color": "#FF0000"
+              "width": 11
             },
             "style": {
               "backgroundColor": "#FFFF00",
@@ -346,7 +373,11 @@
               -266.9687957763672,
               26
             ],
-            "collapsed": true
+            "collapsed": true,
+            "parentConnector": {
+              "color": "#9C006B",
+              "themeAutoColor": "#9C006B"
+            }
           },
           "ideas": {
             "1": {
@@ -468,7 +499,11 @@
               217.9942626953125,
               -189.96881103515625,
               25
-            ]
+            ],
+            "parentConnector": {
+              "color": "#95B90B",
+              "themeAutoColor": "#95B90B"
+            }
           }
         },
         "-10.5": {
@@ -2226,9 +2261,6 @@
                         "collapsed": true
                       }
                     }
-                  },
-                  "attr": {
-                    "collapsed": true
                   }
                 },
                 "3": {
@@ -2508,8 +2540,7 @@
               "attr": {
                 "parentConnector": {
                   "width": 6
-                },
-                "collapsed": true
+                }
               }
             },
             "7": {
@@ -4377,7 +4408,11 @@
               238.98577880859375,
               341.03407287597656,
               22
-            ]
+            ],
+            "parentConnector": {
+              "color": "#0457A8",
+              "themeAutoColor": "#0457A8"
+            }
           }
         },
         "-9.75": {
@@ -4391,6 +4426,10 @@
             ],
             "style": {
               "width": 146
+            },
+            "parentConnector": {
+              "color": "#EE9DC3",
+              "themeAutoColor": "#EE9DC3"
             }
           },
           "ideas": {
@@ -4404,7 +4443,7 @@
     }
   },
   "attr": {
-    "theme": "default"
+    "theme": "productivity"
   },
   "title": "",
   "links": []
