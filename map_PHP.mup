@@ -2260,6 +2260,17 @@
                       "attr": {
                         "collapsed": true
                       }
+                    },
+                    "0.5": {
+                      "title": "Info",
+                      "id": "653.aa1b.d678f73df-5a68.9a31c933d",
+                      "attr": {},
+                      "ideas": {
+                        "1": {
+                          "title": "",
+                          "id": "654.aa1b.d678f73df-5a68.9a31c933d"
+                        }
+                      }
                     }
                   }
                 },
