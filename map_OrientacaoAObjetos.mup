@@ -47,11 +47,14 @@
             },
             "2": {
               "title": "Procedural os atributos e comportamentos estão normalmente separados",
-              "id": "12.56a6.db03370d3-564d.29a4b1e0a"
+              "id": "12.56a6.db03370d3-564d.29a4b1e0a",
+              "ideas": {
+                "1": {
+                  "title": "Em programação procedural, posso facilmente alterar valor de uma variavel, ex: saldo. Em OO, tudo fica amarrado, liberando acesso apenas ao que preciso ter acesso",
+                  "id": "221.9f2b.ba9fab188-b804.640f38e1c"
+                }
+              }
             }
-          },
-          "attr": {
-            "collapsed": true
           }
         },
         "3": {
@@ -1391,7 +1394,7 @@
     }
   },
   "attr": {
-    "theme": "default"
+    "theme": "topdownStandard"
   },
   "title": "",
   "links": []
