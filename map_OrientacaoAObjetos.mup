@@ -801,7 +801,7 @@
           "id": "30.56a6.db03370d3-564d.29a4b1e0a",
           "ideas": {
             "1": {
-              "title": "Suportam o conceiroo de 'data hiding'. Servem para fornecer uma forma específica e padronizada de Inserir e Pegar informações",
+              "title": "Suportam o conceito de 'data hiding'. Servem para fornecer uma forma específica e padronizada de Inserir e Pegar informações",
               "id": "31.56a6.db03370d3-564d.29a4b1e0a"
             }
           },
@@ -810,8 +810,7 @@
               169.9943618774414,
               -15.977298736572266,
               5
-            ],
-            "collapsed": true
+            ]
           }
         },
         "-13": {
@@ -822,8 +821,7 @@
               187.98583984375,
               121.04827499389648,
               7
-            ],
-            "collapsed": true
+            ]
           },
           "ideas": {
             "1": {
