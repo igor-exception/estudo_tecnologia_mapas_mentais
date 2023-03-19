@@ -19,29 +19,6 @@
         }
       },
       "ideas": {
-        "2": {
-          "title": "Diferença O.O e Procedural",
-          "id": "10.56a6.db03370d3-564d.29a4b1e0a",
-          "ideas": {
-            "1": {
-              "title": "Em O.O os atributos e comportamentos estão em um único objeto.",
-              "id": "11.56a6.db03370d3-564d.29a4b1e0a"
-            },
-            "2": {
-              "title": "Procedural os atributos e comportamentos estão normalmente separados",
-              "id": "12.56a6.db03370d3-564d.29a4b1e0a",
-              "ideas": {
-                "1": {
-                  "title": "Em programação procedural, posso facilmente alterar valor de uma variavel, ex: saldo. Em OO, tudo fica amarrado, liberando acesso apenas ao que preciso ter acesso",
-                  "id": "221.9f2b.ba9fab188-b804.640f38e1c"
-                }
-              }
-            }
-          },
-          "attr": {
-            "collapsed": true
-          }
-        },
         "3": {
           "title": "Conceito de O.O",
           "id": "21.56a6.db03370d3-564d.29a4b1e0a",
@@ -104,7 +81,33 @@
                   }
                 }
               }
+            },
+            "4": {
+              "title": "Diferença O.O e Procedural",
+              "id": "10.56a6.db03370d3-564d.29a4b1e0a",
+              "ideas": {
+                "1": {
+                  "title": "Em O.O os atributos e comportamentos estão em um único objeto.",
+                  "id": "11.56a6.db03370d3-564d.29a4b1e0a"
+                },
+                "2": {
+                  "title": "Procedural os atributos e comportamentos estão normalmente separados",
+                  "id": "12.56a6.db03370d3-564d.29a4b1e0a",
+                  "ideas": {
+                    "1": {
+                      "title": "Em programação procedural, posso facilmente alterar valor de uma variavel, ex: saldo. Em OO, tudo fica amarrado, liberando acesso apenas ao que preciso ter acesso",
+                      "id": "221.9f2b.ba9fab188-b804.640f38e1c"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
             }
+          },
+          "attr": {
+            "collapsed": true
           }
         },
         "5": {
@@ -239,7 +242,8 @@
               142.01992225646973,
               431.8692169189453,
               9
-            ]
+            ],
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -684,7 +688,14 @@
                 }
               }
             }
+          },
+          "attr": {
+            "collapsed": true
           }
+        },
+        "37": {
+          "title": "",
+          "id": "225.95be.7dbaf70b7-36ec.a8910af7a"
         },
         "-11": {
           "title": "Terminologia",
@@ -952,9 +963,6 @@
                     }
                   }
                 }
-              },
-              "attr": {
-                "collapsed": true
               }
             },
             "21": {
@@ -1087,7 +1095,8 @@
               154.98294830322266,
               -112.97446060180664,
               4
-            ]
+            ],
+            "collapsed": true
           }
         },
         "-12": {
@@ -1104,7 +1113,8 @@
               169.9943618774414,
               -15.977298736572266,
               5
-            ]
+            ],
+            "collapsed": true
           }
         },
         "-14": {
@@ -1313,6 +1323,9 @@
               "title": "Escopo é a área de pertencimento de cada parte. Uma classe tem seu escopo, um método tem seu escopo",
               "id": "151.3289.7323c2cf1-7da8.1a19b4a9e"
             }
+          },
+          "attr": {
+            "collapsed": true
           }
         }
       }
