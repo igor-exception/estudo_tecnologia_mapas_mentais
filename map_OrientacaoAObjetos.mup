@@ -182,6 +182,10 @@
                           "width": 186
                         }
                       }
+                    },
+                    "3": {
+                      "title": "",
+                      "id": "280.ad25.76f146fb3-6f5a.eb80380e1"
                     }
                   }
                 }
@@ -212,7 +216,7 @@
                   "id": "276.ad25.76f146fb3-6f5a.eb80380e1"
                 },
                 "2": {
-                  "title": "",
+                  "title": "Herança precisa ser muito bem analisada antes de ser utilizada, pois quebra o encapsulamento, sendo que todos os métodos e propriedades da classe Pai, serão herdadas pelos filhos. E pode ser que em algum momento, uma classe filha não deveria ter este comportamento.",
                   "id": "278.ad25.76f146fb3-6f5a.eb80380e1"
                 }
               }
