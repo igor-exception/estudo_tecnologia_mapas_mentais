@@ -19,72 +19,7 @@
         }
       },
       "ideas": {
-        "37": {
-          "title": "Pilares da Orientação a Objetos",
-          "id": "225.95be.7dbaf70b7-36ec.a8910af7a",
-          "ideas": {
-            "1": {
-              "title": "Abstração",
-              "id": "229.95be.7dbaf70b7-36ec.a8910af7a",
-              "ideas": {
-                "1": {
-                  "title": "É a capacidade de representar um objeto do mundo real. Mas considerando apenas os aspectos relevantes para usar no sistema",
-                  "id": "236.95be.7dbaf70b7-36ec.a8910af7a",
-                  "ideas": {
-                    "1": {
-                      "title": "Ex: em um sistema de gerenciamento de biblioteca, um livro pode ser representado apenas por seu título, autor, número de páginas, editora, ISBN, entre outras características relevantes, sem precisar levar em conta detalhes como o peso, a cor ou o cheiro do livro.",
-                      "id": "238.95be.7dbaf70b7-36ec.a8910af7a",
-                      "attr": {
-                        "style": {
-                          "width": 241
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            },
-            "2": {
-              "title": "Encapsulamento",
-              "id": "231.95be.7dbaf70b7-36ec.a8910af7a",
-              "ideas": {
-                "1": {
-                  "title": "É esconder a implementação interna de um objeto e expor apenas o necessário.",
-                  "id": "240.95be.7dbaf70b7-36ec.a8910af7a",
-                  "ideas": {
-                    "1": {
-                      "title": "EX:  imagine um objeto \"Conta Bancária\" com atributos como saldo, número da conta e senha. Ao encapsular esses atributos, a conta bancária pode expor apenas métodos públicos para depositar, sacar e consultar o saldo, mas ocultando a implementação interna, como a forma como o saldo é armazenado ou a validação da senha para fazer uma operação.",
-                      "id": "242.95be.7dbaf70b7-36ec.a8910af7a",
-                      "attr": {
-                        "style": {
-                          "width": 275
-                        }
-                      }
-                    },
-                    "2": {
-                      "title": "O encapsulamento também permite que um objeto evolua sua implementação interna sem afetar outros objetos que interagem com ele, desde que a interface pública permaneça a mesma. Isso facilita a manutenção e evolução do sistema em que o objeto é utilizado.",
-                      "id": "244.95be.7dbaf70b7-36ec.a8910af7a",
-                      "attr": {
-                        "style": {
-                          "width": 186
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            },
-            "3": {
-              "title": "Herança",
-              "id": "232.95be.7dbaf70b7-36ec.a8910af7a"
-            },
-            "4": {
-              "title": "Polimorfismo",
-              "id": "234.95be.7dbaf70b7-36ec.a8910af7a"
-            }
-          }
-        },
-        "47": {
+        "1": {
           "title": "Outros",
           "id": "227.95be.7dbaf70b7-36ec.a8910af7a",
           "ideas": {
@@ -1373,14 +1308,117 @@
                   "title": "Escopo é a área de pertencimento de cada parte. Uma classe tem seu escopo, um método tem seu escopo",
                   "id": "151.3289.7323c2cf1-7da8.1a19b4a9e"
                 }
-              },
-              "attr": {
-                "collapsed": true
               }
             }
           },
           "attr": {
-            "collapsed": true
+            "style": {
+              "fontMultiplier": 1.25
+            }
+          }
+        },
+        "-1": {
+          "title": "Pilares da Orientação a Objetos",
+          "id": "225.95be.7dbaf70b7-36ec.a8910af7a",
+          "ideas": {
+            "1": {
+              "title": "Abstração",
+              "id": "229.95be.7dbaf70b7-36ec.a8910af7a",
+              "ideas": {
+                "1": {
+                  "title": "É a capacidade de representar um objeto do mundo real. Mas considerando apenas os aspectos relevantes para usar no sistema",
+                  "id": "236.95be.7dbaf70b7-36ec.a8910af7a",
+                  "ideas": {
+                    "1": {
+                      "title": "Ex: em um sistema de gerenciamento de biblioteca, um livro pode ser representado apenas por seu título, autor, número de páginas, editora, ISBN, entre outras características relevantes, sem precisar levar em conta detalhes como o peso, a cor ou o cheiro do livro.",
+                      "id": "238.95be.7dbaf70b7-36ec.a8910af7a",
+                      "attr": {
+                        "style": {
+                          "width": 241
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "parentConnector": {
+                  "width": 11
+                },
+                "style": {
+                  "fontMultiplier": 2.25
+                },
+                "collapsed": true
+              }
+            },
+            "2": {
+              "title": "Encapsulamento",
+              "id": "231.95be.7dbaf70b7-36ec.a8910af7a",
+              "ideas": {
+                "1": {
+                  "title": "É esconder a implementação interna de um objeto e expor apenas o necessário.",
+                  "id": "240.95be.7dbaf70b7-36ec.a8910af7a",
+                  "ideas": {
+                    "1": {
+                      "title": "EX:  imagine um objeto \"Conta Bancária\" com atributos como saldo, número da conta e senha. Ao encapsular esses atributos, a conta bancária pode expor apenas métodos públicos para depositar, sacar e consultar o saldo, mas ocultando a implementação interna, como a forma como o saldo é armazenado ou a validação da senha para fazer uma operação.",
+                      "id": "242.95be.7dbaf70b7-36ec.a8910af7a",
+                      "attr": {
+                        "style": {
+                          "width": 275
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "O encapsulamento também permite que um objeto evolua sua implementação interna sem afetar outros objetos que interagem com ele, desde que a interface pública permaneça a mesma. Isso facilita a manutenção e evolução do sistema em que o objeto é utilizado.",
+                      "id": "244.95be.7dbaf70b7-36ec.a8910af7a",
+                      "attr": {
+                        "style": {
+                          "width": 186
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "parentConnector": {
+                  "width": 12
+                },
+                "style": {
+                  "fontMultiplier": 2.25
+                },
+                "collapsed": true
+              }
+            },
+            "3": {
+              "title": "Herança",
+              "id": "232.95be.7dbaf70b7-36ec.a8910af7a",
+              "attr": {
+                "parentConnector": {
+                  "width": 12
+                },
+                "style": {
+                  "fontMultiplier": 2.25
+                }
+              }
+            },
+            "4": {
+              "title": "Polimorfismo",
+              "id": "234.95be.7dbaf70b7-36ec.a8910af7a",
+              "attr": {
+                "parentConnector": {
+                  "width": 10
+                },
+                "style": {
+                  "fontMultiplier": 2.25
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "fontMultiplier": 2.25
+            }
           }
         }
       }
