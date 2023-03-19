@@ -184,8 +184,14 @@
                       }
                     },
                     "3": {
-                      "title": "",
-                      "id": "280.ad25.76f146fb3-6f5a.eb80380e1"
+                      "title": "O ideal, é que para usar um objeto, eu não precise saber como ele faz determinada ação.",
+                      "id": "280.ad25.76f146fb3-6f5a.eb80380e1",
+                      "ideas": {
+                        "1": {
+                          "title": "Ex: Se vou comprar um jornal na banca, apenas dou o dinheiro, e recebo o troco e o jornal.\nNão faz sentido eu ir na banca, colocar o dinheiro no caixa, eu calcular o troco e pegar o jornal.\nPara mim, precisa ser transparente.",
+                          "id": "282.ad25.76f146fb3-6f5a.eb80380e1"
+                        }
+                      }
                     }
                   }
                 }
