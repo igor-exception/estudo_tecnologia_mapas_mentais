@@ -192,8 +192,7 @@
                 },
                 "style": {
                   "fontMultiplier": 2.25
-                },
-                "collapsed": true
+                }
               }
             },
             "3": {
@@ -205,6 +204,12 @@
                 },
                 "style": {
                   "fontMultiplier": 2.25
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "",
+                  "id": "276.ad25.76f146fb3-6f5a.eb80380e1"
                 }
               }
             },
