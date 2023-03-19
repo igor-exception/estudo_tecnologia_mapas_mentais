@@ -15,7 +15,8 @@
           "backgroundColor": "#FFFF99",
           "text": {
             "color": "#FF0000"
-          }
+          },
+          "fontMultiplier": 2
         }
       },
       "ideas": {
@@ -547,6 +548,9 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             },
             "5": {
@@ -635,9 +639,6 @@
                     "collapsed": true
                   }
                 }
-              },
-              "attr": {
-                "collapsed": true
               }
             },
             "6": {
