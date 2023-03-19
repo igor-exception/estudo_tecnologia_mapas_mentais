@@ -59,7 +59,7 @@
                           "id": "259.95be.7dbaf70b7-36ec.a8910af7a",
                           "ideas": {
                             "1": {
-                              "title": "Ex:\n$pessoa2->name = 'new name'",
+                              "title": "Ex:\n$pessoa2->name = 'Jhonny';\nvar_dump($pessoa);\nirá mostrar que o name de $pessoa e $pessoa2, foi alterado para 'jhonny'. Isso ocorre pois uma variável guarda apenas a referência do objeto.",
                               "id": "260.95be.7dbaf70b7-36ec.a8910af7a",
                               "attr": {
                                 "style": {
