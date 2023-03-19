@@ -60,6 +60,15 @@
                           "width": 275
                         }
                       }
+                    },
+                    "2": {
+                      "title": "O encapsulamento também permite que um objeto evolua sua implementação interna sem afetar outros objetos que interagem com ele, desde que a interface pública permaneça a mesma. Isso facilita a manutenção e evolução do sistema em que o objeto é utilizado.",
+                      "id": "244.95be.7dbaf70b7-36ec.a8910af7a",
+                      "attr": {
+                        "style": {
+                          "width": 186
+                        }
+                      }
                     }
                   }
                 }
