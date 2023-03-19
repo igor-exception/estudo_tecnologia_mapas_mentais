@@ -110,7 +110,7 @@
                           },
                           "ideas": {
                             "1": {
-                              "title": "",
+                              "title": "Indo além, a propriedade documento pode ser usado não somente para um titular, mas para um funcionário. Neste caso, faz sentido transformar o campo documento em um ```ValueObject```",
                               "id": "274.95be.7dbaf70b7-36ec.a8910af7a"
                             }
                           }
