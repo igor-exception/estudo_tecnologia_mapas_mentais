@@ -42,8 +42,19 @@
                   "id": "253.95be.7dbaf70b7-36ec.a8910af7a",
                   "ideas": {
                     "1": {
-                      "title": "",
-                      "id": "255.95be.7dbaf70b7-36ec.a8910af7a"
+                      "title": "Ex: se fizer:\n$pessoa = new Pessoa('john');\n$pessoa2 = $pessoa;\n",
+                      "id": "255.95be.7dbaf70b7-36ec.a8910af7a",
+                      "attr": {
+                        "style": {
+                          "width": 277
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "Não foi copiado um objeto, e sim apenas a referência do mesmo.",
+                          "id": "257.95be.7dbaf70b7-36ec.a8910af7a"
+                        }
+                      }
                     }
                   }
                 }
