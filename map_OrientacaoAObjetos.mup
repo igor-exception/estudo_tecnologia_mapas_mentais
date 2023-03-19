@@ -428,55 +428,6 @@
                 "collapsed": true
               }
             },
-            "2": {
-              "title": "Design Patterns",
-              "id": "214.725b.73127fe18-6d97.0a298043a",
-              "attr": {
-                "collapsed": true
-              },
-              "ideas": {
-                "1": {
-                  "title": "S.O.L.I.D",
-                  "id": "213.725b.73127fe18-6d97.0a298043a",
-                  "attr": {},
-                  "ideas": {
-                    "1": {
-                      "title": "Single Responsibility Principle (Coesão)",
-                      "id": "215.725b.73127fe18-6d97.0a298043a",
-                      "attr": {
-                        "position": [
-                          97.01418495178223,
-                          -115.11065673828125,
-                          1
-                        ]
-                      },
-                      "ideas": {
-                        "1": {
-                          "title": "Possui \"apenas\" uma responsabilidade",
-                          "id": "216.725b.73127fe18-6d97.0a298043a",
-                          "ideas": {
-                            "1": {
-                              "title": "Toma conta de apenas um conceito",
-                              "id": "217.725b.73127fe18-6d97.0a298043a",
-                              "ideas": {
-                                "1": {
-                                  "title": "EX: Se uma classe é responsável por representar uma nota fiscal, ela toma conta apenas disso. A parte de Fatura, por exemplo, fica na responsabilidade de outra classe",
-                                  "id": "218.725b.73127fe18-6d97.0a298043a"
-                                }
-                              }
-                            }
-                          }
-                        },
-                        "2": {
-                          "title": "Uma forma de analisar se uma classe é Coesa, é verificar se ela sempre irá crescer. Classes coesas nem sempre crescem.",
-                          "id": "219.a59d.b9332041e-ab66.8414fd249"
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            },
             "3": {
               "title": "Operações de objetos",
               "id": "165.3289.7323c2cf1-7da8.1a19b4a9e",
@@ -596,9 +547,6 @@
                     }
                   }
                 }
-              },
-              "attr": {
-                "collapsed": true
               }
             },
             "5": {
@@ -1308,6 +1256,9 @@
                   "title": "Escopo é a área de pertencimento de cada parte. Uma classe tem seu escopo, um método tem seu escopo",
                   "id": "151.3289.7323c2cf1-7da8.1a19b4a9e"
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             }
           },
