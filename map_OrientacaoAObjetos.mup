@@ -49,8 +49,19 @@
               "id": "231.95be.7dbaf70b7-36ec.a8910af7a",
               "ideas": {
                 "1": {
-                  "title": "",
-                  "id": "240.95be.7dbaf70b7-36ec.a8910af7a"
+                  "title": "É esconder a implementação interna de um objeto e expor apenas o necessário.",
+                  "id": "240.95be.7dbaf70b7-36ec.a8910af7a",
+                  "ideas": {
+                    "1": {
+                      "title": "EX:  imagine um objeto \"Conta Bancária\" com atributos como saldo, número da conta e senha. Ao encapsular esses atributos, a conta bancária pode expor apenas métodos públicos para depositar, sacar e consultar o saldo, mas ocultando a implementação interna, como a forma como o saldo é armazenado ou a validação da senha para fazer uma operação.",
+                      "id": "242.95be.7dbaf70b7-36ec.a8910af7a",
+                      "attr": {
+                        "style": {
+                          "width": 275
+                        }
+                      }
+                    }
+                  }
                 }
               }
             },
