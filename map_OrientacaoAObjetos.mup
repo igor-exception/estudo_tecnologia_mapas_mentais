@@ -208,8 +208,12 @@
               },
               "ideas": {
                 "1": {
-                  "title": "",
+                  "title": "É reaproveitar código de uma classe em outra, mas uma precisa ser outra. Ex: A classe Funcionário é uma Pessoa. Assim como Titular é uma Pessoa. Neste caso, faz sentido usar herança.",
                   "id": "276.ad25.76f146fb3-6f5a.eb80380e1"
+                },
+                "2": {
+                  "title": "",
+                  "id": "278.ad25.76f146fb3-6f5a.eb80380e1"
                 }
               }
             },
