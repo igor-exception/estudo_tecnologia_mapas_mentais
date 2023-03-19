@@ -46,7 +46,13 @@
             },
             "2": {
               "title": "Encapsulamento",
-              "id": "231.95be.7dbaf70b7-36ec.a8910af7a"
+              "id": "231.95be.7dbaf70b7-36ec.a8910af7a",
+              "ideas": {
+                "1": {
+                  "title": "",
+                  "id": "240.95be.7dbaf70b7-36ec.a8910af7a"
+                }
+              }
             },
             "3": {
               "title": "Herança",
