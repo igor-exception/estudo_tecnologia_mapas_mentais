@@ -55,6 +55,9 @@
                 }
               }
             }
+          },
+          "attr": {
+            "collapsed": true
           }
         },
         "3": {
@@ -120,9 +123,6 @@
                 }
               }
             }
-          },
-          "attr": {
-            "collapsed": true
           }
         },
         "4": {
@@ -821,7 +821,8 @@
               187.98583984375,
               121.04827499389648,
               7
-            ]
+            ],
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -1199,9 +1200,6 @@
               "title": "Escopo é a área de pertencimento de cada parte. Uma classe tem seu escopo, um método tem seu escopo",
               "id": "151.3289.7323c2cf1-7da8.1a19b4a9e"
             }
-          },
-          "attr": {
-            "collapsed": true
           }
         },
         "-24": {
@@ -1386,7 +1384,8 @@
               171.9914836883545,
               342.98009490966797,
               8
-            ]
+            ],
+            "collapsed": true
           }
         }
       }
