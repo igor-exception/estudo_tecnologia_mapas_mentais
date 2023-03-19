@@ -28,8 +28,19 @@
               "id": "229.95be.7dbaf70b7-36ec.a8910af7a",
               "ideas": {
                 "1": {
-                  "title": "",
-                  "id": "236.95be.7dbaf70b7-36ec.a8910af7a"
+                  "title": "É a capacidade de representar um objeto do mundo real. Mas considerando apenas os aspectos relevantes para usar no sistema",
+                  "id": "236.95be.7dbaf70b7-36ec.a8910af7a",
+                  "ideas": {
+                    "1": {
+                      "title": "Ex: em um sistema de gerenciamento de biblioteca, um livro pode ser representado apenas por seu título, autor, número de páginas, editora, ISBN, entre outras características relevantes, sem precisar levar em conta detalhes como o peso, a cor ou o cheiro do livro.",
+                      "id": "238.95be.7dbaf70b7-36ec.a8910af7a",
+                      "attr": {
+                        "style": {
+                          "width": 241
+                        }
+                      }
+                    }
+                  }
                 }
               }
             },
