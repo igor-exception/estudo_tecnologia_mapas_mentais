@@ -226,12 +226,26 @@
                   "id": "278.ad25.76f146fb3-6f5a.eb80380e1"
                 },
                 "3": {
-                  "title": "Criei um mini projeto usando Abstração e Herança",
+                  "title": "Criei um mini projeto usando Abstração e Herança.\nProjeto Banco",
                   "id": "284.d15a.322d205d9-050f.7e2dd8a6c",
                   "ideas": {
-                    "1": {
-                      "title": "",
-                      "id": "285.d15a.322d205d9-050f.7e2dd8a6c"
+                    "2": {
+                      "title": "Pode ter Conta Corrente e Conta Poupança",
+                      "id": "287.d15a.322d205d9-050f.7e2dd8a6c"
+                    },
+                    "3": {
+                      "title": "Para ter uma conta, é necessário ter um usuário.",
+                      "id": "289.d15a.322d205d9-050f.7e2dd8a6c",
+                      "ideas": {
+                        "1": {
+                          "title": "Usuário precisa ter Nome, endereço e CPF",
+                          "id": "290.d15a.322d205d9-050f.7e2dd8a6c"
+                        }
+                      }
+                    },
+                    "4": {
+                      "title": "Projeto",
+                      "id": "292.d15a.322d205d9-050f.7e2dd8a6c"
                     }
                   }
                 }
