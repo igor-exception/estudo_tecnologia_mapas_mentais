@@ -246,6 +246,22 @@
                     "4": {
                       "title": "Projeto https://github.com/igor-exception/PHP_Studies/tree/main/Abstract/Example2-Bank",
                       "id": "292.d15a.322d205d9-050f.7e2dd8a6c"
+                    },
+                    "5": {
+                      "title": "Aprendizado.",
+                      "id": "294.d15a.322d205d9-050f.7e2dd8a6c",
+                      "ideas": {
+                        "1": {
+                          "title": "Primeiro criei uma Conta. Depois quis adicionar tarifa de 5% no saque na ContaCorrente.\n\n",
+                          "id": "295.d15a.322d205d9-050f.7e2dd8a6c",
+                          "ideas": {
+                            "1": {
+                              "title": "",
+                              "id": "296.d15a.322d205d9-050f.7e2dd8a6c"
+                            }
+                          }
+                        }
+                      }
                     }
                   }
                 }
