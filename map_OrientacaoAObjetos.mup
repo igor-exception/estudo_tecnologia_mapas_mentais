@@ -264,8 +264,14 @@
                               "id": "297.d15a.322d205d9-050f.7e2dd8a6c"
                             },
                             "3": {
-                              "title": "",
-                              "id": "298.d15a.322d205d9-050f.7e2dd8a6c"
+                              "title": "Ao invés de colocar um if para verificar qual era o tipo de conta, decidi usar herança. A classe conta virou Abstrata e criei conta corrente e poupança, que herdaram dela.\n\n",
+                              "id": "298.d15a.322d205d9-050f.7e2dd8a6c",
+                              "ideas": {
+                                "1": {
+                                  "title": "Criei um método abstrato na classe conta, chamado de taxas. Onde nas classes que a implementariam, deveriam definir a tarifa (3% ou 5%).",
+                                  "id": "299.d15a.322d205d9-050f.7e2dd8a6c"
+                                }
+                              }
                             }
                           }
                         }
