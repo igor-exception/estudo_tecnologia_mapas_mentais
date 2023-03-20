@@ -224,6 +224,16 @@
                 "2": {
                   "title": "Herança precisa ser muito bem analisada antes de ser utilizada, pois quebra o encapsulamento, sendo que todos os métodos e propriedades da classe Pai, serão herdadas pelos filhos. E pode ser que em algum momento, uma classe filha não deveria ter este comportamento.",
                   "id": "278.ad25.76f146fb3-6f5a.eb80380e1"
+                },
+                "3": {
+                  "title": "Criei um mini projeto usando Abstração e Herança",
+                  "id": "284.d15a.322d205d9-050f.7e2dd8a6c",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "285.d15a.322d205d9-050f.7e2dd8a6c"
+                    }
+                  }
                 }
               }
             },
