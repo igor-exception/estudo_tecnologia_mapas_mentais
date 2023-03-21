@@ -298,8 +298,14 @@
                                   "id": "299.d15a.322d205d9-050f.7e2dd8a6c"
                                 },
                                 "2": {
-                                  "title": "",
-                                  "id": "309.d15a.322d205d9-050f.7e2dd8a6c"
+                                  "title": "Uma classe sempre vira abstrata quando não faz sentido instancia-la.\nEx: Você não vai em um banco e pede pra abrir uma conta sem especificar o tipo. A conta tem que ser corrente, poupança, universitaria etc...\nNeste caso, a classe Conta é abstrata.",
+                                  "id": "309.d15a.322d205d9-050f.7e2dd8a6c",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Outro ex: você não contrata um funcionário, você contrata um programador, um gestor, um diretor.\nOu seja, a classe funcionário é abstrata.",
+                                      "id": "310.d15a.322d205d9-050f.7e2dd8a6c"
+                                    }
+                                  }
                                 }
                               }
                             }
