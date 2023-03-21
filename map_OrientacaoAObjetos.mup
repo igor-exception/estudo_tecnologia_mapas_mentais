@@ -228,7 +228,8 @@
                 },
                 "style": {
                   "fontMultiplier": 2.25
-                }
+                },
+                "collapsed": true
               }
             },
             "3": {
@@ -240,7 +241,8 @@
                 },
                 "style": {
                   "fontMultiplier": 2.25
-                }
+                },
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -326,6 +328,12 @@
                 },
                 "style": {
                   "fontMultiplier": 2.25
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "a",
+                  "id": "311.d15a.322d205d9-050f.7e2dd8a6c"
                 }
               }
             }
