@@ -130,8 +130,12 @@
                   "id": "303.d15a.322d205d9-050f.7e2dd8a6c",
                   "ideas": {
                     "1": {
-                      "title": "",
+                      "title": "Na classe de modelo, é uma representação de algo real, por exemplo: Usuário, Banco, Conta. E possui propriedades: Nome, saldo etc...",
                       "id": "304.d15a.322d205d9-050f.7e2dd8a6c"
+                    },
+                    "2": {
+                      "title": "",
+                      "id": "305.d15a.322d205d9-050f.7e2dd8a6c"
                     }
                   }
                 }
