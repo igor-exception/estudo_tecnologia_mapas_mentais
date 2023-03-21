@@ -135,7 +135,13 @@
                     },
                     "2": {
                       "title": "Na classe de serviço, ela não tem uma representação. Ex: calcularBonus (não existe uma calculadora no mundo real específica de bonus, é uma ação)",
-                      "id": "305.d15a.322d205d9-050f.7e2dd8a6c"
+                      "id": "305.d15a.322d205d9-050f.7e2dd8a6c",
+                      "ideas": {
+                        "1": {
+                          "title": "A classe serviço representa uma ação, algo a ser feito. Não trata de persistência.",
+                          "id": "307.d15a.322d205d9-050f.7e2dd8a6c"
+                        }
+                      }
                     }
                   }
                 }
@@ -290,6 +296,10 @@
                                 "1": {
                                   "title": "Criei um método abstrato na classe conta, chamado de taxas. Onde nas classes que a implementariam, deveriam definir a tarifa (3% ou 5%).",
                                   "id": "299.d15a.322d205d9-050f.7e2dd8a6c"
+                                },
+                                "2": {
+                                  "title": "",
+                                  "id": "309.d15a.322d205d9-050f.7e2dd8a6c"
                                 }
                               }
                             }
