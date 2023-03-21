@@ -120,6 +120,22 @@
                   }
                 }
               }
+            },
+            "3": {
+              "title": "Classes de serviços",
+              "id": "301.d15a.322d205d9-050f.7e2dd8a6c",
+              "ideas": {
+                "1": {
+                  "title": "Existe um conceito chamado de Classe de serviço, que é diferente da classe de modelo.",
+                  "id": "303.d15a.322d205d9-050f.7e2dd8a6c",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "304.d15a.322d205d9-050f.7e2dd8a6c"
+                    }
+                  }
+                }
+              }
             }
           }
         },
