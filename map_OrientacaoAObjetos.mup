@@ -164,17 +164,17 @@
                   "title": "Para impedir que uma classe seja estendida, podemos colocar a palavra final no fim.",
                   "id": "342.b6a2.67024350a-fca3.ac322f30f",
                   "ideas": {
-                    "1": {
-                      "title": "Quero que que a classe CPF não possa ser estendida para não criem uma nova ",
-                      "id": "343.b6a2.67024350a-fca3.ac322f30f"
-                    },
                     "2": {
                       "title": "Motivo de impedir extensão",
                       "id": "345.b6a2.67024350a-fca3.ac322f30f",
                       "ideas": {
                         "1": {
-                          "title": "",
+                          "title": "Digamos que tenho uma classe CPF e uma pessoa estende essa classe e passa como parâmetro em um local que necessita, mas não coloca a validação. Impedir a extensão funciona para isso",
                           "id": "346.b6a2.67024350a-fca3.ac322f30f"
+                        },
+                        "2": {
+                          "title": "",
+                          "id": "347.b6a2.67024350a-fca3.ac322f30f"
                         }
                       }
                     }
