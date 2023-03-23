@@ -157,7 +157,7 @@
               }
             },
             "4": {
-              "title": "Impedir estendida",
+              "title": "Impedir extensão de classe/ sobrescrita de método",
               "id": "341.b6a2.67024350a-fca3.ac322f30f",
               "ideas": {
                 "1": {
@@ -173,10 +173,14 @@
                           "id": "346.b6a2.67024350a-fca3.ac322f30f"
                         },
                         "2": {
-                          "title": "",
+                          "title": "Posso impedir que ",
                           "id": "347.b6a2.67024350a-fca3.ac322f30f"
                         }
                       }
+                    },
+                    "3": {
+                      "title": "",
+                      "id": "348.b6a2.67024350a-fca3.ac322f30f"
                     }
                   }
                 }
