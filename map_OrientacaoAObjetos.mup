@@ -336,8 +336,18 @@
                   "id": "311.d15a.322d205d9-050f.7e2dd8a6c"
                 },
                 "2": {
-                  "title": "Se coloco que terei ",
-                  "id": "312.d15a.322d205d9-050f.7e2dd8a6c"
+                  "title": "Permite que objetos de diferentes classes sejam tratados como se fossem do mesmo tipo.\n\n",
+                  "id": "312.d15a.322d205d9-050f.7e2dd8a6c",
+                  "ideas": {
+                    "1": {
+                      "title": "O comportamento será definido no tempo de execução.",
+                      "id": "313.9064.1d567e1b9-68b5.ad590ce43"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "",
+                  "id": "315.9064.1d567e1b9-68b5.ad590ce43"
                 }
               }
             }
