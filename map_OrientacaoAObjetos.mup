@@ -73,6 +73,9 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             },
             "2": {
@@ -119,6 +122,9 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             },
             "3": {
@@ -145,6 +151,9 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true
               }
             }
           }
@@ -485,6 +494,19 @@
                         }
                       },
                       "attr": {}
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true
+                  }
+                },
+                "4": {
+                  "title": "Contratos",
+                  "id": "335.9064.1d567e1b9-68b5.ad590ce43",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "337.9064.1d567e1b9-68b5.ad590ce43"
                     }
                   }
                 }
