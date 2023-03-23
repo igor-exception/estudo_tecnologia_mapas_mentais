@@ -471,6 +471,21 @@
                       }
                     }
                   }
+                },
+                "5": {
+                  "title": "Percepções",
+                  "id": "332.9064.1d567e1b9-68b5.ad590ce43",
+                  "ideas": {
+                    "1": {
+                      "title": "Muito útil para evitar repetição de código e aumento de IFs dentro do código para verificar tipo.",
+                      "id": "331.9064.1d567e1b9-68b5.ad590ce43",
+                      "attr": {}
+                    },
+                    "2": {
+                      "title": "",
+                      "id": "333.9064.1d567e1b9-68b5.ad590ce43"
+                    }
+                  }
                 }
               }
             }
