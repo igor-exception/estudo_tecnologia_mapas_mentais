@@ -501,11 +501,11 @@
                   }
                 },
                 "4": {
-                  "title": "Contratos",
+                  "title": "Contratos/interfaces",
                   "id": "335.9064.1d567e1b9-68b5.ad590ce43",
                   "ideas": {
                     "1": {
-                      "title": "São garantias que as classes implementam aquelas abstrações. As classes são independentes entre si, mas podem ser usadas em conjunto",
+                      "title": "São garantias que as classes deverão implementar aquelas abstrações. As classes são independentes entre si, mas podem ser usadas em conjunto",
                       "id": "337.9064.1d567e1b9-68b5.ad590ce43",
                       "ideas": {
                         "1": {
@@ -522,6 +522,10 @@
                           }
                         }
                       }
+                    },
+                    "2": {
+                      "title": "",
+                      "id": "340.b6a2.67024350a-fca3.ac322f30f"
                     }
                   }
                 }
