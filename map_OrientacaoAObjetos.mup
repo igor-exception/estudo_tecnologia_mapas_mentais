@@ -524,7 +524,7 @@
                       }
                     },
                     "2": {
-                      "title": "",
+                      "title": "Interfaces, funcionam como se fossem classes somente com métodos abstratos. Tanto é, que ao criar uma interface, nem precisa definir o nome abstract no método.",
                       "id": "340.b6a2.67024350a-fca3.ac322f30f"
                     }
                   }
