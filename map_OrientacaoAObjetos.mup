@@ -173,13 +173,13 @@
                           "id": "346.b6a2.67024350a-fca3.ac322f30f"
                         },
                         "2": {
-                          "title": "Posso impedir que ",
+                          "title": "Posso impedir que uma classe seja estendida ou método seja sobrescrito usando a key word final;",
                           "id": "347.b6a2.67024350a-fca3.ac322f30f"
                         }
                       }
                     },
                     "3": {
-                      "title": "",
+                      "title": "Exemplo burlando classe: https://gist.github.com/igor-exception/c90764aaeebca4db9d3572db77fce974",
                       "id": "348.b6a2.67024350a-fca3.ac322f30f"
                     }
                   }
