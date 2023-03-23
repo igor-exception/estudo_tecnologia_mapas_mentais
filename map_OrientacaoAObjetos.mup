@@ -155,6 +155,26 @@
               "attr": {
                 "collapsed": true
               }
+            },
+            "4": {
+              "title": "Impedir estendida",
+              "id": "341.b6a2.67024350a-fca3.ac322f30f",
+              "ideas": {
+                "1": {
+                  "title": "Para impedir que uma classe seja estendida, podemos colocar a palavra final no fim.",
+                  "id": "342.b6a2.67024350a-fca3.ac322f30f",
+                  "ideas": {
+                    "1": {
+                      "title": "Quero que que a classe CPF não possa ser estendida para não criem uma nova ",
+                      "id": "343.b6a2.67024350a-fca3.ac322f30f"
+                    },
+                    "2": {
+                      "title": "",
+                      "id": "345.b6a2.67024350a-fca3.ac322f30f"
+                    }
+                  }
+                }
+              }
             }
           }
         },
