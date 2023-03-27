@@ -45,7 +45,7 @@
                           "ideas": {}
                         },
                         "2": {
-                          "title": "",
+                          "title": "É independente da View e do Controller. Não sabe da existência das outras camadas",
                           "id": "28.4630.836086be3-2ce0.879a9c053"
                         }
                       }
@@ -58,7 +58,13 @@
                   "ideas": {
                     "1": {
                       "title": "Camada de interação do usuário",
-                      "id": "23.4630.836086be3-2ce0.879a9c053"
+                      "id": "23.4630.836086be3-2ce0.879a9c053",
+                      "ideas": {
+                        "1": {
+                          "title": "Responsável por apresentar os dados para o user. Exibe o que foi montado no controller. Não sabe da existência das outras camadas",
+                          "id": "29.4630.836086be3-2ce0.879a9c053"
+                        }
+                      }
                     }
                   }
                 },
