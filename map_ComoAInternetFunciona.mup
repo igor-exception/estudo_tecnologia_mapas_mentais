@@ -562,7 +562,7 @@
                   },
                   "ideas": {
                     "1": {
-                      "title": "",
+                      "title": "no HTTP2, é feita a requisição, e o Server já manda tudo que será necessário utilizar",
                       "id": "121.73c0.395093c2-aa05.88b956afd"
                     }
                   }
