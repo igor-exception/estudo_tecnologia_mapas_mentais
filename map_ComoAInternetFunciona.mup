@@ -467,15 +467,26 @@
               "id": "99.73c0.395093c2-aa05.88b956afd",
               "attr": {
                 "position": [
-                  126.76132202148438,
-                  -72.99713134765625,
+                  133.2811737060547,
+                  -195.25550842285156,
                   1
                 ]
               }
             },
             "2": {
+              "title": "2- Ao fazer login em um site, eu preencho os dados de Login e senha, mando para o servidor. O servidor autentica e me devolve um código(Cookies), este código sempre enviarei para o servidor para dizer que sou eu. Por isso não preciso fazer login a cada atualização de pagina.",
+              "id": "103.73c0.395093c2-aa05.88b956afd",
+              "attr": {
+                "position": [
+                  130.78125,
+                  12.983016967773438,
+                  2
+                ]
+              }
+            },
+            "3": {
               "title": "",
-              "id": "103.73c0.395093c2-aa05.88b956afd"
+              "id": "104.73c0.395093c2-aa05.88b956afd"
             }
           },
           "attr": {
