@@ -7,8 +7,8 @@
       "id": 1,
       "attr": {
         "position": [
-          -206,
-          -177,
+          -167,
+          -530,
           1
         ],
         "style": {
@@ -21,11 +21,29 @@
           "position": "left",
           "metaData": {}
         }
+      },
+      "ideas": {
+        "-1": {
+          "title": "a",
+          "id": "3.4630.836086be3-2ce0.879a9c053",
+          "ideas": {}
+        }
+      }
+    },
+    "2": {
+      "title": "2",
+      "id": "5.4630.836086be3-2ce0.879a9c053",
+      "attr": {
+        "position": [
+          62.0113525390625,
+          -195.99432373046875,
+          1
+        ]
       }
     }
   },
   "attr": {
-    "theme": "default"
+    "theme": "topdownStandard"
   },
   "title": ""
 }
