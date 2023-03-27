@@ -33,15 +33,33 @@
               "ideas": {
                 "1": {
                   "title": "Model",
-                  "id": "18.4630.836086be3-2ce0.879a9c053"
+                  "id": "18.4630.836086be3-2ce0.879a9c053",
+                  "ideas": {
+                    "1": {
+                      "title": "Camada de manipulação de dados",
+                      "id": "21.4630.836086be3-2ce0.879a9c053"
+                    }
+                  }
                 },
                 "2": {
                   "title": "View",
-                  "id": "19.4630.836086be3-2ce0.879a9c053"
+                  "id": "19.4630.836086be3-2ce0.879a9c053",
+                  "ideas": {
+                    "1": {
+                      "title": "Camada de interação do usuário",
+                      "id": "23.4630.836086be3-2ce0.879a9c053"
+                    }
+                  }
                 },
                 "3": {
                   "title": "Controller",
-                  "id": "20.4630.836086be3-2ce0.879a9c053"
+                  "id": "20.4630.836086be3-2ce0.879a9c053",
+                  "ideas": {
+                    "1": {
+                      "title": "Camada de controle",
+                      "id": "24.4630.836086be3-2ce0.879a9c053"
+                    }
+                  }
                 }
               }
             }
