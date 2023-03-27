@@ -37,7 +37,13 @@
                   "ideas": {
                     "1": {
                       "title": "Camada de manipulação de dados",
-                      "id": "21.4630.836086be3-2ce0.879a9c053"
+                      "id": "21.4630.836086be3-2ce0.879a9c053",
+                      "ideas": {
+                        "1": {
+                          "title": "",
+                          "id": "26.4630.836086be3-2ce0.879a9c053"
+                        }
+                      }
                     }
                   }
                 },
@@ -57,7 +63,13 @@
                   "ideas": {
                     "1": {
                       "title": "Camada de controle",
-                      "id": "24.4630.836086be3-2ce0.879a9c053"
+                      "id": "24.4630.836086be3-2ce0.879a9c053",
+                      "ideas": {
+                        "1": {
+                          "title": "Recebe as requisições do usuário e processa. É o intermediário entre o View e Model.",
+                          "id": "25.4630.836086be3-2ce0.879a9c053"
+                        }
+                      }
                     }
                   }
                 }
