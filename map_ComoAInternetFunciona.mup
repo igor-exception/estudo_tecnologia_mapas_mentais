@@ -12,7 +12,11 @@
           1
         ],
         "style": {
-          "width": 83
+          "width": 83,
+          "text": {
+            "color": "#FFFFFF"
+          },
+          "fontMultiplier": 3.25
         }
       },
       "ideas": {
@@ -450,10 +454,6 @@
             ]
           }
         },
-        "3": {
-          "title": "O cliente, ao inserir um dominio no navegador, o servidor pega este dominio e resolve, devolvendo um IP, que o navegador irá chamar",
-          "id": "99.73c0.395093c2-aa05.88b956afd"
-        },
         "4": {
           "title": "Uma requisição HTTP é STATELESS, ou seja, não guarda estado. A segunda requisição não sabe o que teve na primeira",
           "id": "101.73c0.395093c2-aa05.88b956afd"
@@ -572,6 +572,17 @@
                   "metaData": {}
                 }
               }
+            }
+          }
+        },
+        "-22": {
+          "title": "Passo a passo",
+          "id": "102.73c0.395093c2-aa05.88b956afd",
+          "ideas": {
+            "1": {
+              "title": "O cliente, ao inserir um dominio no navegador, o servidor pega este dominio e resolve, devolvendo um IP, que o navegador irá chamar",
+              "id": "99.73c0.395093c2-aa05.88b956afd",
+              "attr": {}
             }
           }
         }
