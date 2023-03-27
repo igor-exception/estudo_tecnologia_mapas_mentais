@@ -23,36 +23,63 @@
         }
       },
       "ideas": {
-        "1": {
-          "title": "Padrões",
-          "id": "5.4630.836086be3-2ce0.879a9c053",
+        "11": {
+          "title": "MVC - É um padrão arquitetural, que sugere dividir as responsabilidades.",
+          "id": "14.4630.836086be3-2ce0.879a9c053",
           "ideas": {
             "1": {
-              "title": "Post Redirect Get",
-              "id": "7.4630.836086be3-2ce0.879a9c053",
+              "title": "Divide principalmente em 3 camadas",
+              "id": "15.4630.836086be3-2ce0.879a9c053",
               "ideas": {
                 "1": {
-                  "title": "Após uma requisição Post, redireciono para uma requisição Get",
-                  "id": "8.4630.836086be3-2ce0.879a9c053",
-                  "ideas": {
-                    "1": {
-                      "title": "Isso evita que caso user atualize a página, o conteúdo seja persistido novamente",
-                      "id": "12.4630.836086be3-2ce0.879a9c053"
-                    }
-                  }
+                  "title": "Model",
+                  "id": "18.4630.836086be3-2ce0.879a9c053"
                 },
                 "2": {
-                  "title": "Ex: Faço o cadastro de um novo filme. Ao preencher o form e enviar, é processado e encaminhado para requisição GET (geralmente de listagem de filmes)",
-                  "id": "10.4630.836086be3-2ce0.879a9c053"
+                  "title": "View",
+                  "id": "19.4630.836086be3-2ce0.879a9c053"
+                },
+                "3": {
+                  "title": "Controller",
+                  "id": "20.4630.836086be3-2ce0.879a9c053"
                 }
               }
             }
           }
-        },
-        "11": {
-          "title": "",
-          "id": "14.4630.836086be3-2ce0.879a9c053"
         }
+      }
+    },
+    "2": {
+      "title": "Padrões",
+      "id": "5.4630.836086be3-2ce0.879a9c053",
+      "ideas": {
+        "1": {
+          "title": "Post Redirect Get",
+          "id": "7.4630.836086be3-2ce0.879a9c053",
+          "ideas": {
+            "1": {
+              "title": "Após uma requisição Post, redireciono para uma requisição Get",
+              "id": "8.4630.836086be3-2ce0.879a9c053",
+              "ideas": {
+                "1": {
+                  "title": "Isso evita que caso user atualize a página, o conteúdo seja persistido novamente",
+                  "id": "12.4630.836086be3-2ce0.879a9c053"
+                }
+              }
+            },
+            "2": {
+              "title": "Ex: Faço o cadastro de um novo filme. Ao preencher o form e enviar, é processado e encaminhado para requisição GET (geralmente de listagem de filmes)",
+              "id": "10.4630.836086be3-2ce0.879a9c053"
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          -577,
+          -299,
+          1
+        ]
       }
     }
   },
