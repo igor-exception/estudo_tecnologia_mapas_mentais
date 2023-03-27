@@ -450,6 +450,10 @@
             ]
           }
         },
+        "3": {
+          "title": "O cliente, ao inserir um dominio no navegador, o servidor pega este dominio e resolve, devolvendo um IP, que o navegador irá chamar",
+          "id": "99.73c0.395093c2-aa05.88b956afd"
+        },
         "-1": {
           "title": "HTTPS",
           "id": "10.021d.da42f434-995a.f6f9bad18",
