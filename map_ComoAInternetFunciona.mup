@@ -587,7 +587,7 @@
                   }
                 },
                 "2": {
-                  "title": "Multiplexing - Permite que com uma conexão no TCP, já possa fazer diversas requisições simultâneas",
+                  "title": "Multiplexing - Permite que com uma conexão no TCP, já possa fazer diversas requisições paralelas, economizando recursos",
                   "id": "122.73c0.395093c2-aa05.88b956afd",
                   "ideas": {
                     "1": {
