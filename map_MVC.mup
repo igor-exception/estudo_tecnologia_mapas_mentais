@@ -77,8 +77,17 @@
                       "id": "24.4630.836086be3-2ce0.879a9c053",
                       "ideas": {
                         "1": {
-                          "title": "Recebe as requisições do usuário e processa. É o intermediário entre o View e Model.",
+                          "title": "Recebe as requisições do usuário e processa. É o intermediário entre o View e Model.\n",
                           "id": "25.4630.836086be3-2ce0.879a9c053"
+                        },
+                        "2": {
+                          "title": "Sabe da existência das outras camadas",
+                          "id": "31.4630.836086be3-2ce0.879a9c053",
+                          "attr": {
+                            "style": {
+                              "backgroundColor": "#FF0000"
+                            }
+                          }
                         }
                       }
                     }
