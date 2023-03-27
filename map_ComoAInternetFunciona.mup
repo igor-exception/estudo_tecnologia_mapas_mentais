@@ -631,6 +631,24 @@
               }
             }
           }
+        },
+        "-22": {
+          "title": "REST",
+          "id": "107.73c0.395093c2-aa05.88b956afd",
+          "ideas": {
+            "1": {
+              "title": "É um padrão arquitetural para comunicações entre aplicações.",
+              "id": "108.73c0.395093c2-aa05.88b956afd"
+            },
+            "2": {
+              "title": "Os recursos são definidos via URI",
+              "id": "110.73c0.395093c2-aa05.88b956afd"
+            },
+            "3": {
+              "title": "",
+              "id": "111.73c0.395093c2-aa05.88b956afd"
+            }
+          }
         }
       }
     }
