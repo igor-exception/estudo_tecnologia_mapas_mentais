@@ -33,7 +33,13 @@
               "ideas": {
                 "1": {
                   "title": "Após uma requisição Post, redireciono para uma requisição Get",
-                  "id": "8.4630.836086be3-2ce0.879a9c053"
+                  "id": "8.4630.836086be3-2ce0.879a9c053",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "12.4630.836086be3-2ce0.879a9c053"
+                    }
+                  }
                 },
                 "2": {
                   "title": "Ex: Faço o cadastro de um novo filme. Ao preencher o form e enviar, é processado e encaminhado para requisição GET (geralmente de listagem de filmes)",
