@@ -14,8 +14,8 @@
           "metaData": {}
         },
         "position": [
-          -206.98294067382812,
-          -1150.982949256897,
+          -206,
+          -1150,
           1
         ],
         "style": {
@@ -26,6 +26,33 @@
         "1": {
           "title": "Info",
           "id": "3.786c.ee488bc2d-a5ea.ad12910e1"
+        },
+        "11": {
+          "title": "Instalação",
+          "id": "5.7863.2c23ae0b3-0055.db5a2d0a5",
+          "ideas": {
+            "1": {
+              "title": "Para criar projeto pelo composer, usar: ",
+              "id": "6.7863.2c23ae0b3-0055.db5a2d0a5",
+              "ideas": {
+                "1": {
+                  "title": "composer create-project laravel/laravel example-app",
+                  "id": "8.7863.2c23ae0b3-0055.db5a2d0a5",
+                  "attr": {
+                    "style": {
+                      "width": 370
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "A opção create-project faz com que o composer crie o esqueleto (estrutura de pastas) do repositório laravel/laravel",
+                      "id": "9.7863.2c23ae0b3-0055.db5a2d0a5"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     }
