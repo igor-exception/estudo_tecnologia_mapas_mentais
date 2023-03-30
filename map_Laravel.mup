@@ -72,16 +72,62 @@
               },
               "ideas": {
                 "1": {
-                  "title": "Vendor",
-                  "id": "13.7863.2c23ae0b3-0055.db5a2d0a5"
+                  "title": "vendor",
+                  "id": "13.7863.2c23ae0b3-0055.db5a2d0a5",
+                  "ideas": {
+                    "1": {
+                      "title": "ficam arquivos dos pacotes que iremos instalar ou instalados pelo laravel",
+                      "id": "24.7863.2c23ae0b3-0055.db5a2d0a5"
+                    }
+                  }
                 },
                 "2": {
                   "title": "tests",
-                  "id": "14.7863.2c23ae0b3-0055.db5a2d0a5"
+                  "id": "14.7863.2c23ae0b3-0055.db5a2d0a5",
+                  "ideas": {
+                    "1": {
+                      "title": "arquivos de testes",
+                      "id": "25.7863.2c23ae0b3-0055.db5a2d0a5"
+                    }
+                  }
                 },
                 "3": {
-                  "title": "",
-                  "id": "15.7863.2c23ae0b3-0055.db5a2d0a5"
+                  "title": "storage",
+                  "id": "15.7863.2c23ae0b3-0055.db5a2d0a5",
+                  "ideas": {
+                    "1": {
+                      "title": "para armazenamento de arquivos que iremos manipular ou upload dos usuários",
+                      "id": "27.7863.2c23ae0b3-0055.db5a2d0a5"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "routes",
+                  "id": "17.7863.2c23ae0b3-0055.db5a2d0a5"
+                },
+                "5": {
+                  "title": "resources",
+                  "id": "18.7863.2c23ae0b3-0055.db5a2d0a5"
+                },
+                "6": {
+                  "title": "public",
+                  "id": "19.7863.2c23ae0b3-0055.db5a2d0a5"
+                },
+                "7": {
+                  "title": "database",
+                  "id": "20.7863.2c23ae0b3-0055.db5a2d0a5"
+                },
+                "8": {
+                  "title": "config",
+                  "id": "21.7863.2c23ae0b3-0055.db5a2d0a5"
+                },
+                "9": {
+                  "title": "bootstrap",
+                  "id": "22.7863.2c23ae0b3-0055.db5a2d0a5"
+                },
+                "10": {
+                  "title": "app",
+                  "id": "23.7863.2c23ae0b3-0055.db5a2d0a5"
                 }
               }
             }
