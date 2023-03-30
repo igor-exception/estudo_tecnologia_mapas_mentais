@@ -81,8 +81,12 @@
                       "id": "46.7863.2c23ae0b3-0055.db5a2d0a5"
                     },
                     "2": {
-                      "title": "",
+                      "title": "Passamos o nome da classe, no caso: SeriesController::class",
                       "id": "47.7863.2c23ae0b3-0055.db5a2d0a5"
+                    },
+                    "3": {
+                      "title": "E a Action, que seria o método do controller",
+                      "id": "48.7863.2c23ae0b3-0055.db5a2d0a5"
                     }
                   }
                 }
