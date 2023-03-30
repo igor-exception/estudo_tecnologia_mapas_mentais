@@ -32,7 +32,7 @@
               "id": "36.7863.2c23ae0b3-0055.db5a2d0a5"
             },
             "2": {
-              "title": "",
+              "title": "É um Framework full stack, ou seja, faz tanto a rota de requisição, quanto renderizar o front, usando o Blade",
               "id": "49.7863.2c23ae0b3-0055.db5a2d0a5"
             }
           }
@@ -222,7 +222,7 @@
       },
       "attr": {
         "position": [
-          1419,
+          1429,
           -1072,
           1
         ]
@@ -258,6 +258,17 @@
         "position": [
           -883,
           -647,
+          1
+        ]
+      }
+    },
+    "4": {
+      "title": "Bootcamp",
+      "id": "50.7863.2c23ae0b3-0055.db5a2d0a5",
+      "attr": {
+        "position": [
+          2054.988723754883,
+          -1166.9743957519531,
           1
         ]
       }
