@@ -267,8 +267,8 @@
       "id": "50.7863.2c23ae0b3-0055.db5a2d0a5",
       "attr": {
         "position": [
-          2412,
-          -1124,
+          2685,
+          -1099,
           1
         ]
       },
@@ -276,7 +276,43 @@
         "1": {
           "title": "Laravel possui um Bootcamp, onde ensina a fazer um microblog",
           "id": "51.7863.2c23ae0b3-0055.db5a2d0a5"
+        },
+        "11": {
+          "title": "No exemplo, pede pra usar o sqlite, alterar o arquivo .env",
+          "id": "53.7863.2c23ae0b3-0055.db5a2d0a5"
+        },
+        "21": {
+          "title": "Instalar o Breeze, autenticador bem completo, que ja tem esqueci a senha etc..",
+          "id": "54.7863.2c23ae0b3-0055.db5a2d0a5",
+          "ideas": {
+            "1": {
+              "title": "composer require laravel/breeze --dev",
+              "id": "55.7863.2c23ae0b3-0055.db5a2d0a5",
+              "attr": {
+                "style": {
+                  "width": 274
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "",
+                  "id": "57.7863.2c23ae0b3-0055.db5a2d0a5"
+                }
+              }
+            }
+          }
         }
+      }
+    },
+    "5": {
+      "title": "a",
+      "id": "56.7863.2c23ae0b3-0055.db5a2d0a5",
+      "attr": {
+        "position": [
+          3538,
+          -1173,
+          1
+        ]
       }
     }
   },
