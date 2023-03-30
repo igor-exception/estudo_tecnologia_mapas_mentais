@@ -133,19 +133,43 @@
                 },
                 "7": {
                   "title": "database",
-                  "id": "20.7863.2c23ae0b3-0055.db5a2d0a5"
+                  "id": "20.7863.2c23ae0b3-0055.db5a2d0a5",
+                  "ideas": {
+                    "1": {
+                      "title": "configurações do banco de dados",
+                      "id": "31.7863.2c23ae0b3-0055.db5a2d0a5"
+                    }
+                  }
                 },
                 "8": {
                   "title": "config",
-                  "id": "21.7863.2c23ae0b3-0055.db5a2d0a5"
+                  "id": "21.7863.2c23ae0b3-0055.db5a2d0a5",
+                  "ideas": {
+                    "1": {
+                      "title": "arquivos de configuração de tudo na app, como o framework irá se comportar, etc..",
+                      "id": "32.7863.2c23ae0b3-0055.db5a2d0a5"
+                    }
+                  }
                 },
                 "9": {
                   "title": "bootstrap",
-                  "id": "22.7863.2c23ae0b3-0055.db5a2d0a5"
+                  "id": "22.7863.2c23ae0b3-0055.db5a2d0a5",
+                  "ideas": {
+                    "1": {
+                      "title": "arquivos para o laravel iniciar",
+                      "id": "33.7863.2c23ae0b3-0055.db5a2d0a5"
+                    }
+                  }
                 },
                 "10": {
                   "title": "app",
-                  "id": "23.7863.2c23ae0b3-0055.db5a2d0a5"
+                  "id": "23.7863.2c23ae0b3-0055.db5a2d0a5",
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "34.7863.2c23ae0b3-0055.db5a2d0a5"
+                    }
+                  }
                 }
               }
             }
