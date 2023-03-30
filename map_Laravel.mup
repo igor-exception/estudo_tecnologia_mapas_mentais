@@ -38,7 +38,7 @@
           "id": "37.7863.2c23ae0b3-0055.db5a2d0a5",
           "ideas": {
             "1": {
-              "title": "",
+              "title": "artisar - Fornece diversos comandos para auxiliar no desenvolvimento, com ele ao invés de criar um controller, model, migration na mão, uso o artisan para facilitar",
               "id": "38.7863.2c23ae0b3-0055.db5a2d0a5"
             }
           }
