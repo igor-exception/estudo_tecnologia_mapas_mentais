@@ -77,8 +77,12 @@
                   },
                   "ideas": {
                     "1": {
-                      "title": "",
+                      "title": "Como é uma requisição GET, fica definido na rota.\nPrecisamos passar a URI, que no caso é /series",
                       "id": "46.7863.2c23ae0b3-0055.db5a2d0a5"
+                    },
+                    "2": {
+                      "title": "",
+                      "id": "47.7863.2c23ae0b3-0055.db5a2d0a5"
                     }
                   }
                 }
