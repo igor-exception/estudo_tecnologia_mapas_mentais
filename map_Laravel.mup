@@ -463,6 +463,16 @@
                   }
                 }
               }
+            },
+            "5": {
+              "title": "Rotas - Toda requisição chega no arquivo routes",
+              "id": "81.9cc8.84a180229-12b7.6f6f8bb6",
+              "ideas": {
+                "1": {
+                  "title": "A estrutura para o exemplo é:",
+                  "id": "83.9cc8.84a180229-12b7.6f6f8bb6"
+                }
+              }
             }
           }
         }
@@ -473,8 +483,8 @@
       "id": "56.7863.2c23ae0b3-0055.db5a2d0a5",
       "attr": {
         "position": [
-          4641.974304199219,
-          -1493.849365234375,
+          4642,
+          -1493,
           1
         ]
       }
