@@ -507,8 +507,13 @@
                               },
                               "ideas": {
                                 "1": {
-                                  "title": "",
-                                  "id": "97.9cc8.84a180229-12b7.6f6f8bb6"
+                                  "title": "Para ver todas rotas da aplicação, basta rodar:\n\nphp artisan route:list",
+                                  "id": "97.9cc8.84a180229-12b7.6f6f8bb6",
+                                  "attr": {
+                                    "style": {
+                                      "width": 265
+                                    }
+                                  }
                                 }
                               }
                             }
