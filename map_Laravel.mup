@@ -486,7 +486,7 @@
                       },
                       "ideas": {
                         "1": {
-                          "title": "Route::resource() é a declaração ",
+                          "title": "Route::resource() é a declaração de diversos métodos do CRUD de uma única vez.",
                           "id": "86.9cc8.84a180229-12b7.6f6f8bb6"
                         }
                       }
