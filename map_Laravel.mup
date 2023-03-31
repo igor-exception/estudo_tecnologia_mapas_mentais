@@ -374,6 +374,25 @@
             "style": {
               "width": 211
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Models - Fornece uma interface para interagir com as tabelas do banco",
+              "id": "69.9cc8.84a180229-12b7.6f6f8bb6",
+              "ideas": {}
+            },
+            "2": {
+              "title": "Migrations - Cria e modifica tabelas do Banco. Isso garante que a estrutura do banco será a mesma em qualquer lugar que a aplicação esteja",
+              "id": "71.9cc8.84a180229-12b7.6f6f8bb6"
+            },
+            "3": {
+              "title": "Controllers -  são responsáveis por processar as requisições e retornar as respostas",
+              "id": "72.9cc8.84a180229-12b7.6f6f8bb6"
+            },
+            "4": {
+              "title": "Quase toda funcionalidade envolve essas 3 peças. Ao rodar: artisan make:model, já irá criar as 3 de uma vez.",
+              "id": "73.9cc8.84a180229-12b7.6f6f8bb6"
+            }
           }
         }
       }
