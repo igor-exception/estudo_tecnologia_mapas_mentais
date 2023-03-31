@@ -490,8 +490,12 @@
                           "id": "86.9cc8.84a180229-12b7.6f6f8bb6"
                         },
                         "2": {
-                          "title": "Neste código, ao invés de criar todas actions, definiu somente index e store",
+                          "title": "Neste código, ao invés de criar todas actions, permitiu apenas:\nindex e store",
                           "id": "88.9cc8.84a180229-12b7.6f6f8bb6"
+                        },
+                        "3": {
+                          "title": "",
+                          "id": "89.9cc8.84a180229-12b7.6f6f8bb6"
                         }
                       }
                     }
