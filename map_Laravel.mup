@@ -526,8 +526,14 @@
                               }
                             },
                             "3": {
-                              "title": "",
-                              "id": "93.9cc8.84a180229-12b7.6f6f8bb6"
+                              "title": "No nosso exemplo, o middleware definido foi o auth e verified,",
+                              "id": "93.9cc8.84a180229-12b7.6f6f8bb6",
+                              "ideas": {
+                                "1": {
+                                  "title": "",
+                                  "id": "94.9cc8.84a180229-12b7.6f6f8bb6"
+                                }
+                              }
                             }
                           }
                         }
