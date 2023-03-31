@@ -391,7 +391,29 @@
             },
             "4": {
               "title": "Quase toda funcionalidade envolve essas 3 peças. Ao rodar: artisan make:model, já irá criar as 3 de uma vez.",
-              "id": "73.9cc8.84a180229-12b7.6f6f8bb6"
+              "id": "73.9cc8.84a180229-12b7.6f6f8bb6",
+              "ideas": {
+                "1": {
+                  "title": "php artisan make:model -mrc Chirp",
+                  "id": "74.9cc8.84a180229-12b7.6f6f8bb6",
+                  "attr": {
+                    "style": {
+                      "width": 228
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Caso tenha duvida sobre as opções, basta:\nphp artisan make:model --help",
+                      "id": "75.9cc8.84a180229-12b7.6f6f8bb6",
+                      "attr": {
+                        "style": {
+                          "width": 279
+                        }
+                      }
+                    }
+                  }
+                }
+              }
             }
           }
         }
