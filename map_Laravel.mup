@@ -297,6 +297,10 @@
                 "1": {
                   "title": "Podemos definir qual será o front do breeze, usando Blade (template default) ou outro framework front, como Vue, Inertia ou React",
                   "id": "57.7863.2c23ae0b3-0055.db5a2d0a5"
+                },
+                "2": {
+                  "title": "",
+                  "id": "58.9cc8.84a180229-12b7.6f6f8bb6"
                 }
               }
             }
