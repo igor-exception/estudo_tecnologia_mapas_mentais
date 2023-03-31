@@ -432,8 +432,31 @@
                       "id": "77.9cc8.84a180229-12b7.6f6f8bb6",
                       "ideas": {
                         "1": {
-                          "title": "app/Models/Chirp.php - Model eloquent",
-                          "id": "78.9cc8.84a180229-12b7.6f6f8bb6"
+                          "title": "app/Models/Chirp.php\n- Model eloquent",
+                          "id": "78.9cc8.84a180229-12b7.6f6f8bb6",
+                          "attr": {
+                            "style": {
+                              "width": 142
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "database/migrations/<timestamp>_create_chirps_table.php\nas migrations do DB",
+                          "id": "79.9cc8.84a180229-12b7.6f6f8bb6",
+                          "attr": {
+                            "style": {
+                              "width": 373
+                            }
+                          }
+                        },
+                        "3": {
+                          "title": "app/Http/Controller/ChirpController.php \no controller HTTP que receberá as requisições",
+                          "id": "80.9cc8.84a180229-12b7.6f6f8bb6",
+                          "attr": {
+                            "style": {
+                              "width": 311
+                            }
+                          }
                         }
                       }
                     }
@@ -450,8 +473,8 @@
       "id": "56.7863.2c23ae0b3-0055.db5a2d0a5",
       "attr": {
         "position": [
-          3538,
-          -1173,
+          4001.0028381347656,
+          -1199.9915161132812,
           1
         ]
       }
