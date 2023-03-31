@@ -494,8 +494,14 @@
                           "id": "88.9cc8.84a180229-12b7.6f6f8bb6"
                         },
                         "3": {
-                          "title": "",
-                          "id": "89.9cc8.84a180229-12b7.6f6f8bb6"
+                          "title": "Middleware é um mecanismo que inspeciona e filtra as requisições HTTP.\n\n",
+                          "id": "89.9cc8.84a180229-12b7.6f6f8bb6",
+                          "ideas": {
+                            "1": {
+                              "title": "",
+                              "id": "90.9cc8.84a180229-12b7.6f6f8bb6"
+                            }
+                          }
                         }
                       }
                     }
