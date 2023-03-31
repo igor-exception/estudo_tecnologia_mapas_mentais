@@ -585,8 +585,19 @@
                                   }
                                 },
                                 "2": {
-                                  "title": "",
-                                  "id": "102.9cc8.84a180229-12b7.6f6f8bb6"
+                                  "title": "Criamos a View em:\n /resources/views/chirps/index.blade.php",
+                                  "id": "102.9cc8.84a180229-12b7.6f6f8bb6",
+                                  "attr": {
+                                    "style": {
+                                      "width": 282
+                                    }
+                                  },
+                                  "ideas": {
+                                    "1": {
+                                      "title": "",
+                                      "id": "103.9cc8.84a180229-12b7.6f6f8bb6"
+                                    }
+                                  }
                                 }
                               }
                             }
