@@ -301,6 +301,10 @@
                 "2": {
                   "title": "O Breeze usa o Vite.js, que é um servidor de desenvolvimento que recompila o CSS, ele também atualiza o navegador automaticamente quando fazemos mudanças no front",
                   "id": "58.9cc8.84a180229-12b7.6f6f8bb6"
+                },
+                "3": {
+                  "title": "",
+                  "id": "60.9cc8.84a180229-12b7.6f6f8bb6"
                 }
               }
             }
