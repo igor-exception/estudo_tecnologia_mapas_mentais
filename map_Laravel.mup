@@ -298,13 +298,35 @@
                   "title": "Podemos definir qual será o front do breeze, usando Blade (template default) ou outro framework front, como Vue, Inertia ou React",
                   "id": "57.7863.2c23ae0b3-0055.db5a2d0a5"
                 },
-                "2": {
-                  "title": "O Breeze usa o Vite.js, que é um servidor de desenvolvimento que recompila o CSS, ele também atualiza o navegador automaticamente quando fazemos mudanças no front",
-                  "id": "58.9cc8.84a180229-12b7.6f6f8bb6"
-                },
                 "3": {
-                  "title": "",
-                  "id": "60.9cc8.84a180229-12b7.6f6f8bb6"
+                  "title": "Instalar e configurar o blade",
+                  "id": "60.9cc8.84a180229-12b7.6f6f8bb6",
+                  "ideas": {
+                    "1": {
+                      "title": "php artisan breeze:install blade",
+                      "id": "61.9cc8.84a180229-12b7.6f6f8bb6",
+                      "attr": {
+                        "style": {
+                          "width": 257
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Executa o script dev, que fica no package.json",
+                  "id": "62.9cc8.84a180229-12b7.6f6f8bb6",
+                  "ideas": {
+                    "1": {
+                      "title": "npm run dev",
+                      "id": "63.9cc8.84a180229-12b7.6f6f8bb6"
+                    },
+                    "2": {
+                      "title": "O Breeze usa o Vite.js, que é um servidor de desenvolvimento que recompila o CSS, ele também atualiza o navegador automaticamente quando fazemos mudanças no front",
+                      "id": "58.9cc8.84a180229-12b7.6f6f8bb6",
+                      "attr": {}
+                    }
+                  }
                 }
               }
             }
