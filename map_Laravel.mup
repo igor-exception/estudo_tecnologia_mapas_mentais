@@ -585,7 +585,7 @@
                                   }
                                 },
                                 "2": {
-                                  "title": "Criamos a View em:\n /resources/views/chirps/index.blade.php",
+                                  "title": "Criamos a View usando o template Blade em:\n /resources/views/chirps/index.blade.php",
                                   "id": "102.9cc8.84a180229-12b7.6f6f8bb6",
                                   "attr": {
                                     "style": {
