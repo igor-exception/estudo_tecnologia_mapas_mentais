@@ -331,6 +331,16 @@
               }
             }
           }
+        },
+        "31": {
+          "title": "Rodar as migrations",
+          "id": "64.9cc8.84a180229-12b7.6f6f8bb6",
+          "ideas": {
+            "1": {
+              "title": "php artisan migrate",
+              "id": "65.9cc8.84a180229-12b7.6f6f8bb6"
+            }
+          }
         }
       }
     },
