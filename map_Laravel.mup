@@ -654,6 +654,20 @@
                                                                       "metaData": {}
                                                                     }
                                                                   }
+                                                                },
+                                                                "2": {
+                                                                  "title": "Cada migração roda apenas uma vez. Caso precise atualizar algo, posso rodar:\n\nphp artisan migrate:fresh",
+                                                                  "id": "185.bbad.e1288ccf2-e080.1b023fe74",
+                                                                  "attr": {
+                                                                    "style": {
+                                                                      "width": 207
+                                                                    },
+                                                                    "position": [
+                                                                      214.1850700378418,
+                                                                      235.71008682250977,
+                                                                      1
+                                                                    ]
+                                                                  }
                                                                 }
                                                               }
                                                             }
