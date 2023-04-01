@@ -276,10 +276,6 @@
         }
       },
       "ideas": {
-        "1": {
-          "title": "Laravel possui um Bootcamp, onde ensina a fazer um microblog",
-          "id": "51.7863.2c23ae0b3-0055.db5a2d0a5"
-        },
         "11": {
           "title": "No exemplo, pede pra usar o sqlite, alterar o arquivo .env",
           "id": "53.7863.2c23ae0b3-0055.db5a2d0a5"
@@ -370,13 +366,170 @@
             "collapsed": true
           }
         },
-        "41": {
+        "36": {
+          "title": "Info",
+          "id": "110.c442.27838cb1-bd09.8223d82e4",
+          "ideas": {
+            "1": {
+              "title": "composer create-project laravel/laravel chirper\n\nCria projeto",
+              "id": "111.c442.27838cb1-bd09.8223d82e4",
+              "attr": {
+                "style": {
+                  "width": 912,
+                  "fontMultiplier": 1.5,
+                  "backgroundColor": "#FFCC00",
+                  "text": {
+                    "color": "#000000"
+                  },
+                  "fontFamily": "Sans"
+                },
+                "position": [
+                  254.76049989461626,
+                  -13.94651412964049,
+                  2
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "php artisan serve\n\nSobe Server",
+                  "id": "112.c442.27838cb1-bd09.8223d82e4",
+                  "attr": {
+                    "style": {
+                      "width": 198,
+                      "fontMultiplier": 1.5,
+                      "backgroundColor": "#FFCC00",
+                      "text": {
+                        "color": "#000000"
+                      },
+                      "fontFamily": "Sans"
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "composer require laravel/breeze --dev\n\nInstala e configura as dependencias front",
+                      "id": "113.c442.27838cb1-bd09.8223d82e4",
+                      "attr": {
+                        "style": {
+                          "width": 496,
+                          "fontMultiplier": 1.5,
+                          "backgroundColor": "#FFCC00",
+                          "text": {
+                            "color": "#000000"
+                          },
+                          "fontFamily": "Sans"
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "npm run dev\n\nVite recompila automaticamente o CSS e atualiza o browser",
+                          "id": "114.c442.27838cb1-bd09.8223d82e4",
+                          "attr": {
+                            "style": {
+                              "width": 450,
+                              "fontMultiplier": 1.5,
+                              "backgroundColor": "#FFCC00",
+                              "text": {
+                                "color": "#000000"
+                              },
+                              "fontFamily": "Sans"
+                            }
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "php artisan migrate\n\nRoda migrations",
+                              "id": "116.c442.27838cb1-bd09.8223d82e4",
+                              "attr": {
+                                "style": {
+                                  "width": 356,
+                                  "fontMultiplier": 1.5,
+                                  "backgroundColor": "#FFCC00",
+                                  "text": {
+                                    "color": "#000000"
+                                  },
+                                  "fontFamily": "Sans"
+                                }
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "php artisan make:model -mrc Chirp\n\nCria Model, Migration e Controller Chirps",
+                                  "id": "117.c442.27838cb1-bd09.8223d82e4",
+                                  "attr": {
+                                    "style": {
+                                      "width": 404,
+                                      "fontMultiplier": 1.5,
+                                      "backgroundColor": "#FFCC00",
+                                      "text": {
+                                        "color": "#000000"
+                                      },
+                                      "fontFamily": "Sans"
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "title": "php artisan make:model --help\n\nVer todas opções",
+                                  "id": "118.c442.27838cb1-bd09.8223d82e4",
+                                  "attr": {
+                                    "style": {
+                                      "width": 240
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "0.5": {
+              "title": "Laravel possui um Bootcamp, onde ensina a fazer um microblog",
+              "id": "51.7863.2c23ae0b3-0055.db5a2d0a5",
+              "attr": {
+                "position": [
+                  177.48762696981157,
+                  -354.4579124450697,
+                  1
+                ]
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "fontMultiplier": 4.25,
+              "backgroundColor": "#FFCC00",
+              "text": {
+                "color": "#000000"
+              },
+              "fontFamily": "Sans"
+            },
+            "position": [
+              495.2585601806595,
+              1.0643886178642106,
+              5
+            ],
+            "parentConnector": {
+              "arrow": "to",
+              "width": 2,
+              "lineStyle": "dashed"
+            }
+          }
+        },
+        "33.5": {
           "title": "Models, migrations e controllers",
           "id": "68.9cc8.84a180229-12b7.6f6f8bb6",
           "attr": {
             "style": {
               "width": 211
-            }
+            },
+            "collapsed": true,
+            "position": [
+              363.24150085448764,
+              -78.25377239287809,
+              4
+            ]
           },
           "ideas": {
             "1": {
@@ -652,136 +805,6 @@
                 }
               }
             }
-          }
-        },
-        "51": {
-          "title": "Comandos",
-          "id": "110.c442.27838cb1-bd09.8223d82e4",
-          "ideas": {
-            "1": {
-              "title": "composer create-project laravel/laravel chirper\n\nCria projeto",
-              "id": "111.c442.27838cb1-bd09.8223d82e4",
-              "attr": {
-                "style": {
-                  "width": 912,
-                  "fontMultiplier": 1.5,
-                  "backgroundColor": "#FFCC00",
-                  "text": {
-                    "color": "#000000"
-                  },
-                  "fontFamily": "Sans"
-                }
-              },
-              "ideas": {
-                "1": {
-                  "title": "php artisan serve\n\nSobe Server",
-                  "id": "112.c442.27838cb1-bd09.8223d82e4",
-                  "attr": {
-                    "style": {
-                      "width": 198,
-                      "fontMultiplier": 1.5,
-                      "backgroundColor": "#FFCC00",
-                      "text": {
-                        "color": "#000000"
-                      },
-                      "fontFamily": "Sans"
-                    }
-                  },
-                  "ideas": {
-                    "1": {
-                      "title": "composer require laravel/breeze --dev\n\nInstala e configura as dependencias front",
-                      "id": "113.c442.27838cb1-bd09.8223d82e4",
-                      "attr": {
-                        "style": {
-                          "width": 496,
-                          "fontMultiplier": 1.5,
-                          "backgroundColor": "#FFCC00",
-                          "text": {
-                            "color": "#000000"
-                          },
-                          "fontFamily": "Sans"
-                        }
-                      },
-                      "ideas": {
-                        "1": {
-                          "title": "npm run dev\n\nVite recompila automaticamente o CSS e atualiza o browser",
-                          "id": "114.c442.27838cb1-bd09.8223d82e4",
-                          "attr": {
-                            "style": {
-                              "width": 450,
-                              "fontMultiplier": 1.5,
-                              "backgroundColor": "#FFCC00",
-                              "text": {
-                                "color": "#000000"
-                              },
-                              "fontFamily": "Sans"
-                            }
-                          },
-                          "ideas": {
-                            "1": {
-                              "title": "php artisan migrate\n\nRoda migrations",
-                              "id": "116.c442.27838cb1-bd09.8223d82e4",
-                              "attr": {
-                                "style": {
-                                  "width": 356,
-                                  "fontMultiplier": 1.5,
-                                  "backgroundColor": "#FFCC00",
-                                  "text": {
-                                    "color": "#000000"
-                                  },
-                                  "fontFamily": "Sans"
-                                }
-                              },
-                              "ideas": {
-                                "1": {
-                                  "title": "php artisan make:model -mrc Chirp\n\nCria Model, Migration e Controller Chirps",
-                                  "id": "117.c442.27838cb1-bd09.8223d82e4",
-                                  "attr": {
-                                    "style": {
-                                      "width": 404,
-                                      "fontMultiplier": 1.5,
-                                      "backgroundColor": "#FFCC00",
-                                      "text": {
-                                        "color": "#000000"
-                                      },
-                                      "fontFamily": "Sans"
-                                    }
-                                  }
-                                },
-                                "2": {
-                                  "title": "php artisan make:model --help\n\nVer todas opções",
-                                  "id": "118.c442.27838cb1-bd09.8223d82e4",
-                                  "attr": {
-                                    "style": {
-                                      "width": 240
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          },
-          "attr": {
-            "style": {
-              "fontMultiplier": 4.25,
-              "backgroundColor": "#FFCC00",
-              "text": {
-                "color": "#000000"
-              },
-              "fontFamily": "Sans"
-            },
-            "position": [
-              520.2708569169026,
-              39.9255298226999,
-              1
-            ]
           }
         }
       }
