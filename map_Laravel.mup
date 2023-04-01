@@ -267,8 +267,8 @@
       "id": "50.7863.2c23ae0b3-0055.db5a2d0a5",
       "attr": {
         "position": [
-          2327,
-          -798,
+          2349,
+          -782,
           1
         ],
         "style": {
@@ -471,11 +471,11 @@
                               },
                               "ideas": {
                                 "1": {
-                                  "title": "Cria Model, Migration e Controller Chirps",
+                                  "title": "Criar:\nModel\nMigration\nController ",
                                   "id": "117.c442.27838cb1-bd09.8223d82e4",
                                   "attr": {
                                     "style": {
-                                      "width": 404,
+                                      "width": 118,
                                       "fontMultiplier": 1.5,
                                       "backgroundColor": "#FFCC00",
                                       "text": {
@@ -484,8 +484,8 @@
                                       "fontFamily": "Sans"
                                     },
                                     "position": [
-                                      272.24403381347565,
-                                      36.59088134765625,
+                                      309.7441101074219,
+                                      -38.06808471679676,
                                       2
                                     ]
                                   },
@@ -503,15 +503,20 @@
                                           1
                                         ]
                                       }
-                                    }
-                                  }
-                                },
-                                "2": {
-                                  "title": "php artisan make:model --help\n\nVer todas opções",
-                                  "id": "118.c442.27838cb1-bd09.8223d82e4",
-                                  "attr": {
-                                    "style": {
-                                      "width": 240
+                                    },
+                                    "2": {
+                                      "title": "Ver todas opções\n\nphp artisan make:model --help",
+                                      "id": "126.bbad.e1288ccf2-e080.1b023fe74",
+                                      "attr": {
+                                        "style": {
+                                          "width": 215
+                                        },
+                                        "position": [
+                                          279.9999237060547,
+                                          -265.9801483154297,
+                                          2
+                                        ]
+                                      }
                                     }
                                   }
                                 },
@@ -619,8 +624,8 @@
               "fontFamily": "Sans"
             },
             "position": [
-              456.5084838867142,
-              -3.1401707083076644,
+              460.24739074706577,
+              -17.109073296198403,
               5
             ],
             "parentConnector": {
@@ -937,5 +942,6 @@
   "attr": {
     "theme": "simplestraight"
   },
-  "title": ""
+  "title": "",
+  "links": []
 }
