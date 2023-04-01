@@ -384,8 +384,8 @@
                   "fontFamily": "Sans"
                 },
                 "position": [
-                  193.50852966308594,
-                  40.14198303222645,
+                  471.00868225097656,
+                  32.52826690673817,
                   2
                 ]
               },
@@ -395,7 +395,7 @@
                   "id": "112.c442.27838cb1-bd09.8223d82e4",
                   "attr": {
                     "style": {
-                      "width": 300,
+                      "width": 226,
                       "fontMultiplier": 2.25,
                       "backgroundColor": "#FFCC00",
                       "text": {
@@ -404,25 +404,30 @@
                       "fontFamily": "Sans"
                     },
                     "position": [
-                      238.9916229248047,
-                      6.2926483154296875,
-                      2
+                      410.2271270751944,
+                      2.4289321899414062,
+                      4
                     ]
                   },
                   "ideas": {
                     "1": {
-                      "title": "composer require laravel/breeze --dev\n\nInstala e configura as dependencias front",
+                      "title": "Instala e configura as\ndependencias front",
                       "id": "113.c442.27838cb1-bd09.8223d82e4",
                       "attr": {
                         "style": {
-                          "width": 496,
-                          "fontMultiplier": 1.5,
+                          "width": 245,
+                          "fontMultiplier": 1.75,
                           "backgroundColor": "#FFCC00",
                           "text": {
                             "color": "#000000"
                           },
                           "fontFamily": "Sans"
-                        }
+                        },
+                        "position": [
+                          383.2386016845703,
+                          -24.559707641601562,
+                          2
+                        ]
                       },
                       "ideas": {
                         "1": {
@@ -482,7 +487,22 @@
                               }
                             }
                           }
+                        },
+                        "2": {
+                          "title": "composer require laravel/breeze --dev",
+                          "id": "121.bbad.e1288ccf2-e080.1b023fe74"
                         }
+                      }
+                    },
+                    "0.5": {
+                      "title": "php artisan serve",
+                      "id": "120.bbad.e1288ccf2-e080.1b023fe74",
+                      "attr": {
+                        "position": [
+                          215.73867797851562,
+                          -359.4461059570308,
+                          1
+                        ]
                       }
                     }
                   }
@@ -495,9 +515,9 @@
                       "width": 320
                     },
                     "position": [
-                      171.49154663085938,
-                      -242.23011016845703,
-                      1
+                      241.49139404296875,
+                      -416.20742797851517,
+                      3
                     ]
                   }
                 }
