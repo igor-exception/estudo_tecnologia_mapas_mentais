@@ -477,7 +477,25 @@
                                                   "ideas": {
                                                     "1": {
                                                       "title": "Laravel tem uma forma poderosa de validação, usando pipe para separar",
-                                                      "id": "168.bbad.e1288ccf2-e080.1b023fe74"
+                                                      "id": "168.bbad.e1288ccf2-e080.1b023fe74",
+                                                      "attr": {
+                                                        "position": [
+                                                          721.0504531860352,
+                                                          -65.09950160980225,
+                                                          1
+                                                        ]
+                                                      }
+                                                    },
+                                                    "2": {
+                                                      "title": "Vincula User com Chirps",
+                                                      "id": "169.bbad.e1288ccf2-e080.1b023fe74",
+                                                      "attr": {
+                                                        "position": [
+                                                          700.7379531860352,
+                                                          366.90332889556885,
+                                                          2
+                                                        ]
+                                                      }
                                                     }
                                                   }
                                                 }
