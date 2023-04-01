@@ -524,7 +524,7 @@
                           "id": "89.9cc8.84a180229-12b7.6f6f8bb6",
                           "ideas": {
                             "1": {
-                              "title": "Ex: caso para acessar determinada página precise de autenticação, posso adicionar um middleware para analisar. Caso o user não esteja autenticado, redireciona para página de Login.\n\nCaso esteja autenticado, libera ir para determinada página",
+                              "title": "Ex: caso para acessar determinada página precise de autenticação, posso adicionar um middleware para analisar. Caso o user não esteja autenticado, redireciona para página de Login.\n\nCaso esteja autenticado, libera ir para página requisitada",
                               "id": "90.9cc8.84a180229-12b7.6f6f8bb6",
                               "attr": {
                                 "style": {
