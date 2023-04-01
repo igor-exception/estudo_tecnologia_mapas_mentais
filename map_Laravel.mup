@@ -663,8 +663,13 @@
               "id": "111.c442.27838cb1-bd09.8223d82e4",
               "attr": {
                 "style": {
-                  "width": 358,
-                  "fontMultiplier": 1.5
+                  "width": 552,
+                  "fontMultiplier": 1.5,
+                  "backgroundColor": "#FFCC00",
+                  "text": {
+                    "color": "#000000"
+                  },
+                  "fontFamily": "Sans"
                 }
               },
               "ideas": {
@@ -674,7 +679,12 @@
                   "attr": {
                     "style": {
                       "width": 198,
-                      "fontMultiplier": 1.5
+                      "fontMultiplier": 1.5,
+                      "backgroundColor": "#FFCC00",
+                      "text": {
+                        "color": "#000000"
+                      },
+                      "fontFamily": "Sans"
                     }
                   },
                   "ideas": {
@@ -683,8 +693,13 @@
                       "id": "113.c442.27838cb1-bd09.8223d82e4",
                       "attr": {
                         "style": {
-                          "width": 299,
-                          "fontMultiplier": 1.5
+                          "width": 496,
+                          "fontMultiplier": 1.5,
+                          "backgroundColor": "#FFCC00",
+                          "text": {
+                            "color": "#000000"
+                          },
+                          "fontFamily": "Sans"
                         }
                       },
                       "ideas": {
@@ -694,7 +709,12 @@
                           "attr": {
                             "style": {
                               "width": 450,
-                              "fontMultiplier": 1.5
+                              "fontMultiplier": 1.5,
+                              "backgroundColor": "#FFCC00",
+                              "text": {
+                                "color": "#000000"
+                              },
+                              "fontFamily": "Sans"
                             }
                           },
                           "ideas": {
@@ -704,7 +724,12 @@
                               "attr": {
                                 "style": {
                                   "width": 356,
-                                  "fontMultiplier": 1.5
+                                  "fontMultiplier": 1.5,
+                                  "backgroundColor": "#FFCC00",
+                                  "text": {
+                                    "color": "#000000"
+                                  },
+                                  "fontFamily": "Sans"
                                 }
                               },
                               "ideas": {
@@ -714,7 +739,12 @@
                                   "attr": {
                                     "style": {
                                       "width": 404,
-                                      "fontMultiplier": 1.5
+                                      "fontMultiplier": 1.5,
+                                      "backgroundColor": "#FFCC00",
+                                      "text": {
+                                        "color": "#000000"
+                                      },
+                                      "fontFamily": "Sans"
                                     }
                                   }
                                 },
@@ -740,7 +770,12 @@
           },
           "attr": {
             "style": {
-              "fontMultiplier": 1.5
+              "fontMultiplier": 4.25,
+              "backgroundColor": "#FFCC00",
+              "text": {
+                "color": "#000000"
+              },
+              "fontFamily": "Sans"
             }
           }
         }
