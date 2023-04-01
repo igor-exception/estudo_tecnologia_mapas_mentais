@@ -431,18 +431,23 @@
                       },
                       "ideas": {
                         "1": {
-                          "title": "npm run dev\n\nVite recompila automaticamente o CSS e atualiza o browser",
+                          "title": "Subir server de recompilação\nde CSS(vite)",
                           "id": "114.c442.27838cb1-bd09.8223d82e4",
                           "attr": {
                             "style": {
-                              "width": 450,
-                              "fontMultiplier": 1.5,
+                              "width": 284,
+                              "fontMultiplier": 1.75,
                               "backgroundColor": "#FFCC00",
                               "text": {
                                 "color": "#000000"
                               },
                               "fontFamily": "Sans"
-                            }
+                            },
+                            "position": [
+                              364.7444915771475,
+                              -37.116508483886605,
+                              2
+                            ]
                           },
                           "ideas": {
                             "1": {
@@ -485,12 +490,37 @@
                                   }
                                 }
                               }
+                            },
+                            "2": {
+                              "title": "Vite recompila automaticamente o CSS e atualiza o browser",
+                              "id": "123.bbad.e1288ccf2-e080.1b023fe74"
+                            },
+                            "0.5": {
+                              "title": "npm run dev",
+                              "id": "122.bbad.e1288ccf2-e080.1b023fe74",
+                              "attr": {
+                                "position": [
+                                  301.2498474121094,
+                                  -134.4459915161134,
+                                  1
+                                ]
+                              }
                             }
                           }
                         },
-                        "2": {
+                        "0.5": {
                           "title": "composer require laravel/breeze --dev",
-                          "id": "121.bbad.e1288ccf2-e080.1b023fe74"
+                          "id": "121.bbad.e1288ccf2-e080.1b023fe74",
+                          "attr": {
+                            "style": {
+                              "width": 257
+                            },
+                            "position": [
+                              83.49433898925781,
+                              -279.7300720214839,
+                              1
+                            ]
+                          }
                         }
                       }
                     },
