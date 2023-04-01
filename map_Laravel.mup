@@ -673,9 +673,40 @@
                                                             }
                                                           }
                                                         },
-                                                        "2": {
-                                                          "title": "",
-                                                          "id": "186.bbad.e1288ccf2-e080.1b023fe74"
+                                                        "0.5": {
+                                                          "title": "Usando o Artisan Tinker",
+                                                          "id": "186.bbad.e1288ccf2-e080.1b023fe74",
+                                                          "attr": {
+                                                            "position": [
+                                                              734.9294185638428,
+                                                              -12.059593200683594,
+                                                              2
+                                                            ],
+                                                            "style": {
+                                                              "fontMultiplier": 2.25,
+                                                              "backgroundColor": "#FFCC00",
+                                                              "text": {
+                                                                "color": "#000000"
+                                                              }
+                                                            }
+                                                          },
+                                                          "ideas": {
+                                                            "1": {
+                                                              "title": "No terminal, rodar?\n\nphp artisan tinker",
+                                                              "id": "187.bbad.e1288ccf2-e080.1b023fe74",
+                                                              "attr": {
+                                                                "position": [
+                                                                  198.55084419250488,
+                                                                  -290.3266906738281,
+                                                                  1
+                                                                ]
+                                                              }
+                                                            },
+                                                            "2": {
+                                                              "title": "",
+                                                              "id": "188.bbad.e1288ccf2-e080.1b023fe74"
+                                                            }
+                                                          }
                                                         }
                                                       }
                                                     }
