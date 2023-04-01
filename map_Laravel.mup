@@ -441,12 +441,12 @@
                                           "id": "163.bbad.e1288ccf2-e080.1b023fe74",
                                           "attr": {
                                             "position": [
-                                              323.686146736145,
-                                              60.08496284484863,
+                                              351.8105745315552,
+                                              49.04799461364746,
                                               4
                                             ],
                                             "style": {
-                                              "fontMultiplier": 3,
+                                              "fontMultiplier": 3.25,
                                               "backgroundColor": "#FFCC00",
                                               "text": {
                                                 "color": "#000000"
