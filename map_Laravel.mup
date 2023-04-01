@@ -593,11 +593,14 @@
                                                           -547.8265285491943,
                                                           1
                                                         ]
+                                                      },
+                                                      "ideas": {
+                                                        "1": {
+                                                          "title": "O Mass Assignment é útil para fazer grandes inserções de dados, mas pode ser perigoso. Neste caso liberamos para campos específicos",
+                                                          "id": "176.bbad.e1288ccf2-e080.1b023fe74",
+                                                          "attr": {}
+                                                        }
                                                       }
-                                                    },
-                                                    "2": {
-                                                      "title": "",
-                                                      "id": "176.bbad.e1288ccf2-e080.1b023fe74"
                                                     }
                                                   }
                                                 }
