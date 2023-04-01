@@ -696,15 +696,33 @@
                                                               "id": "187.bbad.e1288ccf2-e080.1b023fe74",
                                                               "attr": {
                                                                 "position": [
-                                                                  198.55084419250488,
-                                                                  -290.3266906738281,
-                                                                  1
+                                                                  168.86334419250488,
+                                                                  -412.3011350631714,
+                                                                  3
                                                                 ]
                                                               }
                                                             },
                                                             "2": {
-                                                              "title": "",
-                                                              "id": "188.bbad.e1288ccf2-e080.1b023fe74"
+                                                              "title": "É um REPL (Read Eval Pinrt Loop), ele carrega a aplicação e podemos rodar código para rodar codigo ou buscar infos",
+                                                              "id": "188.bbad.e1288ccf2-e080.1b023fe74",
+                                                              "attr": {
+                                                                "position": [
+                                                                  223.55055809020996,
+                                                                  -326.9317865371704,
+                                                                  4
+                                                                ]
+                                                              }
+                                                            },
+                                                            "3": {
+                                                              "title": "Importante, precisei atualizar o autoload:\n\ncomposer dump-autoload",
+                                                              "id": "189.bbad.e1288ccf2-e080.1b023fe74",
+                                                              "attr": {
+                                                                "position": [
+                                                                  178.23805809020996,
+                                                                  239.4176483154297,
+                                                                  5
+                                                                ]
+                                                              }
                                                             }
                                                           }
                                                         }
