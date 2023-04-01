@@ -276,58 +276,6 @@
         }
       },
       "ideas": {
-        "21": {
-          "title": "Instalar o Breeze, autenticador completo. Ja possui:\n> esqueci a senha\n> registro\n> login\netc..",
-          "id": "54.7863.2c23ae0b3-0055.db5a2d0a5",
-          "ideas": {
-            "1": {
-              "title": "composer require laravel/breeze --dev",
-              "id": "55.7863.2c23ae0b3-0055.db5a2d0a5",
-              "attr": {
-                "style": {
-                  "width": 274
-                },
-                "collapsed": true
-              },
-              "ideas": {
-                "1": {
-                  "title": "Podemos definir qual será o front do breeze, usando Blade (template default) ou outro framework front, como Vue, Inertia ou React",
-                  "id": "57.7863.2c23ae0b3-0055.db5a2d0a5"
-                },
-                "3": {
-                  "title": "Instalar e configurar o blade",
-                  "id": "60.9cc8.84a180229-12b7.6f6f8bb6",
-                  "ideas": {
-                    "1": {
-                      "title": "php artisan breeze:install blade",
-                      "id": "61.9cc8.84a180229-12b7.6f6f8bb6",
-                      "attr": {
-                        "style": {
-                          "width": 257
-                        }
-                      }
-                    }
-                  }
-                },
-                "4": {
-                  "title": "Executa o script dev, que fica no package.json",
-                  "id": "62.9cc8.84a180229-12b7.6f6f8bb6",
-                  "ideas": {
-                    "1": {
-                      "title": "npm run dev",
-                      "id": "63.9cc8.84a180229-12b7.6f6f8bb6"
-                    },
-                    "2": {
-                      "title": "O Breeze usa o Vite.js, que é um servidor de desenvolvimento que recompila o CSS, ele também atualiza o navegador automaticamente quando fazemos mudanças no front",
-                      "id": "58.9cc8.84a180229-12b7.6f6f8bb6",
-                      "attr": {}
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
         "36": {
           "title": "Info",
           "id": "110.c442.27838cb1-bd09.8223d82e4",
@@ -394,9 +342,9 @@
                               "fontFamily": "Sans"
                             },
                             "position": [
-                              215.87743992676315,
-                              -55.00014670380153,
-                              1
+                              335.1257599999999,
+                              14.058560000000284,
+                              3
                             ]
                           },
                           "ideas": {
@@ -882,17 +830,86 @@
                                   -279.7300720214839,
                                   1
                                 ]
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "Podemos definir qual será o front do breeze, usando Blade (template default) ou outro framework front, como Vue, Inertia ou React",
+                                  "id": "57.7863.2c23ae0b3-0055.db5a2d0a5",
+                                  "attr": {}
+                                },
+                                "2": {
+                                  "title": "Instalar e configurar o blade",
+                                  "id": "60.9cc8.84a180229-12b7.6f6f8bb6",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "php artisan breeze:install blade",
+                                      "id": "61.9cc8.84a180229-12b7.6f6f8bb6",
+                                      "attr": {
+                                        "style": {
+                                          "width": 257
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "attr": {}
+                                },
+                                "3": {
+                                  "title": "Executa o script dev, que fica no package.json",
+                                  "id": "62.9cc8.84a180229-12b7.6f6f8bb6",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "npm run dev",
+                                      "id": "63.9cc8.84a180229-12b7.6f6f8bb6"
+                                    },
+                                    "2": {
+                                      "title": "O Breeze usa o Vite.js, que é um servidor de desenvolvimento que recompila o CSS, ele também atualiza o navegador automaticamente quando fazemos mudanças no front",
+                                      "id": "58.9cc8.84a180229-12b7.6f6f8bb6",
+                                      "attr": {}
+                                    }
+                                  },
+                                  "attr": {}
+                                }
                               }
                             }
+                          }
+                        },
+                        "0.5": {
+                          "title": "Instalar o Breeze, autenticador completo. Ja possui:\n> esqueci a senha\n> registro\n> login\netc..",
+                          "id": "54.7863.2c23ae0b3-0055.db5a2d0a5",
+                          "ideas": {
+                            "1": {
+                              "title": "composer require laravel/breeze --dev",
+                              "id": "55.7863.2c23ae0b3-0055.db5a2d0a5",
+                              "attr": {
+                                "style": {
+                                  "width": 274
+                                }
+                              },
+                              "ideas": {}
+                            }
+                          },
+                          "attr": {
+                            "position": [
+                              132.67151999999987,
+                              -578.6688800000001,
+                              2
+                            ]
                           }
                         }
                       },
                       "attr": {
                         "position": [
-                          279.5135999267636,
-                          32.99985329619892,
+                          329.2995199267634,
+                          -20.434626703801314,
                           2
-                        ]
+                        ],
+                        "style": {
+                          "backgroundColor": "#FFCC00",
+                          "text": {
+                            "color": "#000000"
+                          },
+                          "fontMultiplier": 1.75
+                        }
                       }
                     },
                     "0.5": {
