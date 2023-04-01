@@ -564,8 +564,8 @@
                                                   "id": "174.bbad.e1288ccf2-e080.1b023fe74",
                                                   "attr": {
                                                     "position": [
-                                                      481.3067436218262,
-                                                      15.994453430175781,
+                                                      490.6818389892578,
+                                                      25.170516967773438,
                                                       4
                                                     ],
                                                     "style": {
@@ -589,9 +589,9 @@
                                                           "metaData": {}
                                                         },
                                                         "position": [
-                                                          303.9341926574707,
-                                                          -547.8265285491943,
-                                                          1
+                                                          355.4972171783447,
+                                                          -691.6760444641113,
+                                                          3
                                                         ]
                                                       },
                                                       "ideas": {
@@ -599,6 +599,24 @@
                                                           "title": "O Mass Assignment é útil para fazer grandes inserções de dados, mas pode ser perigoso. Neste caso liberamos para campos específicos",
                                                           "id": "176.bbad.e1288ccf2-e080.1b023fe74",
                                                           "attr": {}
+                                                        }
+                                                      }
+                                                    },
+                                                    "2": {
+                                                      "title": "Criando tabelas",
+                                                      "id": "181.bbad.e1288ccf2-e080.1b023fe74",
+                                                      "attr": {
+                                                        "position": [
+                                                          619.5593357086182,
+                                                          96.44889831542969,
+                                                          2
+                                                        ],
+                                                        "style": {
+                                                          "fontMultiplier": 3,
+                                                          "backgroundColor": "#FFCC00",
+                                                          "text": {
+                                                            "color": "#000000"
+                                                          }
                                                         }
                                                       }
                                                     }
