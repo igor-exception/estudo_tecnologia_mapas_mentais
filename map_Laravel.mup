@@ -223,7 +223,7 @@
       "attr": {
         "position": [
           1429,
-          -628,
+          120,
           1
         ]
       }
@@ -656,7 +656,35 @@
         },
         "51": {
           "title": "Comandos",
-          "id": "110.c442.27838cb1-bd09.8223d82e4"
+          "id": "110.c442.27838cb1-bd09.8223d82e4",
+          "ideas": {
+            "1": {
+              "title": "composer create-project laravel/laravel chirper\n\nCria projeto",
+              "id": "111.c442.27838cb1-bd09.8223d82e4",
+              "attr": {
+                "style": {
+                  "width": 358
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "php artisan serve\n\nSobe Server",
+                  "id": "112.c442.27838cb1-bd09.8223d82e4",
+                  "attr": {
+                    "style": {
+                      "width": 198
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "",
+                      "id": "113.c442.27838cb1-bd09.8223d82e4"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
