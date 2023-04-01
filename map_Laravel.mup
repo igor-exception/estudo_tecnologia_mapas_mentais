@@ -342,8 +342,8 @@
                               "fontFamily": "Sans"
                             },
                             "position": [
-                              335.1257599999999,
-                              14.058560000000284,
+                              348.22528000000057,
+                              -6.765600000000518,
                               3
                             ]
                           },
@@ -362,9 +362,9 @@
                                   "fontFamily": "Sans"
                                 },
                                 "position": [
-                                  364.7444915771475,
-                                  -37.116508483886605,
-                                  2
+                                  820.8515199999993,
+                                  -28.985480000000052,
+                                  4
                                 ]
                               },
                               "ideas": {
@@ -382,8 +382,8 @@
                                       "fontFamily": "Sans"
                                     },
                                     "position": [
-                                      401.2501525878906,
-                                      26.420478820800668,
+                                      727.6075200000005,
+                                      14.91668000000027,
                                       3
                                     ]
                                   },
@@ -402,8 +402,8 @@
                                           "fontFamily": "Sans"
                                         },
                                         "position": [
-                                          356.1464340771545,
-                                          -41.55888939911438,
+                                          755.9144074121095,
+                                          -38.780838820800795,
                                           10
                                         ]
                                       },
@@ -826,9 +826,9 @@
                                   "width": 257
                                 },
                                 "position": [
-                                  83.49433898925781,
-                                  -279.7300720214839,
-                                  1
+                                  270.9863999999998,
+                                  -958.5603200000005,
+                                  3
                                 ]
                               },
                               "ideas": {
@@ -874,20 +874,9 @@
                           }
                         },
                         "0.5": {
-                          "title": "Instalar o Breeze, autenticador completo. Ja possui:\n> esqueci a senha\n> registro\n> login\netc..",
+                          "title": "Instalar o Breeze,\n\nÉ autenticador completo. Ja possui:\n\n> esqueci a senha\n> registro\n> login\netc..",
                           "id": "54.7863.2c23ae0b3-0055.db5a2d0a5",
-                          "ideas": {
-                            "1": {
-                              "title": "composer require laravel/breeze --dev",
-                              "id": "55.7863.2c23ae0b3-0055.db5a2d0a5",
-                              "attr": {
-                                "style": {
-                                  "width": 274
-                                }
-                              },
-                              "ideas": {}
-                            }
-                          },
+                          "ideas": {},
                           "attr": {
                             "position": [
                               132.67151999999987,
