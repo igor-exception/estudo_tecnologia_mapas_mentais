@@ -473,7 +473,13 @@
                                                       1
                                                     ]
                                                   },
-                                                  "id": "167.bbad.e1288ccf2-e080.1b023fe74"
+                                                  "id": "167.bbad.e1288ccf2-e080.1b023fe74",
+                                                  "ideas": {
+                                                    "1": {
+                                                      "title": "Laravel tem uma forma poderosa de validação, usando pipe para separar",
+                                                      "id": "168.bbad.e1288ccf2-e080.1b023fe74"
+                                                    }
+                                                  }
                                                 }
                                               },
                                               "id": "166.bbad.e1288ccf2-e080.1b023fe74",
