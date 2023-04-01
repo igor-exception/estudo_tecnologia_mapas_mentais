@@ -639,7 +639,7 @@
                                                           },
                                                           "ideas": {
                                                             "1": {
-                                                              "title": "php artisan migrate",
+                                                              "title": "php artisan migrate\n\nRodar migrate para criar tabela",
                                                               "id": "183.bbad.e1288ccf2-e080.1b023fe74"
                                                             }
                                                           }
