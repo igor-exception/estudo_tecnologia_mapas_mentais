@@ -272,7 +272,7 @@
           1
         ],
         "style": {
-          "fontMultiplier": 4.25
+          "fontMultiplier": 3
         }
       },
       "ideas": {
@@ -664,7 +664,7 @@
               "attr": {
                 "style": {
                   "width": 912,
-                  "fontMultiplier": 2.25,
+                  "fontMultiplier": 1.5,
                   "backgroundColor": "#FFCC00",
                   "text": {
                     "color": "#000000"
@@ -679,7 +679,7 @@
                   "attr": {
                     "style": {
                       "width": 198,
-                      "fontMultiplier": 2.25,
+                      "fontMultiplier": 1.5,
                       "backgroundColor": "#FFCC00",
                       "text": {
                         "color": "#000000"
@@ -694,7 +694,7 @@
                       "attr": {
                         "style": {
                           "width": 496,
-                          "fontMultiplier": 2.25,
+                          "fontMultiplier": 1.5,
                           "backgroundColor": "#FFCC00",
                           "text": {
                             "color": "#000000"
@@ -709,7 +709,7 @@
                           "attr": {
                             "style": {
                               "width": 450,
-                              "fontMultiplier": 2.25,
+                              "fontMultiplier": 1.5,
                               "backgroundColor": "#FFCC00",
                               "text": {
                                 "color": "#000000"
@@ -724,7 +724,7 @@
                               "attr": {
                                 "style": {
                                   "width": 356,
-                                  "fontMultiplier": 2.25,
+                                  "fontMultiplier": 1.5,
                                   "backgroundColor": "#FFCC00",
                                   "text": {
                                     "color": "#000000"
@@ -739,7 +739,7 @@
                                   "attr": {
                                     "style": {
                                       "width": 404,
-                                      "fontMultiplier": 2.25,
+                                      "fontMultiplier": 1.5,
                                       "backgroundColor": "#FFCC00",
                                       "text": {
                                         "color": "#000000"
@@ -770,7 +770,7 @@
           },
           "attr": {
             "style": {
-              "fontMultiplier": 5,
+              "fontMultiplier": 4.25,
               "backgroundColor": "#FFCC00",
               "text": {
                 "color": "#000000"
