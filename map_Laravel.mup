@@ -14,7 +14,7 @@
           "metaData": {}
         },
         "position": [
-          -237,
+          -403,
           -1150,
           1
         ],
@@ -222,7 +222,7 @@
       },
       "attr": {
         "position": [
-          1429,
+          1270,
           163,
           1
         ]
@@ -256,7 +256,7 @@
       },
       "attr": {
         "position": [
-          -887,
+          -1053,
           -647,
           1
         ]
@@ -663,7 +663,8 @@
               "id": "111.c442.27838cb1-bd09.8223d82e4",
               "attr": {
                 "style": {
-                  "width": 358
+                  "width": 358,
+                  "fontMultiplier": 1.5
                 }
               },
               "ideas": {
@@ -672,7 +673,8 @@
                   "id": "112.c442.27838cb1-bd09.8223d82e4",
                   "attr": {
                     "style": {
-                      "width": 198
+                      "width": 198,
+                      "fontMultiplier": 1.5
                     }
                   },
                   "ideas": {
@@ -681,7 +683,8 @@
                       "id": "113.c442.27838cb1-bd09.8223d82e4",
                       "attr": {
                         "style": {
-                          "width": 299
+                          "width": 299,
+                          "fontMultiplier": 1.5
                         }
                       },
                       "ideas": {
@@ -690,18 +693,39 @@
                           "id": "114.c442.27838cb1-bd09.8223d82e4",
                           "attr": {
                             "style": {
-                              "width": 269
+                              "width": 450,
+                              "fontMultiplier": 1.5
                             }
                           },
                           "ideas": {
                             "1": {
                               "title": "php artisan migrate\n\nRoda migrations",
                               "id": "116.c442.27838cb1-bd09.8223d82e4",
-                              "attr": {},
+                              "attr": {
+                                "style": {
+                                  "width": 356,
+                                  "fontMultiplier": 1.5
+                                }
+                              },
                               "ideas": {
                                 "1": {
-                                  "title": "",
-                                  "id": "117.c442.27838cb1-bd09.8223d82e4"
+                                  "title": "php artisan make:model -mrc Chirp\n\nCria Cria Model, Migration e Controller Chirps",
+                                  "id": "117.c442.27838cb1-bd09.8223d82e4",
+                                  "attr": {
+                                    "style": {
+                                      "width": 404,
+                                      "fontMultiplier": 1.5
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "title": "php artisan make:model --help\n\nVer todas opções",
+                                  "id": "118.c442.27838cb1-bd09.8223d82e4",
+                                  "attr": {
+                                    "style": {
+                                      "width": 240
+                                    }
+                                  }
                                 }
                               }
                             }
@@ -712,6 +736,11 @@
                   }
                 }
               }
+            }
+          },
+          "attr": {
+            "style": {
+              "fontMultiplier": 1.5
             }
           }
         }
