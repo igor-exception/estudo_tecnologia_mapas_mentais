@@ -508,6 +508,25 @@
                                                   1
                                                 ]
                                               }
+                                            },
+                                            "3": {
+                                              "title": "Relação entre classes",
+                                              "id": "170.bbad.e1288ccf2-e080.1b023fe74",
+                                              "attr": {
+                                                "position": [
+                                                  496.98853492736816,
+                                                  -18.167686462402344,
+                                                  2
+                                                ],
+                                                "style": {
+                                                  "fontMultiplier": 2.5,
+                                                  "width": 185,
+                                                  "backgroundColor": "#FFCC00",
+                                                  "text": {
+                                                    "color": "#000000"
+                                                  }
+                                                }
+                                              }
                                             }
                                           }
                                         },
