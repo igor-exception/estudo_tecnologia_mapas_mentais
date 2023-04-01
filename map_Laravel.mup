@@ -734,7 +734,7 @@
                               },
                               "ideas": {
                                 "1": {
-                                  "title": "php artisan make:model -mrc Chirp\n\nCria Cria Model, Migration e Controller Chirps",
+                                  "title": "php artisan make:model -mrc Chirp\n\nCria Model, Migration e Controller Chirps",
                                   "id": "117.c442.27838cb1-bd09.8223d82e4",
                                   "attr": {
                                     "style": {
