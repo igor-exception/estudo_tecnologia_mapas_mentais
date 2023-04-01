@@ -14,7 +14,7 @@
           "metaData": {}
         },
         "position": [
-          -206,
+          -237,
           -1150,
           1
         ],
@@ -223,7 +223,7 @@
       "attr": {
         "position": [
           1429,
-          120,
+          163,
           1
         ]
       }
@@ -256,7 +256,7 @@
       },
       "attr": {
         "position": [
-          -883,
+          -887,
           -647,
           1
         ]
@@ -677,8 +677,37 @@
                   },
                   "ideas": {
                     "1": {
-                      "title": "",
-                      "id": "113.c442.27838cb1-bd09.8223d82e4"
+                      "title": "composer require laravel/breeze --dev\n\nInstala e configura as dependencias front",
+                      "id": "113.c442.27838cb1-bd09.8223d82e4",
+                      "attr": {
+                        "style": {
+                          "width": 299
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "npm run dev\n\nVite recompila automaticamente o CSS e atualiza o browser",
+                          "id": "114.c442.27838cb1-bd09.8223d82e4",
+                          "attr": {
+                            "style": {
+                              "width": 269
+                            }
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "php artisan migrate\n\nRoda migrations",
+                              "id": "116.c442.27838cb1-bd09.8223d82e4",
+                              "attr": {},
+                              "ideas": {
+                                "1": {
+                                  "title": "",
+                                  "id": "117.c442.27838cb1-bd09.8223d82e4"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
                     }
                   }
                 }
