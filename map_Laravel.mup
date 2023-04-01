@@ -371,12 +371,12 @@
           "id": "110.c442.27838cb1-bd09.8223d82e4",
           "ideas": {
             "1": {
-              "title": "composer create-project laravel/laravel chirper\n\nCria projeto",
+              "title": "Criar projeto",
               "id": "111.c442.27838cb1-bd09.8223d82e4",
               "attr": {
                 "style": {
-                  "width": 912,
-                  "fontMultiplier": 1.5,
+                  "width": 203,
+                  "fontMultiplier": 2.5,
                   "backgroundColor": "#FFCC00",
                   "text": {
                     "color": "#000000"
@@ -384,8 +384,8 @@
                   "fontFamily": "Sans"
                 },
                 "position": [
-                  254.76049989461626,
-                  -13.94651412964049,
+                  193.50852966308594,
+                  40.14198303222645,
                   2
                 ]
               },
@@ -481,6 +481,10 @@
                       }
                     }
                   }
+                },
+                "2": {
+                  "title": "composer create-project laravel/laravel chirper",
+                  "id": "119.bbad.e1288ccf2-e080.1b023fe74"
                 }
               }
             },
@@ -506,8 +510,8 @@
               "fontFamily": "Sans"
             },
             "position": [
-              495.2585601806595,
-              1.0643886178642106,
+              456.5084838867142,
+              -3.1401707083076644,
               5
             ],
             "parentConnector": {
