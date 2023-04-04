@@ -1427,8 +1427,22 @@
                               }
                             },
                             "5": {
-                              "title": "",
-                              "id": "215.4f0c.1653b32b5-71ca.712361f38"
+                              "title": "Ver opções",
+                              "id": "215.4f0c.1653b32b5-71ca.712361f38",
+                              "ideas": {
+                                "1": {
+                                  "title": "php artisan list",
+                                  "id": "216.4f0c.1653b32b5-71ca.712361f38"
+                                }
+                              },
+                              "attr": {
+                                "style": {
+                                  "backgroundColor": "#FF0000",
+                                  "text": {
+                                    "color": "#FFFFFF"
+                                  }
+                                }
+                              }
                             }
                           }
                         }
