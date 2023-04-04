@@ -783,6 +783,10 @@
                                                                     "1": {
                                                                       "title": "Usando o método: with do Eloquent",
                                                                       "id": "193.bbad.e1288ccf2-e080.1b023fe74"
+                                                                    },
+                                                                    "2": {
+                                                                      "title": "Usando o método latest, que é de ordenação",
+                                                                      "id": "194.4f0c.1653b32b5-71ca.712361f38"
                                                                     }
                                                                   }
                                                                 }
