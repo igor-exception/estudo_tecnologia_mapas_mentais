@@ -14,7 +14,7 @@
           "metaData": {}
         },
         "position": [
-          -403,
+          -299,
           -1034,
           1
         ],
@@ -242,22 +242,41 @@
               "attr": {
                 "style": {
                   "width": 370
-                }
+                },
+                "position": [
+                  79.82093334197998,
+                  144.24715042114258,
+                  1
+                ]
               },
               "ideas": {
                 "1": {
                   "title": "A opção create-project faz com que o composer crie o esqueleto (estrutura de pastas) do repositório laravel/laravel",
-                  "id": "9.7863.2c23ae0b3-0055.db5a2d0a5"
+                  "id": "9.7863.2c23ae0b3-0055.db5a2d0a5",
+                  "attr": {
+                    "position": [
+                      333.5026912689208,
+                      75.8096694946289,
+                      1
+                    ]
+                  }
                 }
               }
             }
+          },
+          "attr": {
+            "position": [
+              36.5681529045105,
+              97.9926166650448,
+              1
+            ]
           }
         }
       },
       "attr": {
         "position": [
-          -1053,
-          -647,
+          -1301,
+          -591,
           1
         ]
       }
