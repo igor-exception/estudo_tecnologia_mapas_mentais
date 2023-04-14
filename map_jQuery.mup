@@ -523,7 +523,14 @@
     }
   },
   "attr": {
-    "theme": "default"
+    "theme": "default",
+    "previous-atlas-export": {
+      "publishedTimestamp": 1681456654917,
+      "title": "map_jQuery.mup",
+      "description": "MindMup mind map: map_jQuery.mup",
+      "slug": "map_jquery_mup",
+      "gaClientCode": false
+    }
   },
   "title": "",
   "links": []
