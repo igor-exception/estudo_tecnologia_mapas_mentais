@@ -1890,7 +1890,14 @@
     }
   },
   "attr": {
-    "theme": "default"
+    "theme": "default",
+    "previous-atlas-export": {
+      "publishedTimestamp": 1681456492557,
+      "title": "map_Docker.mup",
+      "description": "MindMup mind map: map_Docker.mup",
+      "slug": "map_docker_mup",
+      "gaClientCode": false
+    }
   },
   "title": "",
   "links": []
