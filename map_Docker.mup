@@ -1002,8 +1002,7 @@
             ],
             "style": {
               "backgroundColor": "#FF00FF"
-            },
-            "collapsed": true
+            }
           },
           "ideas": {
             "1": {
@@ -1706,8 +1705,7 @@
               135.77169418335052,
               -5063.934522449971,
               29
-            ],
-            "collapsed": true
+            ]
           },
           "ideas": {
             "1": {
@@ -1869,7 +1867,7 @@
               },
               "ideas": {
                 "1": {
-                  "title": "Um container tem o tempo de vira apenas enquanto o processo principal estiver rodando.",
+                  "title": "Um container tem o tempo de vida apenas enquanto o processo principal estiver rodando.",
                   "id": "171.5740.c96ab4023-bc6e.81252311b",
                   "ideas": {
                     "1": {
